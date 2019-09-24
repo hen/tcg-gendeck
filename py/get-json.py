@@ -8,8 +8,9 @@ def airtable_to_json_file(id, api_key, table_name, file_name):
     # Open a connection to Airtable
     at = Airtable(id, table_name, api_key=api_key)
     cards = at.get_all()
+    data = { "records" : cards }
     json_file=open(file_name, 'w+')
-    json_file.write(json.dumps(cards, indent=2))
+    json_file.write(json.dumps(data, indent=2))
     json_file.close()
 
 # Load the airtable key from disk
