@@ -1,0 +1,4543 @@
+{
+  "records": [
+    {
+      "id": "rec01yO3GxjIE8tO6", 
+      "fields": {
+        "Name": "Tackle", 
+        "Image": [
+          {
+            "id": "attaGNrxT0oxEGSrz", 
+            "url": "https://dl.airtable.com/.attachments/7eab7ba5267a4a03fee56991fde73dc5/4bad5922/tackle.png", 
+            "filename": "tackle.png", 
+            "size": 1172197, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3be1aa8c3730b667d4908dac0490ac94/31ede614", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e0014868c7abc8d370f83263875edb59/80ebfb44", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2f3a2cba4047b96305445cc52b426388/0097be65", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Tap one of your untapped Melee characters > Tap an untapped enemy character that has the same number of [STARS] or fewer.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "073/081", 
+        "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/tackle?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:41:55.000Z"
+    }, 
+    {
+      "id": "rec02Zk3shzk3peG2", 
+      "fields": {
+        "Name": "Aerialbot Enigma", 
+        "Image": [
+          {
+            "id": "attzXeQAKH74x111s", 
+            "url": "https://dl.airtable.com/.attachments/d33582425a60e3a257d5737317f0442f/ea2fa874/aerialbotenigma.png", 
+            "filename": "aerialbotenigma.png", 
+            "size": 787465, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c889ef8ee3e0f2a2d390262fecb828cf/98b1d978", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/04717790912a3b54c596e839950db243/593bacdc", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0e19e9310b41ec269584484e414e4602/622f03e5", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you have Superion on the battlefield > Do 1 damage to each enemy.\n\nIf you have 5 Aerialbots in bot mode on the battlefield and/or in your KO area > Combine them into Superion, Sky Protector. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Combiners": [
+          "recTtAb0NJRyIfPdK"
+        ], 
+        "Card #": "001/081", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/aerialbot%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-02-08T05:57:50.000Z"
+    }, 
+    {
+      "id": "rec0NSv6cVgM5Chax", 
+      "fields": {
+        "Name": "Full Loadout", 
+        "Image": [
+          {
+            "id": "attXh2MIvKFCC2ac7", 
+            "url": "https://dl.airtable.com/.attachments/f0ebe57d00fcb215e6575fad7b7dbb08/a9e5da23/fullloadout.png", 
+            "filename": "fullloadout.png", 
+            "size": 1168437, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/efd8a9dd9a661a445d24d4b5840a56e8/fd6be7b0", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/31104d8999fcc97a70a01f6fce3ac1b1/5fc2c3e8", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9a740d5513f14b6eef51b367c70c74f5/397ec563", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Choose one of your characters. You may play a Weapon, an Armor, and a Utility onto it.\n\n(Your team and deck can have 25 [STARS] total.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 1, 
+        "Card #": "029/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-02T19:23:07.000Z"
+    }, 
+    {
+      "id": "rec0yUxOQvcajNeEb", 
+      "fields": {
+        "Name": "Rapid Ascent", 
+        "Image": [
+          {
+            "id": "att3BXfSAAUkVNN3Q", 
+            "url": "https://dl.airtable.com/.attachments/b6198e07833bfa6a29d06e795360cd85/b18983da/rapid-ascent.png", 
+            "filename": "Front Side", 
+            "size": 192130, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dbc942d77ee34f25c94875dd7a6232d0/ab736870", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c2a0ba6bd84854582884624521380e09/9b653296", 
+                "width": 499, 
+                "height": 699
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f195e9e7b50c6e0a8706805c86425828/88ab01bf", 
+                "width": 499, 
+                "height": 699
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "When you put this on a Ranged character > Your opponent chooses a card from their hand and scraps it.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "058/081", 
+        "Artist/Illustrator(s)": "Brendan Cahill", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/rapid%20ascent?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec1GXcwb0meeR5JG", 
+      "fields": {
+        "Name": "Battle Ready", 
+        "Image": [
+          {
+            "id": "atto9s40eOlEu7xXY", 
+            "url": "https://dl.airtable.com/.attachments/f4e2fc2cb7d674c0a5cadc037d1e77fa/2aafa8cc/battle-ready.png", 
+            "filename": "battle-ready.png", 
+            "size": 188331, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e2b855d391476d03611a7d9d96215fbe/56e96ade", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a5ffe278d7d99e27428a6db3bb8fbb36/2e3bb2df", 
+                "width": 512, 
+                "height": 704
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f8e5944fffb6a5f24a9ea891ec837a84/1e8e1899", 
+                "width": 516, 
+                "height": 710
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Each of your characters get +1 \u2694 until end of turn for each Upgrade on it.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "006/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/battle%20ready?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T04:38:06.000Z"
+    }, 
+    {
+      "id": "rec1Jm3H8udWk3WO2", 
+      "fields": {
+        "Name": "Ancient Wisdom", 
+        "Image": [
+          {
+            "id": "atti64xkbHpiFg2xA", 
+            "url": "https://dl.airtable.com/.attachments/f1b84c5c287d06cbfc5410b655af71a9/136a33ee/ancientwisdom.png", 
+            "filename": "ancientwisdom.png", 
+            "size": 1152074, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d976192e0f2de218e95596b05af61981/26852c52", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dcb134dd3255977b19b2abdae237088a/da91721f", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/70d476cc8378d110bf077fa27575d9a3/1f8c4033", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Scrap the top 2 cards of your deck. Put an Action and an Upgrade scrapped this way into your hand.\n\nYou may play Unleash Potential.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "003/081", 
+        "Artist/Illustrator(s)": "Sarah Stone", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/ancient-wisdom?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T07:21:40.000Z"
+    }, 
+    {
+      "id": "rec1TpSn0KYIyoUkk", 
+      "fields": {
+        "Name": "Sentinel Enigma", 
+        "Image": [
+          {
+            "id": "attNMbYg2W5BPuc7V", 
+            "url": "https://dl.airtable.com/.attachments/dba63ed70cdfb89c0b18a925c9929966/9db249fc/sentinelenigma.png", 
+            "filename": "sentinelenigma.png", 
+            "size": 824548, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6e5fbd5507f652490b98f1a01e680678/8ddbf2ba", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c52c97b1a6c060c774ebd2cbd91fd33a/dfc9454b", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a4761bf956c093ab0cec20487c6bbbe2/3402ffc2", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you have Optimus Maximus on the battlefield > Scrap an enemy Weapon or Armor.\n\nIf you have 6 Sentinels in bot mode on the battlefield and/or in your KO area > Combine them into Optimus Maximus, Ultimate Defender. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Combiners": [
+          "rec556XYMvHqKcYYh"
+        ], 
+        "Card #": "059/081", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/sentinel%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-02-08T23:41:13.000Z"
+    }, 
+    {
+      "id": "rec1X06hf5HfxzNJj", 
+      "fields": {
+        "Name": "Extra Padding", 
+        "Image": [
+          {
+            "id": "attqOEeFW8FoxkEG3", 
+            "url": "https://dl.airtable.com/.attachments/2ca8140b9e517e2ff1e6930ae7caaf37/74b903dc/extrapadding.png", 
+            "filename": "extrapadding.png", 
+            "size": 1216547, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d42adbc31ddcdb1bea10e976b717bb59/74096970", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8273c4863ece5eeeed556b3b191c2e42/934132f5", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ede1ddfadf1039bf55350a532d4770f0/829eb4d3", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Tough 1 (Flip 1 more battle card when defending.)\n\nWhen you play this on a character > You may play another Extra Padding.\n\nUp to 3 Extra Paddings can fit in 1 Armor slot.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "024/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:34:49.000Z"
+    }, 
+    {
+      "id": "rec1mUe4mzhTEdhTo", 
+      "fields": {
+        "Name": "Cooling Vents", 
+        "Image": [
+          {
+            "id": "att9dAZ9PxQfwxZiy", 
+            "url": "https://dl.airtable.com/.attachments/dc2708acb57ebbf6d4dd7885323dba52/fb687b54/coolingvents.png", 
+            "filename": "coolingvents.png", 
+            "size": 1012840, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/618d933f59905a6b8a9f768364f6e754/e72a4d56", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8cb1b9507158ed506d4a64d1f6595f6a/b47a7390", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9d102f74afb402ee3a09701af3b6e69e/50c886fa", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "When you put this on a Ranged character > Repair 1 damage from it.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "014/081", 
+        "Artist/Illustrator(s)": "Sara Pitre-Durocher", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/cooling%20vents?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:35:52.000Z"
+    }, 
+    {
+      "id": "rec1xCuT7TUWbb5Cu", 
+      "fields": {
+        "Name": "Mounted Missles", 
+        "Image": [
+          {
+            "id": "attXP1dWQAbUaetT9", 
+            "url": "https://dl.airtable.com/.attachments/87799c8914a5b47a8114b53cba050340/74e11262/mountedmissiles.png", 
+            "filename": "mountedmissiles.png", 
+            "size": 1162340, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6505d2cd8c68f72be1e4588a385afcd3/ffa275e8", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bb262cb43eac1eb807df826c9a8b4378/6bdf325e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/de59ab433ef460d01deefb8bd9be9047/ceff1887", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "This can be in an Armor or Utility slot.\n\n(Your team and deck can have 25 [STARS] total.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 1, 
+        "\u2694\ufe0f\u0394": 2, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "044/081", 
+        "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/mounted%20missles?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:38:31.000Z"
+    }, 
+    {
+      "id": "rec24ZCdDgUZshcTH", 
+      "fields": {
+        "Name": "Pincer Movement", 
+        "Image": [
+          {
+            "id": "attxHe8zUdZcr612q", 
+            "url": "https://dl.airtable.com/.attachments/917b3769417c5989c1a33ec0454814e7/277760a8/pincer-movement.png", 
+            "filename": "pincer-movement.png", 
+            "size": 1026174, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dacdab6b42575a9ff1c599511ea09990/c654c799", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e09b7a2fec25705b39cee124d00a24fb/d37d5e9d", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b0bb2281b1fb1e9ae17e40e67b2c8884/3050b1b2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Rarity": "Rare", 
+        "\u2b50": 1, 
+        "Card #": "044/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-09-19T20:42:58.000Z"
+    }, 
+    {
+      "id": "rec2Ff7LceKBrMsGQ", 
+      "fields": {
+        "Name": "Compact Shield", 
+        "Image": [
+          {
+            "id": "att5pDiCI9Ibi7nMF", 
+            "url": "https://dl.airtable.com/.attachments/ba791bbec4f0194af4de197cbf7f602e/4f2c0b81/compactshield.png", 
+            "filename": "compactshield.png", 
+            "size": 1288271, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/59a93888c51f761ae2f2dfc80c7011db/16f0e7e3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/92f736459b4c9159c01b249c93a7c8f9/1ce7a8f1", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1583ba709b6e02eb0289b7715b092972/88b65a5e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Put on Autobots only.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "012/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/compact-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-05-25T01:31:43.000Z"
+    }, 
+    {
+      "id": "rec2HcRhu1jS40Z8V", 
+      "fields": {
+        "Name": "Enemy Combat Analysis", 
+        "Image": [
+          {
+            "id": "attI2c6dewEXZtFW8", 
+            "url": "https://dl.airtable.com/.attachments/6702af9eb981edc568839f8025f375bc/78f3668c/enemycombatanalysis.png", 
+            "filename": "enemycombatanalysis.png", 
+            "size": 1029883, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c174da554b934a6bec59bcee86acf049/785d1d56", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6de6f4d45af4d7a6e3c98ddda3652ed7/b9cb8e28", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f7730372abc2232b673caf184f52c5f1/8844c4df", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "While the upgraded character is battling an enemy that has the same number of [STARS] as it > The upgraded character has +2 [ATK] and +2 [DEF].", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "021/081", 
+        "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/enemy%20combat%20analysis?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:37:08.000Z"
+    }, 
+    {
+      "id": "rec2Mq6FLjFpYb4Al", 
+      "fields": {
+        "Name": "Secret Dealings", 
+        "Image": [
+          {
+            "id": "att4tK53HZ2kw3uAY", 
+            "url": "https://dl.airtable.com/.attachments/b9a568712c1bf3562d510b43aa34c067/18c7dfa9/secretdealings.png", 
+            "filename": "secretdealings.png", 
+            "size": 1112329, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d88d407e4a68cb0f73806d4bc5aaa581/cd25fcba", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b05041fd70cc889192ac9db0198e333a/796d311e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/77e11818c5409329bab474b9d0be1c5f/38f0cea0", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\u2b1c", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Draw a card. Then Plan 1. (You may put 1 card from your hand on top of your deck.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "057/081", 
+        "Artist/Illustrator(s)": "Sara Pitre-Durocher", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/secret%20dealings?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:41:06.000Z"
+    }, 
+    {
+      "id": "rec2X2CgALla4Wa7V", 
+      "fields": {
+        "Name": "Bumpers", 
+        "Image": [
+          {
+            "id": "attwmEkATcxn8HNKK", 
+            "url": "https://dl.airtable.com/.attachments/4b98f7d5008e7be557630a96e5c9f8cd/b5c21f05/bumpers.png", 
+            "filename": "bumpers.png", 
+            "size": 1203657, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8ffb77a080f8ab150da73daac82f6a55/3ba47a36", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ba2c558158bfd8bcd5475140c7dc2a9e/b3c8d659", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cf45b187e990aa1732955d46f87697fd/29d7dc8b", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Put on Cars only.\n\nDamage counters can't be moved from other characters to the upgraded character.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "011/081", 
+        "Artist/Illustrator(s)": "Nick Roche", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bumpers?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T07:22:25.000Z"
+    }, 
+    {
+      "id": "rec2q9Qn4KKOfmfs3", 
+      "fields": {
+        "Name": "Enforcement Batons", 
+        "Image": [
+          {
+            "id": "attdLKHXFtwe6GaMd", 
+            "url": "https://dl.airtable.com/.attachments/86022fa7f55475b620f256b4f1fbe1d0/1e8ac868/enforcementbatons.png", 
+            "filename": "enforcementbatons.png", 
+            "size": 1217870, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8d286fd169d4d3f269ddc31da3837dab/27c237d9", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/81b768cc23673e0f9600ced1aea3e0c9/4b9219e5", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1adf85ffb89bada5b3208e02d530a761/f2cbe24a", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When you put this on a character > Scrap an enemy Weapon.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 1, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "024/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/enforcement%20batons?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:40:42.000Z"
+    }, 
+    {
+      "id": "rec2rL6n0iVlb27ti", 
+      "fields": {
+        "Name": "Body Armor", 
+        "Image": [
+          {
+            "id": "attJIuPOKG4q87MWF", 
+            "url": "https://dl.airtable.com/.attachments/6487f232084176b3d51a2ee069e9f7a2/f319a11a/body-armor.png", 
+            "filename": "Front", 
+            "size": 184733, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7a2bb8f0dab7d2b62b58a8eca5571883/5121e26d", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/633b4cd72717ee00e73b03f03ddbd61a/5faeb273", 
+                "width": 498, 
+                "height": 694
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c328616004d4cf5b29735ae9daba8d3c/98f54f15", 
+                "width": 498, 
+                "height": 694
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Put on Melee characters only.\n\nTough 3 (Flip 3 more battle cards when defending.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "008/081", 
+        "Artist/Illustrator(s)": "Marcelo Matere", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/body%20armor?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T04:38:18.000Z"
+    }, 
+    {
+      "id": "rec31oVhafPcXC8Mj", 
+      "fields": {
+        "Name": "Bolster", 
+        "Image": [
+          {
+            "id": "att42xYOmEGAYhlBW", 
+            "url": "https://dl.airtable.com/.attachments/e85fdb449a67dc3286a0560f5c3baf4c/61cd31e6/bolster.png", 
+            "filename": "bolster.png", 
+            "size": 1333277, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6dada7e886075bbf371f136c0a148c66/36d3a6bc", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1d94d30c1daeabf66f4f5967e7a4f3e4/d728629a", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1e2510b12e9460cfe2f388c531668683/ced07289", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Sub-Type": "Secret", 
+        "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > You may play an Armor onto the defender.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "007/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/bolster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:31:29.000Z"
+    }, 
+    {
+      "id": "rec3CLDB3PyGwPtkC", 
+      "fields": {
+        "Name": "Callous Leadership", 
+        "Image": [
+          {
+            "id": "att6Oy7wYPO6Sz4p8", 
+            "url": "https://dl.airtable.com/.attachments/5850615aab8b571d17a7794b62d3cbea/6288fff3/callousleadership.png", 
+            "filename": "callousleadership.png", 
+            "size": 1295229, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f3695a2793b17b29b7436c4bace39bef/f2b2bcc7", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0dd1b85825291ab200f4ee3ddabe74a6/0867f65f", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e6acaa5abcdfc8223a20be49e8e240e2/d1a38cfd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Move up to 5 damage counters from one of your Decepticon Leaders that has 8 [STARS] or more to one of your other characters.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "010/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/callous%20leadership?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-05-17T20:36:34.000Z"
+    }, 
+    {
+      "id": "rec3N3vI1la8Sp1TK", 
+      "fields": {
+        "Name": "Plasma Burst", 
+        "Image": [
+          {
+            "id": "attLDrz7WctFLG1i0", 
+            "url": "https://dl.airtable.com/.attachments/fac605b4955f4b1a5456b89b395780f8/3be1e908/plasma-burst.png", 
+            "filename": "Front Side", 
+            "size": 168809, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/83dbed060d94e216daf3a99620bfbe5b/a5d96abf", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3394f9a5ce3990b80f3e886f5080b1be/854de86e", 
+                "width": 512, 
+                "height": 698
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/db885d3d84341a3e30dcea77ccf68e5a/d28e09ab", 
+                "width": 521, 
+                "height": 710
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Card Type": "Action", 
+        "Card Text": "Do 2 damage to an enemy.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "054/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/plasma%20burst?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec46wl40Nrbk0VVO", 
+      "fields": {
+        "Name": "Basic Combat Protocol", 
+        "Image": [
+          {
+            "id": "attqB7rNPihxt7y9Q", 
+            "url": "https://dl.airtable.com/.attachments/b71075d945d76de8d285533f2c7f7357/dc8e9116/bcp.png", 
+            "filename": "bcp.png", 
+            "size": 3109412, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f521bff35927211750f90de7da99d9b0/0c607e9c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b32a764b32c25a1a65abe44496685211/5685267e", 
+                "width": 512, 
+                "height": 716
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/163f338e0211e6b71ab484a7a39b981a/f3efe951", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "003/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/basic-combat-protocol?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-06-04T18:11:08.000Z"
+    }, 
+    {
+      "id": "rec4HtJykiYQPH1XP", 
+      "fields": {
+        "Name": "Backfire", 
+        "Image": [
+          {
+            "id": "atthJ5qcXqRJslrTu", 
+            "url": "https://dl.airtable.com/.attachments/25da42813d0b502a829ca56de6b7b07d/798e11c3/backfire.png", 
+            "filename": "backfire.png", 
+            "size": 996527, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b88e0bb1ebfcd4eb25adebd3065e4274/b14c0024", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3fc3c44fec97b8fcaf3a069970373ef0/aa02f888", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/01ce69d42760683f7cc63b6dc28b7c9b/cf28c550", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Sub-Type": "Secret", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "004/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-09-19T20:46:23.000Z"
+    }, 
+    {
+      "id": "rec4kVgbW67ubPhk8", 
+      "fields": {
+        "Name": "Constructicon Enigma", 
+        "Image": [
+          {
+            "id": "attYnom1RCRISMzyM", 
+            "url": "https://dl.airtable.com/.attachments/c2b4b48bacb40bf03fa5096e964d3e78/f2e24563/constructiconenigma.png", 
+            "filename": "constructiconenigma.png", 
+            "size": 402537, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4e6d23eb3baab0ccec1f940e2e8aa4a6/9a9d3dbe", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a07342eb02cd2e31009f4a8dcf323bd3/55cd1f93", 
+                "width": 470, 
+                "height": 656
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/413decf3c8630fc583daf61a31c016c8/71a9f1d4", 
+                "width": 470, 
+                "height": 656
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2A", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you have Devastator on the battlefield > Repair 1 damage from him, then put a height counter on your Tower.\n\nIf you have 6 Constructicons in bot mode on the battlefield and/or in your KO area > Combine them into Devastator, Towering Warrior. (A combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Combiners": [
+          "rec6BufiPSqB4d7IJ"
+        ], 
+        "Card #": "002/005", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/constructicon%20enigma%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-02-08T23:43:35.000Z"
+    }, 
+    {
+      "id": "rec4w1IRaQzo5k6Lm", 
+      "fields": {
+        "Name": "Reckless Charge", 
+        "Image": [
+          {
+            "id": "att4mxKkWlxHxV560", 
+            "url": "https://dl.airtable.com/.attachments/4adb68741ce2823129bbfc8fd10824ac/9a7f173d/recklesscharge.png", 
+            "filename": "recklesscharge.png", 
+            "size": 1317098, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d6f79838eda002d044bd75deb4ed797/876d6b24", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5a86e16150d84c887c16922b8683654c/b47fd906", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ccb7a577c5756bcb0f2a2612e0652ed4/e04beaf9", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets +4 [ATK] until end of turn. At end of turn, do 3 damage to it.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "052/081", 
+        "Artist/Illustrator(s)": "James Raiz", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/reckless-charge?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:39:39.000Z"
+    }, 
+    {
+      "id": "rec5BzW2EkBsR8gfi", 
+      "fields": {
+        "Name": "Computer Sabotage", 
+        "Image": [
+          {
+            "id": "attdFOOeE74p0YUve", 
+            "url": "https://dl.airtable.com/.attachments/a5479ddca32f9d3a3929038dddfac7bd/977fcfa3/computer-sabotage.png", 
+            "filename": "computer-sabotage.png", 
+            "size": 203047, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d746dac720970f0732a205f97cc07c8c/5fa40960", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f81b12c1669b685c55b2f4a1ebedb463/d16dc05f", 
+                "width": 510, 
+                "height": 705
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4608ffb4f94db8612ee82388cc470e6e/e51d0a5d", 
+                "width": 510, 
+                "height": 705
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Your opponent chooses 3 cards from their hand and scraps the rest.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "015/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/computer%20sabotage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec5EYwho6cMKvDQn", 
+      "fields": {
+        "Name": "Steamroll", 
+        "Image": [
+          {
+            "id": "attnChE8OrFUbkfjO", 
+            "url": "https://dl.airtable.com/.attachments/30179cb70b42bd0f32c9befd46b3be2e/a801c7b7/steamroll.png", 
+            "filename": "steamroll.png", 
+            "size": 1095472, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b6c2840633d8d9c11287e0719a401a00/b50ba4cc", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/487e896b4a110ba9e6623e49f79df849/7036c0b7", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/efde0d28c535c7a162bf860b72a84ca4/32500f09", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Card Type": "Action", 
+        "Card Text": "Choose one of your characters.\n\nWhen it does more than enough attack damage to KO an enemy this turn > Your opponent chooses one of their other characters and puts the extra damage on it.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "065/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/steamroll?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:41:35.000Z"
+    }, 
+    {
+      "id": "rec5Roiu9PgBWgDex", 
+      "fields": {
+        "Name": "Emergency Defense Field", 
+        "Image": [
+          {
+            "id": "attjumomvstmXHn97", 
+            "url": "https://dl.airtable.com/.attachments/e96683bb1fe57140baa57d06f18a86a0/7040f3bb/edf.png", 
+            "filename": "edf.png", 
+            "size": 1240489, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8a6d1619ed7e4417d7c981a135ab6391/43784623", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bd1b2b591e346a9fb26e891a35bf10af/11319321", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/21c0afb17c5e48b68f4e561ca07f9cc9/b747d1cb", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "If the upgraded character defends and would take an even amount of attack damage > Instead it takes no attack damage.\n\nWhen the upgraded character defends and takes no attack damage > Scrap this card.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "020/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-16T19:30:40.000Z"
+    }, 
+    {
+      "id": "rec64jpOPrb4g2Z8A", 
+      "fields": {
+        "Name": "Pep Talk", 
+        "Image": [
+          {
+            "id": "attwmcdil26CRVERV", 
+            "url": "https://dl.airtable.com/.attachments/9c3f7197cd126406098f9e7b2f0856c8/3c19a58d/peptalk.png", 
+            "filename": "peptalk.png", 
+            "size": 1200494, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d1ff7e3207d33cae9390148d6aba76b9/6fbded8d", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eb99dc68568ca026a045a8258abd9a46/b23344ea", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d8f2261251935a56e5adb10f0ed859b5/6cfa731d", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Draw 2 cards.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "046/081", 
+        "Artist/Illustrator(s)": "Sara Pitre-Durocher", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/pep%20talk?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:38:29.000Z"
+    }, 
+    {
+      "id": "rec6KskWlE7R5bjXa", 
+      "fields": {
+        "Name": "Swap Missions", 
+        "Image": [
+          {
+            "id": "attA8PKP5e7Hh7NiN", 
+            "url": "https://dl.airtable.com/.attachments/31ac18eebb1adbde7da5419810a6251b/577920d6/swap-missions.png", 
+            "filename": "Front Side", 
+            "size": 175609, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/775524975214b2504aad12e192d3387e/3de303c8", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/23d81aab7d7dff0a567b3cfa673f84de/25913eb1", 
+                "width": 509, 
+                "height": 700
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df3b76916d96bc81d5625af48de09050/37a06a23", 
+                "width": 509, 
+                "height": 700
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Untap one of your tapped characters. Then tap one of your untapped characters.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "072/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/swap%20missions?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec6NiPTSFNaWiqHW", 
+      "fields": {
+        "Name": "Covert Armor", 
+        "Image": [
+          {
+            "id": "attEAm8LXeWi73sLY", 
+            "url": "https://dl.airtable.com/.attachments/1855f02837d3c97627f5aadab5a3749d/1df58eab/covertarmor.png", 
+            "filename": "covertarmor.png", 
+            "size": 1242244, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/01e822b378ab0f8ea3d0ce36482d19df/96f34337", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eca3d996cd396e31730d7c51f87cd4fb/6556fca1", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/20298197762323fc794853d670539d6c/bebbc6d8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Put on Melee characters only.\n\nWhile the upgraded character is defending against a Specialist > The upgraded character has +1 [DEF].", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "013/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:31:53.000Z"
+    }, 
+    {
+      "id": "rec6SOlzuEUM1rKKY", 
+      "fields": {
+        "Name": "Strafing Run", 
+        "Image": [
+          {
+            "id": "attbc1jxb6gbb0CPV", 
+            "url": "https://dl.airtable.com/.attachments/4ae08c0d493f46fd341e5085a023fa62/5a2d6f78/strafing-run.png", 
+            "filename": "strafing-run.png", 
+            "size": 193439, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c5ed7d3af10d297176aa3e7d051f76f4/783b1b47", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2bd62ff530d38e4d4d92d76eaf0684f3/2a968043", 
+                "width": 504, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9f4893d6db9066cabbfebb3da5f688a2/b2a2febf", 
+                "width": 504, 
+                "height": 702
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Card Type": "Action", 
+        "Card Text": "Do 1 damage to each enemy.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "070/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/strafing%20run?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec6Xbc4loEGT1Vj0", 
+      "fields": {
+        "Name": "Repair Bay", 
+        "Image": [
+          {
+            "id": "attfAH1ByedCrctGf", 
+            "url": "https://dl.airtable.com/.attachments/9e054341066c685eb603ed9c56f5f680/c674f47b/repair-bay.png", 
+            "filename": "Front Side", 
+            "size": 191047, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6989adc3d44bb79fbf166cf32e590e09/2bd57ea7", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5c11e8b9c271ce525b50b7f2a0542391/9312d2b8", 
+                "width": 508, 
+                "height": 705
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e5f2c7b2a9347915d2dba99f3198a3c1/98957f8f", 
+                "width": 508, 
+                "height": 705
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Repair 1 damage from each of your characters.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "062/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/repair%20bay?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec6aoZPl6YLg6QGk", 
+      "fields": {
+        "Name": "Frag Toss", 
+        "Image": [
+          {
+            "id": "attaRkNDQ7QePsvIr", 
+            "url": "https://dl.airtable.com/.attachments/3d23897131d2d2614bab01145864686e/5b485ad6/fragtoss.png", 
+            "filename": "fragtoss.png", 
+            "size": 1153874, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9020ccffdec5d61284c2d820580fdc6f/a4fca2a1", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1319cbf0343ae1e8a1ec89ec2ffb0ed4/a60eb90d", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5090f5f325091ac301d2fa44d0384512/940379d9", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Your opponent chooses one of their characters and does 1 damage to it.\n\nIf your starting team was only Decepticons > Your opponent does 1 more damage to the chosen character.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "027/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-05-25T01:35:09.000Z"
+    }, 
+    {
+      "id": "rec6kCEX24pmzg0SA", 
+      "fields": {
+        "Name": "Bashing Shield", 
+        "Image": [
+          {
+            "id": "attcc5enCMm4t4Ggp", 
+            "url": "https://dl.airtable.com/.attachments/11c29c24bd5e8720eb57f491be2636ff/a2991819/bashing.png", 
+            "filename": "bashing.png", 
+            "size": 1194185, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/79e3930d45c24b99a5cfe441c86b2aaa/dc089a3f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/70cb5a2ff8f3bb2f15652fb837979486/6521dc2a", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/da67f68a46092812a8b82b8ea5e231d9/ab9cc405", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "When you put this on a character > Scrap an enemy Armor.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "008/081", 
+        "Artist/Illustrator(s)": "Sara Pitre-Durocher", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bashing-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T07:22:12.000Z"
+    }, 
+    {
+      "id": "rec6wjXqXoFSucknb", 
+      "fields": {
+        "Name": "Dino-Chomp!", 
+        "Image": [
+          {
+            "id": "attK5WdiPm8pTJfNk", 
+            "url": "https://dl.airtable.com/.attachments/511c50b79e4b20705612bb7316e8d766/3d4820ca/dino-chomp.png", 
+            "filename": "Front", 
+            "size": 188767, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/00a9258edb7df0228116f7b721ea8d9a/560ac2ab", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/56cca6236e30e2002d15b31231f6fa64/7a53a79c", 
+                "width": 507, 
+                "height": 701
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8cdfbfaa2d9b504025a6bc869b963c9e/a676bb5a", 
+                "width": 507, 
+                "height": 701
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Scrap your hand. One of your Dinobots gets Bold 5 until end of turn. (Flip 5 more battle cards when attacking.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "022/081", 
+        "Artist/Illustrator(s)": "Nick Roche", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/dino%20chomp?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec7PNZ19GVeVd8OJ", 
+      "fields": {
+        "Name": "Dinobot Enigma", 
+        "Image": [
+          {
+            "id": "attmH6CYF7I89zgL3", 
+            "url": "https://dl.airtable.com/.attachments/1579bece82c0127b3ccb698d5e61c0bd/905ae4bb/dinobotenigma.png", 
+            "filename": "dinobotenigma.png", 
+            "size": 800227, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/45465e7b274f406a0ba510cf00611da7/6cd4d86f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e7e5521f566d38c97eb58c4a2dc7fb3d/94116f0d", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9f0cd79a7e9c85b812b3e1e9547443b0/341ef549", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you have Volcanicus on the battlefield > He gets Bold 2 until end of turn.\n\nIf you have 5 Dinobots in the bot mode on the battlefield and/or in your KO area > Combine them into Volcanicus, Fiery Champion. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Combiners": [
+          "recfwOH8RXEiLPgLL"
+        ], 
+        "Card #": "019/081", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/dinobot%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:37:06.000Z"
+    }, 
+    {
+      "id": "rec7ROHygpqNkCMvc", 
+      "fields": {
+        "Name": "Combat Training", 
+        "Image": [
+          {
+            "id": "attMX1o0SmAdr7fHI", 
+            "url": "https://dl.airtable.com/.attachments/61abaaffdf3e9e1cdf2ebe1f4248977b/3c70d4cc/combat-training.png", 
+            "filename": "Front", 
+            "size": 188442, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/05a5e58e0753a27f451110a2c57d4e2c/65639897", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a2ea592a462885671d8f94aaf24901e0/3846c817", 
+                "width": 499, 
+                "height": 694
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1bcb6234dfde426b3cba5efafe9e35ad/87142fb1", 
+                "width": 499, 
+                "height": 694
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "While the upgraded character has a Weapon \u2192 It has Bold 1. (Flip 1 more battle card when attacking.)\n\nWhile the upgraded character has an Armor \u2192 It has Tough 1. (Flip 1 more battle card when defending.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "014/081", 
+        "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/combat%20training?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec7SE26gTsIEkZxV", 
+      "fields": {
+        "Name": "Relentless Invasion", 
+        "Image": [
+          {
+            "id": "attzKRJMAZydcyiiW", 
+            "url": "https://dl.airtable.com/.attachments/2d6833c0d9b7c5f043e5fc7f20b5f61d/6285e7ca/relentlessinvasion.png", 
+            "filename": "relentlessinvasion.png", 
+            "size": 965711, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b9db5e0cd97013b14ee0ed658e02a113/4653648b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/26fc7537e3ab3da754a3bda7fd7bbc8c/1bd574f1", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e51bc85e720a8994b667a7bde33fe5f8/1cbf146b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1c", 
+          "\ud83d\udd36", 
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you have Trypticon, Assault Base on the battlefield > Put Full-Tilt, Wipe-Out, and Brunt from your KO area onto the battlefield fully repaired. The characters put onto the battlefield this way attack this turn. At end of turn, put each of those characters that's still on the battlefield under Trypticon.", 
+        "Rarity": "Rare", 
+        "\u2b50": 1, 
+        "Card #": "048/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-08-02T23:39:19.000Z"
+    }, 
+    {
+      "id": "rec8NyqCflq1h3Awg", 
+      "fields": {
+        "Name": "Energon Slingshot", 
+        "Image": [
+          {
+            "id": "attdJjvBdoZ2A2lgj", 
+            "url": "https://dl.airtable.com/.attachments/4cf7202481b136c6050d721dc8b11b4b/859faa27/energonslingshot.png", 
+            "filename": "energonslingshot.png", 
+            "size": 1064261, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/063fa7a985b8a86e8d90c99f1a635d27/cb6efcfb", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fbbd568b3f43a7d3cc2b56b0effcefd2/fc542403", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/96cc98c694024274f9a5afc9a89bd8bc/3e5487f3", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When you put this on a Melee character > Do 1 damage to an enemy.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 1, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "023/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/energon%20slingshot?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:37:10.000Z"
+    }, 
+    {
+      "id": "rec8xzEXB8jgjPWRO", 
+      "fields": {
+        "Name": "Photon Bomb", 
+        "Image": [
+          {
+            "id": "attgtQzAlt1SYX3Hh", 
+            "url": "https://dl.airtable.com/.attachments/d7daa67ddc6f73b01fd6b3d7b402e601/62ed2b77/photon-bomb.png", 
+            "filename": "photon-bomb.png", 
+            "size": 160195, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8f1d6b1f1f3981a91f3ff53892e3adae/dfba6399", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f7c74f45a6a7766294326df294611401/b270c2ab", 
+                "width": 499, 
+                "height": 693
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b76cb9f4aa8d14d2ee7573fee59de382/1660899c", 
+                "width": 499, 
+                "height": 693
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Card Type": "Action", 
+        "Card Text": "Do 2 damage to EACH character.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "052/081", 
+        "Artist/Illustrator(s)": "Brendan Cahill", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/photon%20bomb?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec8zEry0r8yc2dpt", 
+      "fields": {
+        "Name": "Ion Blaster Of Optimus Prime", 
+        "Image": [
+          {
+            "id": "att0P1pM1Dp3cmbTQ", 
+            "url": "https://dl.airtable.com/.attachments/ec53b324c5bbaeafb0b4134eaa6383ae/74516f19/ion-blaster-of-optimus-prime.png", 
+            "filename": "Front Side", 
+            "size": 172801, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/85c33e378a6a1a77601fa26f409ce999/f54e916a", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fcd2747a6084310ad61bbe8fbbabcd25/546435b2", 
+                "width": 512, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/522c6bfc4687d621e902fd8644677290/658cead7", 
+                "width": 514, 
+                "height": 705
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "Put on Optimus Prime only.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 2, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "041/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/ion%20blaster%20of%20optimus%20prime?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec9BkTTwIFerEZ6M", 
+      "fields": {
+        "Name": "Peace Through Tyranny", 
+        "Image": [
+          {
+            "id": "attm4XT9pQ7tKhdKL", 
+            "url": "https://dl.airtable.com/.attachments/ff65964c7b66a85b0cdefa3332e1c76f/0f657a27/peace-through-tyranny.png", 
+            "filename": "Front Side", 
+            "size": 198452, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/97371aa772952cbd285d85380f63044f/048e1d6b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/68846a955690caee56ab7a40dc398e74/ff53ab97", 
+                "width": 499, 
+                "height": 699
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f1686f0e0a9e16375482ba530ccaf459/0b712db9", 
+                "width": 499, 
+                "height": 699
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "You may KO one of your characters that has 6 [STARS] or more. If you do, take an extra turn after this one.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "051/081", 
+        "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/peace%20through%20tyranny?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "rec9SxO86l8yEsSnp", 
+      "fields": {
+        "Name": "Dismantle", 
+        "Image": [
+          {
+            "id": "attK1yieB4qaQM0t5", 
+            "url": "https://dl.airtable.com/.attachments/c7a7ecb99609afa8143336227563a782/7b18d650/dismantle.png", 
+            "filename": "dismantle.png", 
+            "size": 1048719, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d2de8a78a785a352bf3bda4c045554fe/8328b520", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/51bb1b4e0559dcc3b7ec238da74486a3/834821a0", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ac8188887517e02ce2605a829454ce9c/0caf167f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Scrap an enemy Weapon or Armor.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "017/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:33:49.000Z"
+    }, 
+    {
+      "id": "rec9jOoPuiPbLDPoM", 
+      "fields": {
+        "Name": "Minor Medic Kit", 
+        "Image": [
+          {
+            "id": "attJ3QyYwGlkuq08v", 
+            "url": "https://dl.airtable.com/.attachments/a1f894323955d493060e9ff00f6d361e/c3594c36/minormedickit.png", 
+            "filename": "minormedickit.png", 
+            "size": 718333, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/637427f17b946a12d84a4eb1b4b61a57/06370be9", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/58f8512b2f68cacb5532ef17c3bf09c1/92b1dc2b", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/66cde3ae29175e0f73759291e4234976/7b3af2bb", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1b\u2b1b"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "038/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-09-19T20:32:11.000Z"
+    }, 
+    {
+      "id": "rec9uoasS0WVhe0Kx", 
+      "fields": {
+        "Name": "Heroism", 
+        "Image": [
+          {
+            "id": "attJ0F6b4XcXSSg41", 
+            "url": "https://dl.airtable.com/.attachments/ff749fb16ccf0f3bcbdeba7aed84cd93/9b2b150c/heroism.png", 
+            "filename": "Front", 
+            "size": 333268, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e092d17e89057caa4b16089fb654de54/05f3b6e3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eecb0e74ef70fd3ecad3683b205bda73/c70212ae", 
+                "width": 371, 
+                "height": 519
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9a24aa633ad21cb02b38869c8f1148b5/df23d3dc", 
+                "width": 371, 
+                "height": 519
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "If any of your other characters would take attack damage > Instead the upgraded character takes that damage.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "035/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/heroism?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recA07qqrrHA8S25E", 
+      "fields": {
+        "Name": "Kinetic Intensifier Whip", 
+        "Image": [
+          {
+            "id": "attKQbDQbk05IQJiR", 
+            "url": "https://dl.airtable.com/.attachments/e4902de5d3b76382061d49ce40c44aa5/8be18447/kineticintensifierwhip.png", 
+            "filename": "kineticintensifierwhip.png", 
+            "size": 1045393, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ee012712c305d7d006b41c0b2454d9c6/955f3445", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3dfd2e8b2883b12061b42910a72bc7cb/cf09d25b", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d29e0df69fc38e9db98903fa2b2187d4/26fd786f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When you flip the upgraded character to another mode > It gets Bold 2 until end of turn. (Flip 2 more battle cards when attacking.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 1, 
+        "Card #": "035/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-09-20T23:17:39.000Z"
+    }, 
+    {
+      "id": "recAUE5hCsICflwa9", 
+      "fields": {
+        "Name": "Calculated Strike", 
+        "Image": [
+          {
+            "id": "attnronR0f87y2Kb6", 
+            "url": "https://dl.airtable.com/.attachments/f66ebce2c3d2743ab9a68e49f339e4e6/b3997c5e/calculatedstrike.png", 
+            "filename": "calculatedstrike.png", 
+            "size": 824349, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/361adb2352b5ccc0f43146b3bd4775a6/7cd64038", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a6be29919915246c0c513aadaa4295c8/b18ef7ac", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0d52fa0a8cfad2094d8f1a3e6b9f8fd0/0b57eda8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets +2 [ATK] and Pierce 2 until end of turn.\n(Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "009/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/calculated-strike?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-10T20:49:03.000Z"
+    }, 
+    {
+      "id": "recAilPUeks9dqvPD", 
+      "fields": {
+        "Name": "Handheld Blaster", 
+        "Image": [
+          {
+            "id": "attW7i1acieG92h2e", 
+            "url": "https://dl.airtable.com/.attachments/34cb8ae0640b6cbdb41e539e1a6c815a/996f7e93/handheldblaster.png", 
+            "filename": "handheldblaster.png", 
+            "size": 1114984, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a9d072ba3723a1afc101e2946db63b79/9504bb60", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fa85e6b47b06279650545cfc20aef296/af423104", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e0eb6e06f268e84fe269c86cb333a0c0/13e49c00", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd37\ud83d\udd37"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "034/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/handheld-blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:36:44.000Z"
+    }, 
+    {
+      "id": "recAlg97x0JAFYI9t", 
+      "fields": {
+        "Name": "Energy Pack", 
+        "Image": [
+          {
+            "id": "attnTFIt8btI22IES", 
+            "url": "https://dl.airtable.com/.attachments/ef1153aadc9ac44c49930a7b86ed9bfa/f36e4665/energypack.png", 
+            "filename": "energypack.png", 
+            "size": 1011789, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ba735f2d4be7ab6fa9cf1feef0510128/aaa85540", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4ab31c5599599d68976a183704c84dd5/bff059f8", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/97f83ee9d98bceb79d434698e3ea3081/0ed433bd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "Put only on characters that 11 [STARS] or more.\n\nThe upgraded characters has +4 [HP].", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "022/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-11T22:19:05.000Z"
+    }, 
+    {
+      "id": "recAllHZVvqnKiezp", 
+      "fields": {
+        "Name": "Energized Field", 
+        "Image": [
+          {
+            "id": "attXEQu4x6GjoRNKJ", 
+            "url": "https://dl.airtable.com/.attachments/4cab18039fbc7d0c0838f25474a6ba08/5aca8aaa/energizedfield.png", 
+            "filename": "energizedfield.png", 
+            "size": 1265943, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/096abe6057da90d7b3bba1e0143a98da/37ff3fce", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fc194a98c5b95f8ac2508ed3912873bd/62df52c4", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d39961a29b38b1de485b22c142366fc8/cedc9f4c", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd37\ud83d\udd37"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "While the upgraded character defends and you flip at least [ORANGE] > Do 1 damage to the attacker.", 
+        "Rarity": "Rare", 
+        "\u2b50": 1, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "022/081", 
+        "Artist/Illustrator(s)": "E. J. Su", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/energized%20field?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:37:09.000Z"
+    }, 
+    {
+      "id": "recAqSzmtQwKZ7x3H", 
+      "fields": {
+        "Name": "Heavy Landing", 
+        "Image": [
+          {
+            "id": "attIGJCpr8YhNpOUX", 
+            "url": "https://dl.airtable.com/.attachments/7045712d141bc32c0da80db78e7cff3c/49a3f30d/heavylanding.png", 
+            "filename": "heavy landing.png", 
+            "size": 1427367, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/561a5cdc60884cdbc1ec8d5f38fa9c42/0948bb88", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b3fc2216c102c29bede27dee01b2b457/573885e0", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f70c83983a878c32499f2621d54e111b/f2ac188f", 
+                "width": 799, 
+                "height": 1114
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2A", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Do 1 damage to an enemy.\n\nIf your Tower is 6 or higher, do 3 damage instead.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "003/005", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/heavy%20landing%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:43:35.000Z"
+    }, 
+    {
+      "id": "recAy6N2QSkNXI0dg", 
+      "fields": {
+        "Name": "Underhanded Tactics", 
+        "Image": [
+          {
+            "id": "attn11x6kh2MCmiOn", 
+            "url": "https://dl.airtable.com/.attachments/0fe944534fd333ab34946b354d293bdd/e8d1d73e/underhand.png", 
+            "filename": "underhand.png", 
+            "size": 1201796, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/227f3cda7e83f40e197795b5695f6f85/c317fa55", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5a63b7f697e7bf978bf6e45ad03976b6/68da87e7", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9d01851b6138e3fd4045e972a7eb62fa/412b1d22", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Do 1 damage to an enemy. If it's KO'd this way, repair 1 damage from one of your Decepticons.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "077/081", 
+        "Artist/Illustrator(s)": "Nick Roche", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/underhanded-tactics?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-02-08T23:42:09.000Z"
+    }, 
+    {
+      "id": "recBXNigPIpuC8uyF", 
+      "fields": {
+        "Name": "System Reboot", 
+        "Image": [
+          {
+            "id": "attrAdOdhyYfrvHqu", 
+            "url": "https://dl.airtable.com/.attachments/f99f910ca19da6f376a97f2fbaef2c77/4462457d/system-reboot.png", 
+            "filename": "system-reboot.png", 
+            "size": 195403, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/948ddb33d939302bc9ab4b22b82d520b/78ef3700", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fafd5249aab298bf4da75210fc769a8c/ca08d749", 
+                "width": 512, 
+                "height": 710
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0abab7b3df6954e54e3f40e4ffb517fa/c96c9138", 
+                "width": 512, 
+                "height": 710
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Each player scraps their hand and draws 4 cards.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "075/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/system%20reboot?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recCBGtf0ac77ypKr", 
+      "fields": {
+        "Name": "Power Sword", 
+        "Image": [
+          {
+            "id": "attooKvsjs2Znnd1q", 
+            "url": "https://dl.airtable.com/.attachments/f3027411650e6736c5a2e2ade76f8d1f/07f64a7f/power-sword.png", 
+            "filename": "Front Side", 
+            "size": 181198, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f37c3fc4ac59d97fbb10858f7f87721a/30e9d4ed", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/48eb9406496138df3c5423c88464d5fb/bdb5fc83", 
+                "width": 504, 
+                "height": 698
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8444a7b2e2f64f30dd7afc58aec2232c/8d23ce5a", 
+                "width": 504, 
+                "height": 698
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "Put on Melee characters only.\n\nBold 3 (Flip 3 more battle cards when attacking.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "055/081", 
+        "Artist/Illustrator(s)": "Nick Roche", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/power%20sword?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recCBja76klBNkwd1", 
+      "fields": {
+        "Name": "Tandem Targeting System", 
+        "Image": [
+          {
+            "id": "attUFR96vQxfDrOLx", 
+            "url": "https://dl.airtable.com/.attachments/929bed73b7781a969f29a5ee44d08a2c/ca89dccc/01720182.png", 
+            "filename": "01720182.png", 
+            "size": 294670, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d0f1f9f0b1e8ae93fd81cb8bbf2e7222/55d7b7a0", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0061a235c894939e8e0c57ef3d19c2ba/2807db82", 
+                "width": 371, 
+                "height": 519
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fa3fbd7a1e74f6b16d8999b13455d7fe/4befae1a", 
+                "width": 371, 
+                "height": 519
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1C", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "When you play this from hand \u2192 You may play a Tandem Targeting System from your scrap pile.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 1, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "002/002", 
+        "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/tandem%20targeting%20system%20sdcc%202018%20exclusive?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T09:33:14.000Z"
+    }, 
+    {
+      "id": "recChvMjGGj2Vowmx", 
+      "fields": {
+        "Name": "Heat Of Battle", 
+        "Image": [
+          {
+            "id": "attlhqMKRhlZd2nZl", 
+            "url": "https://dl.airtable.com/.attachments/04fb5aa25ca073f051b15fd67a4c5a27/fab9cd3e/heatofbattle.png", 
+            "filename": "heatofbattle.png", 
+            "size": 1191419, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f4cfe697270886642060fa4f40a2cc82/b784d5a8", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b56cbc03fb4bbc645452ab98b35e9f1/2b5d0856", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c0dc3915102e7478f28afada48b3c1df/96010f93", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "ALL characters get Bold 3 and Tough 3 until end of turn.\n(Flip 3 more battle cards when attacking or defending.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "030/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-28T18:16:04.000Z"
+    }, 
+    {
+      "id": "recCivGhcHf2tMJXv", 
+      "fields": {
+        "Name": "Brainstorm", 
+        "Image": [
+          {
+            "id": "attoXD0qsbvDkNXEp", 
+            "url": "https://dl.airtable.com/.attachments/e85029978aafb467aa8e0bde55d0d1e4/10375fb0/brainstorm.png", 
+            "filename": "Front", 
+            "size": 186156, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4bdbcf2636fccc766b3a6fd10ebf4354/272bcec2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0773f88f30b0e72015af484d78c4ec0b/794ed017", 
+                "width": 508, 
+                "height": 701
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f205c7fd22d27190a13342e0e2083c12/a27d8e0e", 
+                "width": 508, 
+                "height": 701
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "You may play an Action. Then you may play another Action.", 
+        "Rulings / Errata": [
+          "recUYKMSjhHaBgA3n"
+        ], 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "010/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith, Josh Perez", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/brainstorm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T04:46:54.000Z"
+    }, 
+    {
+      "id": "recCuY5uIgsSuSKRV", 
+      "fields": {
+        "Name": "Leap Into Battle", 
+        "Image": [
+          {
+            "id": "attqkogxm6Hz6tFXU", 
+            "url": "https://dl.airtable.com/.attachments/37531f68ee30339a25574d5f525a7b4e/f666e29c/leap-into-battle.png", 
+            "filename": "Front Side", 
+            "size": 181014, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7b5d720c3d1957987717387c736da545/9320b4ec", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8581fbc8da779c3d3438cb9aff5c2af4/aefa1205", 
+                "width": 512, 
+                "height": 697
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f8b0e4704a821ca7b7cf531c86a6ef84/191ad80d", 
+                "width": 523, 
+                "height": 712
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets +3 [ATK] until end of turn.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "043/081", 
+        "Artist/Illustrator(s)": "Marcelo Matere", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/leap%20into%20battle?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recCweoUsX7NxMGbT", 
+      "fields": {
+        "Name": "Fling", 
+        "Image": [
+          {
+            "id": "attxd1QAtT8jYoLBZ", 
+            "url": "https://dl.airtable.com/.attachments/32692275149a1ffedfb8d8c39b537f73/ad645680/fling.png", 
+            "filename": "fling.png", 
+            "size": 886168, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6f14b1fc8980314b58bd40a3ad4d6a2c/2304dadd", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9ff5e0e88e540e61f19d3264f56de06c/0f614e02", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a333cd3b61e38fd3fb40ef0fcd38b330/742e4149", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Card Type": "Action", 
+        "Card Text": "Move 1 damage counter form one of your characters to an enemy.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "031/081", 
+        "Artist/Illustrator(s)": "Klaus Scherwinski", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/fling?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:36:47.000Z"
+    }, 
+    {
+      "id": "recCz1rnrE7GrcCy7", 
+      "fields": {
+        "Name": "Involuntary Promotion", 
+        "Image": [
+          {
+            "id": "att3fiRte0YCKZaya", 
+            "url": "https://dl.airtable.com/.attachments/217b009d15cf5a79a931eb6ebe0917e8/9976fd4e/involtunary-promotion.png", 
+            "filename": "involtunary-promotion.png", 
+            "size": 1055737, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/29f687346f7500e0c1df3e67efc49750/7eaff935", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2dc2d93f3635c73c8012fa789e1af444/3dbe7349", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7d31adf16278870823ace6dd21a68dca/38e293a6", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Action", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "032/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-09-19T20:41:18.000Z"
+    }, 
+    {
+      "id": "recD1sijOYavzfRqN", 
+      "fields": {
+        "Name": "Repurpose", 
+        "Image": [
+          {
+            "id": "atthXeayxQyd5gNLX", 
+            "url": "https://dl.airtable.com/.attachments/9cd7e2499748b1c9cdeb1412ca7f57fa/378bca74/repurpse.png", 
+            "filename": "repurpse.png", 
+            "size": 1094961, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/09fafff82573c81cae9099e766a9e2f4/ad333f81", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/82e66e0925430705d5955c32396e139f/2908b878", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6fa670c010a4f3d711930d9fa1bcebc2/af2a2bd1", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Scrap a card from your hand. Then draw 2 cards.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "048/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-04-29T21:51:08.000Z"
+    }, 
+    {
+      "id": "recD6WvSjkh9Ugi31", 
+      "fields": {
+        "Name": "Equipment Enthusiast", 
+        "Image": [
+          {
+            "id": "attsnaKjtVOLrokVO", 
+            "url": "https://dl.airtable.com/.attachments/06e5bfeca58a317c3d640d7dcfe3de61/5dcfcdb6/equipment-enthusiast.png", 
+            "filename": "Front", 
+            "size": 176306, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/16e43dd8b5b0bba1e7e9d380dec311c2/f082aa09", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/68c2d8d382a51d794235bbd134e2c682/c4c5986b", 
+                "width": 512, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/efbbeacc617b2ec056ae8085b499938a/6a183e1a", 
+                "width": 512, 
+                "height": 702
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Draw a card for each of your upgrades.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "029/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/equipment%20enthusiast?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recD9mIkAiGrETgoC", 
+      "fields": {
+        "Name": "Static Laser of Ironhide", 
+        "Image": [
+          {
+            "id": "attpHb5owkzvsVkhi", 
+            "url": "https://dl.airtable.com/.attachments/c308571e422c5cbd3fd04595feafe981/1aa037fb/static-laser-of-ironhide.png", 
+            "filename": "static-laser-of-ironhide.png", 
+            "size": 173732, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d60effd3f8b72a74eb47416922de5ddf/da632643", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a0df2d577d8857433882b051a23fbfc6/cb3d4da4", 
+                "width": 502, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5f6308ca5d218a63bcee8ceacb6af27b/0a151d5a", 
+                "width": 502, 
+                "height": 702
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When the upgraded character is NOT Ironhide and it attacks > Do 2 damage to it.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 3, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "069/081", 
+        "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/static%20laser%20of%20ironhide?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recDC9tB17do5IQqR", 
+      "fields": {
+        "Name": "Cornered!", 
+        "Image": [
+          {
+            "id": "attQiBtFypiajiTZq", 
+            "url": "https://dl.airtable.com/.attachments/31dc74355db59f81af875be60c3d7ea3/f422d1c9/cornered.png", 
+            "filename": "cornered.png", 
+            "size": 1138360, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8807ce22bb3922755eb0db67d931c8b2/916fd7ed", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b96c473fd36d6468a11ed98fe8522098/0d3bb0b1", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f5bc5c5fb88dcdfa7db988c6e1b94b25/c7cd2d24", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Choose an enemy in bot mode. Your opponent flips it to alt mode.", 
+        "Rulings / Errata": [
+          "rec1irMBbRvCzvnls"
+        ], 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "015/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/cornered?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:35:53.000Z"
+    }, 
+    {
+      "id": "recDEni0tnQl5Dze2", 
+      "fields": {
+        "Name": "Interpret The Airwaves", 
+        "Image": [
+          {
+            "id": "att9ws8yXXeHkYuqD", 
+            "url": "https://dl.airtable.com/.attachments/075be7bf1f3059d58331f816b03bb5f8/26345d86/interprettheairwaves.png", 
+            "filename": "interprettheairwaves.png", 
+            "size": 966811, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9f1c14559d9c7a7b90679234385d9f85/19d07b88", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/18df0dfe6da1bd6a22aef087504495d3/132a35f7", 
+                "width": 512, 
+                "height": 713
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/258b0ee27e211a552e109c4f5c88ee1d/27b8e8f1", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3A", 
+        "Battle Icons": [
+          "\ud83d\udd36\ud83d\udd36"
+        ], 
+        "Card Text": "Play only if Blaster was on on your starting team.\n\nLook at the top 5 cards of your deck and put them back in any order.", 
+        "Rarity": "Rare", 
+        "\u2b50": 1, 
+        "Card #": "005/007", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-07-08T17:59:53.000Z"
+    }, 
+    {
+      "id": "recDbNlM0qOymCL34", 
+      "fields": {
+        "Name": "Firecon Flame", 
+        "Image": [
+          {
+            "id": "attIcJGpnyyePlcxo", 
+            "url": "https://dl.airtable.com/.attachments/5a1029346db3662f145b9e7019700cfb/c4aaf517/fireconflame.png", 
+            "filename": "fireconflame.png", 
+            "size": 1078961, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ab510d670b3704ed8e5b8dd14529179b/a5635ba6", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/68799f753df4e0ae68939d5037ca6487/b0cf5361", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6998338a494a26afe32a8b59b0e96f67/1dc689b4", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "Put on Firecons only.\n\nEach of your Firecons has Bold 1.\n(Flip 1 more battle card when attacking.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "025/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-05-21T22:32:59.000Z"
+    }, 
+    {
+      "id": "recDoAJpAEhSpY0CS", 
+      "fields": {
+        "Name": "Disruptive Entrance", 
+        "Image": [
+          {
+            "id": "attmI00dlWtO9AN3t", 
+            "url": "https://dl.airtable.com/.attachments/6715a4e5da8d7d17cee8f19296d09a62/59dd53ed/disruptiveentrance.png", 
+            "filename": "disruptiveentrance.png", 
+            "size": 317690, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8953ccaf5a1df6db5461bf39c115fe02/f143b50b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e1b4b53748f67afd11b007fc501a6276/ad5671ce", 
+                "width": 371, 
+                "height": 519
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a45efdc5340260af9ffd040206e96fd7/66002395", 
+                "width": 371, 
+                "height": 519
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Look at your opponent's hand and scrap an Action from it.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "025/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/disruptive%20entrance?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recEQ9l6w8akwVAij", 
+      "fields": {
+        "Name": "Superior Cannon", 
+        "Image": [
+          {
+            "id": "attONFweHONkeGRT0", 
+            "url": "https://dl.airtable.com/.attachments/7c478944635c40300fedd701b8f08838/5f4179b6/superiorcannon.png", 
+            "filename": "superiorcannon.png", 
+            "size": 1189507, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df65b46938d2dd978152609fb82632d1/26744fef", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c40467836578216d986f8787205c7d44/76ab0324", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4da42a0a2e901cd16f60d1faadcc7ea9/69482761", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "Play this only if you've played Tech Research this turn.\n\nBold 4 (Flip 4 more battle cards when attacking.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "068/081", 
+        "Artist/Illustrator(s)": "Atilio Rojo", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/superior%20cannon?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:41:48.000Z"
+    }, 
+    {
+      "id": "recEySlo9eaiiotmm", 
+      "fields": {
+        "Name": "Emergency Maintenance", 
+        "Image": [
+          {
+            "id": "attZBBJXqaXMipuUb", 
+            "url": "https://dl.airtable.com/.attachments/08a81ae43a8542f8d7984665f7691fe2/a32dfb67/emergency-maintenance.png", 
+            "filename": "emergency-maintenance.png", 
+            "size": 196681, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ba55e6492f4a07b0acc3505fb535bde0/253ad7fd", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dffdf04fd60072218dde302aa944f342/c5e09574", 
+                "width": 500, 
+                "height": 694
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5101a299a5ae94b31ef649a0e58d6fdd/47f78f2c", 
+                "width": 500, 
+                "height": 694
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Repair 1 damage from one of your characters. If you have more [STARS] of characters in your KO area than you have on the battlefield, repair 2 more damage from that character.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "027/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/emergency%20maintenance?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recFFV5KrVjOMGd9g", 
+      "fields": {
+        "Name": "Swarm!", 
+        "Image": [
+          {
+            "id": "attjoBSvjSnFBkN40", 
+            "url": "https://dl.airtable.com/.attachments/0b2ff27ba6d9218493b42ae59af64185/e64abde1/swarm.png", 
+            "filename": "Front Side", 
+            "size": 192595, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/05faed52fef2c2ac0b91b31d982f12cd/5a77c657", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/74a942c4953969335fa92bef7eccda5a/5fa1ba93", 
+                "width": 500, 
+                "height": 695
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0340178e698db83def2ede9500836c99/6cb1195f", 
+                "width": 500, 
+                "height": 695
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Flip a battle card for each Insecticon you began the game with. For each [ORANGE] you flip, your opponent chooses one of their characters and does 1 damage to it. For each [BLUE] you flip, repair 1 damage from one of your characters.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "074/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/swarm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recFGJ3EHOUQzXogM", 
+      "fields": {
+        "Name": "Bad Attitude", 
+        "Image": [
+          {
+            "id": "att27ACBPl9Hrsh0C", 
+            "url": "https://dl.airtable.com/.attachments/7a0b0bedabf7bf82b287e0302fe426d1/be99a0d7/badattitude.png", 
+            "filename": "badattitude.png", 
+            "size": 1144356, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/23607a05a4a8b3ebf82d79686ea428d2/e421a489", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/273a7b123b5212c3f8200116574711c5/3f71844e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/feccff9b0dffd7c7ef79fec7a04927ee/6dec60ff", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Card Type": "Action", 
+        "Card Text": "If you began the game with only Decepticon characters > Repair 1 damage from each of your characters. Then do 1 damage to each Autobot.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "007/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bad%20attitude?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T07:21:44.000Z"
+    }, 
+    {
+      "id": "recFmRuqUpDIiILdE", 
+      "fields": {
+        "Name": "Unconventional Flying Object", 
+        "Image": [
+          {
+            "id": "attNjiAIknARtABAV", 
+            "url": "https://dl.airtable.com/.attachments/2ab531361b7954983ad54093c3518efc/ce548590/ufo.png", 
+            "filename": "ufo.png", 
+            "size": 1087957, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cfa9a97214fb3590dbd64557633db7cf/28db6152", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5b2cbe8fe6eb696cf2aa39390aaa07ef/9ce359c8", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f4a392b9902c8a3ee225b57093a6e0e9/0d211f66", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Flip one of your Spaceships to bot mode. Then flip it back to alt mode.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "062/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-09T18:33:46.000Z"
+    }, 
+    {
+      "id": "recFoA9YOMqPANclW", 
+      "fields": {
+        "Name": "Backup Bag", 
+        "Image": [
+          {
+            "id": "attKr2m3NGwuitZgC", 
+            "url": "https://dl.airtable.com/.attachments/6e7283e458e8ae854513b4dd16bc7fd0/8143b578/backupbag.png", 
+            "filename": "backupbag.png", 
+            "size": 1160883, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8aa99652ce0cb611c8a57bfb895eb4d3/4c67ab67", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cc38e36689a3fb367af2c06873afd165/6c0dade8", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/84ec68551885610895daaaffa3d908fd/f57776c3", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1c", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "If one of your cards would cause a Weapon or Armor to be scrapped from the upgraded character > Scrap this card instead.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "002/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/backup-bag?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-24T23:57:34.000Z"
+    }, 
+    {
+      "id": "recG7unAF4f3QuJ26", 
+      "fields": {
+        "Name": "Pep Talk", 
+        "Image": [
+          {
+            "id": "atthf3JA6i14rre6E", 
+            "url": "https://dl.airtable.com/.attachments/40442fb385cb0795a6f8c8210b568eb9/175ffb42/peptalk.png", 
+            "filename": "peptalk.png", 
+            "size": 1031818, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/751d44cad69c2303789aa7e6eceee8fb/6dade966", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fe04efc7ab882807fdd1bf81668bd179/e3343526", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/618cd7b63c65920c440a9db704735ae6/f406138c", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Draw 2 cards.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "041/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-04-23T17:55:48.000Z"
+    }, 
+    {
+      "id": "recGHXj7cVQMsUbhw", 
+      "fields": {
+        "Name": "Medic!", 
+        "Image": [
+          {
+            "id": "attQnjg3PacdsA3ob", 
+            "url": "https://dl.airtable.com/.attachments/8378a8b89b68d2fb8e35ed6397202d65/ea060003/medic.png", 
+            "filename": "medic.png", 
+            "size": 1187873, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/47d656e22ad8aa74807984922ce53c24/e1fecd47", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2554f45466e9a38de402153b0bd23d73/cbccbd54", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/555a34e8f81f4df212b192ac35b71e16/dd34c4ca", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Card Type": "Action", 
+        "Card Text": "Repair 2 damage from one of your characters.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "038/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-04-23T17:56:38.000Z"
+    }, 
+    {
+      "id": "recGWa0oG0QH5oSJ0", 
+      "fields": {
+        "Name": "Point-Defense System", 
+        "Image": [
+          {
+            "id": "attjbqT4Eti43h1H6", 
+            "url": "https://dl.airtable.com/.attachments/82e09b7f25fa4b14bb77952afa2ec24f/e0ff07b2/pds.png", 
+            "filename": "pds.png", 
+            "size": 1153455, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d86a4b8afba3d8753dddb57806c3dba6/0a8c7982", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1e0430d81743ae88efb29158b26d0714/b11d8be7", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c1d69de81e2f8545bff044eef34db2e6/5f458793", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "While the upgraded character is defending against an enemy that has Pierce > Reduce that enemy's Pierce total by 2.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "043/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:36:08.000Z"
+    }, 
+    {
+      "id": "recHMorlUGzTB2qtZ", 
+      "fields": {
+        "Name": "Espionage", 
+        "Image": [
+          {
+            "id": "att6WQ1RBuhUPjEHs", 
+            "url": "https://dl.airtable.com/.attachments/aff7106a809919fb9b3831d292b8a224/9d02c609/espionage.png", 
+            "filename": "espionage.png", 
+            "size": 1137167, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e6145fe4b9aac1b91e84535e84b1aa94/3ff58210", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/525863d31616aded99340c82c822883d/5bfaafc6", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8075be8be99e873e7f7202cc06d8c966/4bfb2f06", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\u2b1c", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Choose a battle icon color. Look at your opponent's hand and scrap a card that has that color icon.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "027/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/espionage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:40:39.000Z"
+    }, 
+    {
+      "id": "recI5Ers2V4uduoZw", 
+      "fields": {
+        "Name": "Rapid Conversion", 
+        "Image": [
+          {
+            "id": "attwLCcSRPN7ghJRf", 
+            "url": "https://dl.airtable.com/.attachments/6025abcbbcc72bced5ceca3986aadec4/84c16733/rapid.png", 
+            "filename": "rapid.png", 
+            "size": 997060, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3e72bf45c2f30feef96de4e7d7a045e9/a43a3c0f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e8cefb85320201fd9009f04dfa311350/ebe0f545", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2162ce1a1ad9e62735f137eddd878b4d/881444c9", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Flip one of your characters to its other mode.", 
+        "Rulings / Errata": [
+          "recUYKMSjhHaBgA3n"
+        ], 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "051/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/rapid-conversion?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:39:38.000Z"
+    }, 
+    {
+      "id": "recIkzUZPbVIIe60B", 
+      "fields": {
+        "Name": "Bolt Of Lightning", 
+        "Image": [
+          {
+            "id": "att0wldJq5zddKOeq", 
+            "url": "https://dl.airtable.com/.attachments/a7ebdd9df331e68811b6b72035510e01/6e22a996/bolt.png", 
+            "filename": "bolt.png", 
+            "size": 1154158, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8e1e1750369da4eb1fcc77e3be67aa51/1c7e3c02", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bf57b2331574f9f1680e33a640146e4d/9e8e03ff", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4d7d15f48c98eb9b2813d05ce983066a/44556e63", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Card Type": "Action", 
+        "Card Text": "Do 3 damage to an enemy.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 1, 
+        "Card #": "009/081", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bolt%20of%20lightning?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T07:22:13.000Z"
+    }, 
+    {
+      "id": "recIvSU5dupDOjjZC", 
+      "fields": {
+        "Name": "Data Bank", 
+        "Image": [
+          {
+            "id": "attaqB9VhqbN2sdhe", 
+            "url": "https://dl.airtable.com/.attachments/58afd39ae2f3273b31cfbddfe3c452bb/7a827ed5/data-bank.png", 
+            "filename": "Front", 
+            "size": 151428, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d5ff86cb2192fa11a2454570ed2f3cd7/18ffa3b2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/41ea313992dfbcdd472a7602a949803c/3b61e1b3", 
+                "width": 512, 
+                "height": 700
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e86b25baeb2f3d48e2ddf69eff288331/64c2af1e", 
+                "width": 518, 
+                "height": 708
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "At the start of your turn > Draw a card.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "019/081", 
+        "Artist/Illustrator(s)": "E. J. Su", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/data-bank?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recJR0gEfhaB0KdE5", 
+      "fields": {
+        "Name": "Crushing Treads", 
+        "Image": [
+          {
+            "id": "att36938X1iVt9cyI", 
+            "url": "https://dl.airtable.com/.attachments/639a9f977dea75a34b20cf24299cba3e/cfa52a64/crushing-treads.png", 
+            "filename": "Front", 
+            "size": 173356, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ee15806719186e8e5439005ba098a2a1/dd4810a3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fdc1bee56148c63236f4347482177576/e9648dfc", 
+                "width": 499, 
+                "height": 693
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/34e889380a13cc6b13fbc4cfd75fd384/33562395", 
+                "width": 499, 
+                "height": 693
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "Put on Tanks only.\n\nThe upgraded character has Pierce equal to its \ud83d\udee1. (Do at least \ud83d\udee1 damage when attacking, but not more than \u2694 total. Pierce numbers add together.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "017/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/crushing%20treads?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recJltb5rTwHCMY5k", 
+      "fields": {
+        "Name": "Erratic Energy Grenade", 
+        "Image": [
+          {
+            "id": "attdV73ayFNSkkeFE", 
+            "url": "https://dl.airtable.com/.attachments/64925bd27b840ab9c1328ec9f9a7816d/4e93e3da/energygrenade.png", 
+            "filename": "energygrenade.png", 
+            "size": 1064622, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/66ab26671611610060c8c7d7754ace95/e6c9b30e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cf67f60ce4dd49f74abc042c667654c7/e7d6f78e", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8b14dc5124914e2ef1ff393c3d8f01f8/82d310b1", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "At the start of your turn \u2192 Do 1 damage to the upgraded character.\n\nWhen the upgraded character is KO'd \u2192 Do 2 damage to each enemy.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "023/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-04-17T00:46:31.000Z"
+    }, 
+    {
+      "id": "recK5yIJgTzj18O6M", 
+      "fields": {
+        "Name": "Reflex Circuits", 
+        "Image": [
+          {
+            "id": "attDKtvZL5eIeoOtZ", 
+            "url": "https://dl.airtable.com/.attachments/b3f164be728698722482dd9b09476ccf/00769c53/reflexcircuits.png", 
+            "filename": "reflexcircuits.png", 
+            "size": 1199747, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/db86a0ef5c2e84419c609d202b657301/c6a3c4a2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5adb74996a71584515093c44b4f573bc/159abe4f", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cf2b07a5126310acc390b218296ef362/849464c5", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\ud83d\udcd7"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "Put on Ranged characters only.\n\nWhile the upgraded character is defending against a Melee enemy > The upgraded character has +1 [DEF].", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "047/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:36:34.000Z"
+    }, 
+    {
+      "id": "recKFQxRorMnjiTN9", 
+      "fields": {
+        "Name": "Bombing Run", 
+        "Image": [
+          {
+            "id": "attyQK5GVQl3CU6wp", 
+            "url": "https://dl.airtable.com/.attachments/7f9697933754e9732957725b0741021e/6a714e44/bombing-run.png", 
+            "filename": "Front", 
+            "size": 180742, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/874f05d39efdc1b254333e8aefd988ab/f1807c07", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2ec76a5622affbb35853dff0d4229e96/b6e484f4", 
+                "width": 509, 
+                "height": 700
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d4a84f216bcb92e61fcfbb48398201c/8f010dfa", 
+                "width": 509, 
+                "height": 700
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Choose an enemy character. Move 1 damage from each of your Planes to that enemy.", 
+        "Rulings / Errata": [
+          "recXX77BPKsSkLpZF"
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "009/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/bombing-run?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T04:38:19.000Z"
+    }, 
+    {
+      "id": "recKIWdKk9BfAlW9M", 
+      "fields": {
+        "Name": "Stealthiness", 
+        "Image": [
+          {
+            "id": "att1HCTixDSep87TG", 
+            "url": "https://dl.airtable.com/.attachments/4ee9fa4398a1645dbab5ddceb535c2b1/a36e2f24/stealth.png", 
+            "filename": "stealth.png", 
+            "size": 787902, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df7d88190068fe502772950190befb10/d12fa600", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1d3e36bc8f4201e99424e58460ba9d50/6993a1f1", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2c0d49af71b0babf03c4105dc3f0afad/7c65c203", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "Stealth (Enemies attack other characters if able.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "064/081", 
+        "Artist/Illustrator(s)": "Sara Pitre-Durocher", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/stealthiness?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:41:35.000Z"
+    }, 
+    {
+      "id": "recKQLUEMwD6jzmAN", 
+      "fields": {
+        "Name": "Thermal Weaponry", 
+        "Image": [
+          {
+            "id": "attatI9uvRePwS1I2", 
+            "url": "https://dl.airtable.com/.attachments/0d64c3e48ff680106b24a39e5f45db16/4e88f036/thermal-weaponry.png", 
+            "filename": "Front Side", 
+            "size": 179318, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d196bb891afe35f004e873969d1b13f8/a74512d4", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3c692026628bd055086540a8a4f663cd/de255b0c", 
+                "width": 503, 
+                "height": 699
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6a22665d50ebffbe3c861bb1ab2e8c79/cfbebd65", 
+                "width": 503, 
+                "height": 699
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When the upgraded character is attacking > It has Pierce 1 that attack for each [BLUE] you flip. (Do at least 1 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 1, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "078/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/thermal%20weaponry?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recKXMzYtB6c8Iwj2", 
+      "fields": {
+        "Name": "Daring Counterattack", 
+        "Image": [
+          {
+            "id": "attCdF5J8HKY4Zo8y", 
+            "url": "https://dl.airtable.com/.attachments/aeb01f3d08fca652069af0b88c413ad6/d508a57b/daringcounterattack.png", 
+            "filename": "daringcounterattack.png", 
+            "size": 1021652, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8d1f1947e2bc45201bb6cd5df54e3418/3e00058a", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/633b790bec364e2858191b2cbbc5b14d/68ffc890", 
+                "width": 512, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b40c07f449d29407223d8a4aa3063458/fb3b1b76", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3A", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Choose one of your characters > It gets +1 [ATK] until end of turn for each Autobot Mini-Cassette in your KO area. If you have Blaster on the battlefield, the chosen character also gets Pierce 6 until end of turn. (Do at least 6 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "002/007", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-07-08T17:58:23.000Z"
+    }, 
+    {
+      "id": "recKeqrPBNH7O5XWq", 
+      "fields": {
+        "Name": "Steady Shot", 
+        "Image": [
+          {
+            "id": "attSMFHZx9jCSMxtB", 
+            "url": "https://dl.airtable.com/.attachments/aa88297f728df030f89f1beb08048a99/be191e76/steadyshot.png", 
+            "filename": "steadyshot.png", 
+            "size": 935487, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/be82984a9e24c1173afdd9fbd65cf09a/bf12e561", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0588f9932fd4734f8a2ce0b93175686a/89298e99", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5d2a0a57c0f0bf9405f4ad8696caeee9/cd69b340", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b", 
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets +2 [ATK] until end of turn.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "058/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-13T07:08:43.000Z"
+    }, 
+    {
+      "id": "recKrYFZTpjxEaqbY", 
+      "fields": {
+        "Name": "Anticipation Engine", 
+        "Image": [
+          {
+            "id": "attHa4xgbQKkfHoA6", 
+            "url": "https://dl.airtable.com/.attachments/6978cc1e7e87aa57c39afaf66089a401/66f8c167/anticipationengine.png", 
+            "filename": "anticipationengine.png", 
+            "size": 2616493, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/785e8043ced745d6e00aee5227a3b59e/56fb74e2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e7832c2e367c68dda4825a2dd3c2c9ee/67284b6d", 
+                "width": 512, 
+                "height": 713
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/69b836fe03f5be8773bf380d10866d87/1978279e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "When the upgraded character attacks > Reveal the top card of your deck. If it's an Action, play it.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "001/064", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/anticipation-engine?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:31:12.000Z"
+    }, 
+    {
+      "id": "recLOBeaP38L4uldX", 
+      "fields": {
+        "Name": "Collateral Damage", 
+        "Image": [
+          {
+            "id": "attY6mgcGTiCWyoXR", 
+            "url": "https://dl.airtable.com/.attachments/c68ff2191796fca7164a448317206ffe/63b3ff35/collateral-damage.png", 
+            "filename": "collateral-damage.png", 
+            "size": 191532, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8ecd2e1e4317c1898fe3c6d2abbe0187/1cfb064e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f9db499b20de3db1bbfa2bd52b85a39f/f22f724d", 
+                "width": 509, 
+                "height": 695
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8f4d922040f045c003d84ce2df3b6c8a/552c49a2", 
+                "width": 509, 
+                "height": 695
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Each player choose a Weapon on one of their characters and scraps it. Each player chooses a card in their hand and scraps it.", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card #": "013/081", 
+        "Artist/Illustrator(s)": "Guido Guidi", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/collateral-damage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recLQwTulrIN5j7GZ", 
+      "fields": {
+        "Name": "Security Checkpoint", 
+        "Image": [
+          {
+            "id": "attTGt4cSabAFJR3h", 
+            "url": "https://dl.airtable.com/.attachments/743de2a27312678a3e23a6dacfbdca07/2047fe55/security-checkpoint.png", 
+            "filename": "Front Side", 
+            "size": 188516, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1f9c171136ee7f2e6023a35ede15deb0/47384a12", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c6ec32f46b1fe490dd28d716cfcd74e8/971eac58", 
+                "width": 499, 
+                "height": 695
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a2f72b639f332a18843f893b09934adc/a3a45797", 
+                "width": 499, 
+                "height": 695
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd37\ud83d\udd37"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Each player reveals their hand and scraps all Upgrades from it.", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "066/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/security%20checkpoint?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recM2s3boNshEvNuh", 
+      "fields": {
+        "Name": "Defensive Formation", 
+        "Image": [
+          {
+            "id": "attkqQB0q5Y89aCru", 
+            "url": "https://dl.airtable.com/.attachments/6f70891b3206dfb870357fd652a8eb97/43837446/defensiveformation.png", 
+            "filename": "defensiveformation.png", 
+            "size": 1407123, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/50c7892e1ab363441033796ff80cad1a/202e6c7b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8e52a0f91c154e6eb81c99321399a38c/9f960da8", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e67dd75064857183e1ea61b13ed27919/fe9d4eb0", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Sub-Type": "Secret", 
+        "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > Each of your characters gets +1 [DEF] until end of turn.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "015/064", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-05-25T01:32:13.000Z"
+    }, 
+    {
+      "id": "recMPo1GbovcJM2Kg", 
+      "fields": {
+        "Name": "HV Electron Breacher", 
+        "Image": [
+          {
+            "id": "attmRzAiwf8TMT4ba", 
+            "url": "https://dl.airtable.com/.attachments/fb17120ad30df4831fb174ea601a538a/4afb9c61/electronbreacher.png", 
+            "filename": "electronbreacher.png", 
+            "size": 1182391, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cfc891d0b5d1b1a655e142b0c2da992a/811f548d", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0672631610c3f952357208b5203399e4/4ad8ef41", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e910a777bb6f0e0fa5fc967d55e5a50b/af39e948", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 3", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Weapon", 
+        "Card Text": "Put on Decepticons only.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 2, 
+        "Card #": "033/064", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-05-28T18:17:27.000Z"
+    }, 
+    {
+      "id": "recMTl56eAzUS9Qiz", 
+      "fields": {
+        "Name": "Protected By Metroplex", 
+        "Image": [
+          {
+            "id": "atteHxcgVYmAVW22F", 
+            "url": "https://dl.airtable.com/.attachments/1a7d524a73751a11188dcc6ee8cb200c/d464dd33/protected-by-metroplex.png", 
+            "filename": "Front Side", 
+            "size": 234387, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/03c95656c026053d5f4cd041e633e1ab/8ae8b8a8", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4b097ee6eef8a98406143c96b46cb86d/b667666e", 
+                "width": 483, 
+                "height": 677
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c9a282a78f190f8a01b9100eb9425645/165378d7", 
+                "width": 483, 
+                "height": 677
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1A", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Utility", 
+        "Card Text": "If the upgraded character would take damage \u2192 Instead your Metroplex takes that damage.", 
+        "Rulings / Errata": [
+          "recfGaWmjFddnMU0I"
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "002/003", 
+        "Artist/Illustrator(s)": "Phil Jiminez, Romulo Fajardo Jr.", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/protected%20by%20metroplex%20wave%201a%20metroplex?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Autobot"
+      }, 
+      "createdTime": "2019-02-08T05:57:38.000Z"
+    }, 
+    {
+      "id": "recMiCfJbBkvxfZno", 
+      "fields": {
+        "Name": "Swindled", 
+        "Image": [
+          {
+            "id": "attrYTy1GQozUJTtw", 
+            "url": "https://dl.airtable.com/.attachments/fc32a17a911dc6152ab492264eb59abc/474319a9/swindled.png", 
+            "filename": "swindled.png", 
+            "size": 1275824, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/28f89866f83c749e66ca15ec20df568b/bca9a2ef", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3a46b69aea99ab2eb6cf1fa44b7cdaea/ef16d42e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6ac989323913d6cf33510bf59c55cc40/ca7f05f2", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "Draw 2 cards. Then scrap 2 cards from your hand.\n\nIf you began the game with only Decepticon characters > You may play an upgrade.", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "072/081", 
+        "Artist/Illustrator(s)": "Andrew Griffith", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/swindled?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Decepticon"
+      }, 
+      "createdTime": "2019-02-08T23:41:55.000Z"
+    }, 
+    {
+      "id": "recMomqtqmYUBNf1T", 
+      "fields": {
+        "Name": "Unleash Potential", 
+        "Image": [
+          {
+            "id": "attFwROi9iX9FvczP", 
+            "url": "https://dl.airtable.com/.attachments/28ee3fbeaf9b0db801ec14bc4b9dca5d/a671c16a/unleash.png", 
+            "filename": "unleash.png", 
+            "size": 1147283, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/363347dac640ea421bd6c6c2e0f71458/9a6d8347", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/86cb20cedb848587c2abbc736657950c/1c356b1e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0fd58f8d59a0b3935d60b44c80c55c1c/94e00929", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "If you've played Ancient Wisdom this turn \u2192 Choose a battle card you own from outside the game that has 1 [STAR] and put it into your hand.", 
+        "Rulings / Errata": [
+          "rec3T75oVknVgK8Wx"
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "079/081", 
+        "Artist/Illustrator(s)": "Sarah Stone", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/unleash%20potential?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T23:42:12.000Z"
+    }, 
+    {
+      "id": "recMwVHTXpnlfxr0n", 
+      "fields": {
+        "Name": "Defensive Driving", 
+        "Image": [
+          {
+            "id": "attaygK8179tgp6eh", 
+            "url": "https://dl.airtable.com/.attachments/5226f5c2c37276e43a7e1c2e9a63286e/305d5ff1/defensivedriving.png", 
+            "filename": "defensivedriving.png", 
+            "size": 1192157, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e445fd3e43e39e360fa4eefd6e7a5d4d/09f6a1fb", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7f4f5a1d09acd3c5668f68e987ffd0cf/46a90d9e", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6acbf1b0c5675f64338c754a18689d7f/2f12f00d", 
+                "width": 744, 
+                "height": 1039
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 2", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Card Text": "If the upgraded character would take non-attack damage from an opponent's card > Instead the upgraded character takes that much damage minus 1.", 
+        "Rulings / Errata": [
+          "recbUsgFGE61AmvLd"
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 0, 
+        "Card #": "018/081", 
+        "Artist/Illustrator(s)": "Nick Roche", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/defensive%20driving?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T10:37:05.000Z"
+    }, 
+    {
+      "id": "recNeo49uZzghLxZm", 
+      "fields": {
+        "Name": "Armored Plating", 
+        "Image": [
+          {
+            "id": "attoufz7Rd6pDNzAG", 
+            "url": "https://dl.airtable.com/.attachments/f020b1145d23a5008e133c9764b0e2f9/30c7e9f9/armoredplating.png", 
+            "filename": "armoredplating.png", 
+            "size": 318295, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bb9e7ffc19392ed8f8240bce21bcf39f/bf454d78", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3682eddd4fc8e5cdf95fd77e48f86fd3/b8ebca90", 
+                "width": 371, 
+                "height": 519
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13ce64b2c3b807706e23135ce2c0a553/ab157028", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Upgrade", 
+        "Sub-Type": "Armor", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "\u2694\ufe0f\u0394": 0, 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "004/081", 
+        "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/armored-plating?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T04:26:32.000Z"
+    }, 
+    {
+      "id": "recNwArFeapt3qyHh", 
+      "fields": {
+        "Name": "The Bigger They Are...", 
+        "Image": [
+          {
+            "id": "attsZgyHSklcC7UMU", 
+            "url": "https://dl.airtable.com/.attachments/5f93ba2f4048658d56a57503dff31dae/1d5241ff/the-bigger-they-are.png", 
+            "filename": "Front Side", 
+            "size": 183798, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/80493bf2d350fbbf1a4527da8f291229/d78cc8d9", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ae5e6e0e739b2bdd0655e5254707f953/de1a7370", 
+                "width": 512, 
+                "height": 698
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/68ca47301e30e49f5ef702180b18f395/4222107a", 
+                "width": 520, 
+                "height": 709
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets +2 [ATK] until end of turn.  While it's attacking an enemy that has more [STARS] than it, it gets Pierce 4. (Do at least 4 damage when attacking, but not more than Attack total. Pierce numbers add together.)", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card #": "077/081", 
+        "Artist/Illustrator(s)": "Alex Milne", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/the%20bigger%20they%20are?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }, 
+    {
+      "id": "recOT8usKetOE8yaN", 
+      "fields": {
+        "Name": "Supercharge", 
+        "Image": [
+          {
+            "id": "attUxmIyPy0ESXRm7", 
+            "url": "https://dl.airtable.com/.attachments/f0f5e0c3559a857940a44db70a9de9dd/01b361f0/supercharge.png", 
+            "filename": "Front Side", 
+            "size": 192925, 
+            "type": "image/png", 
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6e8c6e44146c4da3ccf10636b58e352d/768a80d6", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/94a5787c88ba11442709b152e9a758c6/0eab29f6", 
+                "width": 507, 
+                "height": 702
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eede40dbab91ea5d233551bf4824371d/d48f5c9a", 
+                "width": 507, 
+                "height": 702
+              }
+            }
+          }
+        ], 
+        "Set": "Wave 1", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Card Type": "Action", 
+        "Card Text": "One of your characters gets Bold 3 until end of turn. (Flip 3 more battle cards when attacking.)", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card #": "071/081", 
+        "Artist/Illustrator(s)": "E. J. Su", 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/supercharge?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
+        "Affiliation": "Neutral"
+      }, 
+      "createdTime": "2019-02-08T05:31:18.000Z"
+    }
+  ], 
+  "offset": "itrWmXzfw8K8m9IjU/recOT8usKetOE8yaN"
+}
