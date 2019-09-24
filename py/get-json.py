@@ -22,6 +22,6 @@ transformers_card_id='appVjmNG3AukyOaQn'
 at = airtable.Airtable(transformers_card_id, key)
 
 # Grab cards
-airtable_to_json_file(at, 'Bot Cards', '../json/bot-cards.json')
-airtable_to_json_file(at, 'Battle Cards', '../json/battle-cards.json')
-airtable_to_json_file(at, 'Combiner Forms', '../json/combiner-forms.json')
+airtable_to_json_file(at, 'Bot Cards', '../docs/json/bot-cards.json')
+airtable_to_json_file(at, 'Battle Cards', '../docs/json/battle-cards.json')
+airtable_to_json_file(at, 'Combiner Forms', '../docs/json/combiner-forms.json')
