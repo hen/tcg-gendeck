@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>List W3/4 Bots</h1>
+        <h1>Generated Wave 3 Pack</h1>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -13,16 +13,83 @@
 
         <script>
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
-              var items = [];
+              var wave3 = [];
+              var wave3_small = [];
               $.each( data.records, function( idx, card ) {
-                  if(card.fields.Set=='Wave 3' || card.fields.Set=='Wave 4') {
-                      items.push( "<li id='" + card.id + "'><img src='" + card.fields['Image(s)'][0].thumbnails.small.url + "'/>" + card.fields.Set + ": " + card.fields.Name + "</li>" );
+                  if(card.fields.Set=='Wave 3') {
+                    var small = false;
+                    if(card.fields['Alt Type(s)']) {
+                      if(card.fields['Alt Type(s)'].includes('Battle Master')) {
+                      small = true;
+                    }
+                    if(card.fields.Tribe) {
+                      $.each( card.fields.Tribe, function( idx, tribe ) {
+                        if( tribe.endsWith('Patrol') ) {
+                          small = true;
+                          return;
+                        }
+                      });
+                    }
+                    if(small) {
+                      wave3_small.push(card);
+                    } else {
+                      wave3.push(card);
+                    }
                   }
+                }
+              });
+
+              var chosen = [];
+
+              // Simplistic choice
+              chosen.push( wave3[Math.floor(Math.random() * wave3.length)] );
+              chosen.push( wave3_small[Math.floor(Math.random() * wave3_small.length)] );
+
+              var li_items = [];
+
+              $.each( chosen, function( idx, card ) {
+                li_items.push( "<li id='" + card.id + "'><img src='" + card.fields['Image(s)'][0].thumbnails.large.url + "'/>");
+                //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
               });
 
               $( "<ul/>", {
                 "class": "bot-cards",
-                html: items.join( "" )
+                html: li_items.join( "" )
+              }).appendTo( "body" );
+            });
+        </script>
+        <script>
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+              var wave3 = [];
+              wave3['Common'] = [];
+              wave3['Uncommon'] = [];
+              wave3['Rare'] = [];
+              $.each( data.records, function( idx, card ) {
+                  if(card.fields.Set=='Wave 3') {
+                    wave3[card.fields.Rarity].push(card);
+                  }
+              });
+
+              var chosen = [];
+
+              for (i = 0; i < 3; i++) {
+                chosen.push( wave3['Common'][Math.floor(Math.random() * wave3['Common'].length)] );
+              }
+              for (i = 0; i < 2; i++) {
+                chosen.push( wave3['Uncommon'][Math.floor(Math.random() * wave3['Uncommon'].length)] );
+              }
+              chosen.push( wave3['Rare'][Math.floor(Math.random() * wave3['Rare'].length)] );
+
+              var li_items = [];
+
+              $.each( chosen, function( idx, card ) {
+                li_items.push( "<li id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
+                //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
+              });
+
+              $( "<ul/>", {
+                "class": "bot-cards",
+                html: li_items.join( "" )
               }).appendTo( "body" );
             });
         </script>
