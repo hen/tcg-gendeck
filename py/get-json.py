@@ -1,11 +1,13 @@
 import json
 import os
 
-from airtable import airtable
+from airtable import Airtable
 
 # Grab the cards, save them as JSON
-def airtable_to_json_file(at, table_name, file_name):
-    cards = at.get(table_name)
+def airtable_to_json_file(id, api_key, table_name, file_name):
+    # Open a connection to Airtable
+    at = Airtable(id, table_name, api_key=api_key)
+    cards = at.get_all()
     json_file=open(file_name, 'w+')
     json_file.write(json.dumps(cards, indent=2))
     json_file.close()
@@ -18,10 +20,7 @@ key_file.close()
 # ID for the transformers.cards application
 transformers_card_id='appVjmNG3AukyOaQn'
 
-# Open a connection to Airtable
-at = airtable.Airtable(transformers_card_id, key)
-
 # Grab cards
-airtable_to_json_file(at, 'Bot Cards', '../docs/json/bot-cards.json')
-airtable_to_json_file(at, 'Battle Cards', '../docs/json/battle-cards.json')
-airtable_to_json_file(at, 'Combiner Forms', '../docs/json/combiner-forms.json')
+airtable_to_json_file(transformers_card_id, key, 'Bot Cards', '../docs/json/bot-cards.json')
+airtable_to_json_file(transformers_card_id, key, 'Battle Cards', '../docs/json/battle-cards.json')
+airtable_to_json_file(transformers_card_id, key, 'Combiner Forms', '../docs/json/combiner-forms.json')
