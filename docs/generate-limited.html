@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>List Bots</h1>
+        <h1>List W3/4 Bots</h1>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -15,7 +15,9 @@
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
               var items = [];
               $.each( data.records, function( idx, card ) {
-                  items.push( "<li id='" + card.id + "'><img src='" + card.fields['Image(s)'][0].thumbnails.small.url + "'/>" + card.fields.Set + ": " + card.fields.Name + "</li>" );
+                  if(card.fields.Set=='Wave 3' || card.fields.Set=='Wave 4') {
+                      items.push( "<li id='" + card.id + "'><img src='" + card.fields['Image(s)'][0].thumbnails.small.url + "'/>" + card.fields.Set + ": " + card.fields.Name + "</li>" );
+                  }
               });
 
               $( "<ul/>", {
