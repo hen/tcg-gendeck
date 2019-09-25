@@ -1,6 +1,8 @@
 # tcg-gendeck
 
-This produces a web page that lets you generate a random Transformers TCG Wave 3 booster pack.
+This produces a web page that lets you generate a random Transformers TCG Wave 3 booster pack:
+
+    https://hen.github.io/tcg-gendeck/generate-limited.html
 
 TODO: 
 
