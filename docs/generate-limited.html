@@ -15,11 +15,41 @@
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
               var wave3 = [];
               var wave3_small = [];
+
+//  Wave 1:    Super Rare is 1:79
+//  Wave 1:    
+//  Wave 2:    Combiner is 1:2  (not really useful)
+//  Wave 2:    
+//  Wave 3:    Super Rare is 1:50, Uncommon-Small is 1:5.
+//  Wave 3:    Rare is? 1:10?  Uncommon is?  1:3?
+//  Wave 4:    Super Rare is 1:50, Uncommon-Small is 1:3.    (1:3 means 1 X card for every 3 Y cards; I think)
+//  Wave 4:    Rare is?   Uncommon is?
+
+              var wave3_small_ratios = [1, 4];    // Equivalent of 1:3
+              var wave3_ratios = [1, 53, 72, 80];   // Equivalent-ish of 1:(79/3):(79/10):79
+              var rarities = ['Common', 'Uncommon', 'Rare', 'Super-Rare']
+
+              rarity_random = Math.ceil(Math.random() * 4);   // replace 4 with max of ratios
+              var chosen_small_rarity = '';
+              $.each( wave3_small_ratios, function( idx, ratio ) {
+                if(rarity_random >= ratio) {
+                  chosen_small_rarity = rarities[idx]
+                }
+              });
+
+              rarity_random = Math.ceil(Math.random() * 80);   // replace 80 with max of ratios
+              var chosen_rarity = '';
+              $.each( wave3_ratios, function( idx, ratio ) {
+                if(rarity_random >= ratio) {
+                  chosen_rarity = rarities[idx]
+                }
+              });
+
               $.each( data.records, function( idx, card ) {
-                  if(card.fields.Set=='Wave 3') {
-                    var small = false;
-                    if(card.fields['Alt Type(s)']) {
-                      if(card.fields['Alt Type(s)'].includes('Battle Master')) {
+                if(card.fields.Set=='Wave 3') {
+                  var small = false;
+                  if(card.fields['Alt Type(s)']) {
+                    if(card.fields['Alt Type(s)'].includes('Battle Master')) {
                       small = true;
                     }
                     if(card.fields.Tribe) {
@@ -31,31 +61,32 @@
                       });
                     }
                     if(small) {
-                      wave3_small.push(card);
+                      if(card.fields.Rarity==chosen_small_rarity) {
+                        wave3_small.push(card);
+                      }
                     } else {
-                      wave3.push(card);
+                      if(card.fields.Rarity==chosen_rarity) {
+                        wave3.push(card);
+                      }
                     }
                   }
                 }
               });
 
-              var chosen = [];
+              var chosen=wave3[Math.floor(Math.random() * wave3.length)];
 
-              // Simplistic choice
-              chosen.push( wave3[Math.floor(Math.random() * wave3.length)] );
-              chosen.push( wave3_small[Math.floor(Math.random() * wave3_small.length)] );
+              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='375' height='525' src='" + chosen.fields['Image(s)'][0].thumbnails.large.url + "'/>";
+                //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
-              var li_items = [];
+              $( chosen_item ).appendTo( "#bot_cards" );
 
-              $.each( chosen, function( idx, card ) {
-                li_items.push( "<li id='" + card.id + "'><img src='" + card.fields['Image(s)'][0].thumbnails.large.url + "'/>");
-                //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
-              });
 
-              $( "<ul/>", {
-                "class": "bot-cards",
-                html: li_items.join( "" )
-              }).appendTo( "body" );
+              chosen=wave3_small[Math.floor(Math.random() * wave3_small.length)];
+              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][0].thumbnails.large.url + "'/>";
+                //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
+
+              $( chosen_item ).appendTo( "#bot_cards" );
+
             });
         </script>
         <script>
@@ -83,16 +114,24 @@
               var li_items = [];
 
               $.each( chosen, function( idx, card ) {
-                li_items.push( "<li id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
+                li_items.push( "<li style='display: inline' class='battle-card' id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
                 //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
               });
 
-              $( "<ul/>", {
-                "class": "bot-cards",
-                html: li_items.join( "" )
-              }).appendTo( "body" );
+              $( li_items.join( "" ) ).appendTo( "#battle_cards" );
             });
         </script>
+
+        <ul style="list-style: none">
+          <li>
+            <ul style="list-style: none" id="bot_cards">
+            </ul>
+          </li>
+          <li>
+            <ul style="list-style: none" id="battle_cards">
+            </ul>
+          </li>
+        </ul>
 
     </body>
 </html>
