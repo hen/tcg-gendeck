@@ -109,75 +109,83 @@
               return cards[Math.floor(Math.random() * cards.length)];
             }
 
-            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
-              chosen=get_bot_card(data, wave);
-
+            function place_bot_card(card, css_class, css_container_id) {
               var img_index=0;
               if(is_bot_on_back(chosen)) {
                 img_index=1;
               }
-              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='375' height='525' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
+              chosen_item="<li class='" + css_class + "' id='" + chosen.id + "'><img src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
                 //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
-              $( chosen_item ).appendTo( "#bot_cards" );
+              $( chosen_item ).appendTo( "#" + css_container_id );
+            }
 
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+              chosen=get_bot_card(data, wave);
+              place_bot_card(chosen, "bot_card", "bot_cards");
 
               chosen=get_small_bot_card(data, wave);
-              img_index=0;
-              if(is_bot_on_back(chosen)) {
-                img_index=1;
-              }
-              chosen_item="<li style='position: absolute; left: 500; top:70;' class='small_card' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
-                //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
-
-              $( chosen_item ).appendTo( "#battle_cards" );
-
+              place_bot_card(chosen, "small_card", "battle_cards");
             });
 
-
-            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+            function get_n_unique_battle_cards(cards, n) {
+              var chosen_cards = [];
+              for (i = 0; i < n; i++) {
+                var rnd = Math.floor(Math.random() * cards.length);
+                chosen_cards.push( cards[rnd] );
+                cards.splice( rnd, 1 );
+              }
+              return chosen_cards;
+            }
+            function get_battle_pack_for_wave(data, wave) {
               var wave_cards = [];
-              wave_cards['Common'] = [];
-              wave_cards['Uncommon'] = [];
-              wave_cards['Rare'] = [];
+
+              // Create empty arrays for each rarity
+              rarities.forEach( item => wave_cards[item] = [] );
+
+              // Filter cards for wave into each rarity
               $.each( data.records, function( idx, card ) {
                   if(card.fields.Set==wave) {
                     wave_cards[card.fields.Rarity].push(card);
                   }
               });
 
-              var chosen = [];
+              chosen_cards = [];
 
-              for (i = 0; i < 3; i++) {
-                var rnd = Math.floor(Math.random() * wave_cards['Common'].length);
-                chosen.push( wave_cards['Common'][rnd] );
-                wave_cards['Common'].splice( rnd, 1 );
-              }
-              for (i = 0; i < 2; i++) {
-                var rnd = Math.floor(Math.random() * wave_cards['Uncommon'].length);
-                chosen.push( wave_cards['Uncommon'][rnd] );
-                wave_cards['Uncommon'].splice( rnd, 1 );
-              }
-              chosen.push( wave_cards['Rare'][Math.floor(Math.random() * wave_cards['Rare'].length)] );
+              battle_card_makeup[wave].forEach( 
+                function(count, index) {
+                  chosen_cards = chosen_cards.concat( get_n_unique_battle_cards(wave_cards[rarities[index]], count ) );
+                }
+              );
 
-              var li_items = [];
+              return chosen_cards;
+            }
 
-              var drop_distance = 120;      // This needs to be different for wave 1/2
-              var zIndex = 2;
+            function place_battle_card(card, css_class, css_container_id, index) {
+              var drop_distance = 20 + 50 * index;      // This needs to be different for wave 1/2
+              var zIndex = index;
+              chosen_item="<li style='top: " + drop_distance + "; z-index: " + zIndex + ";' class='small_card' id='" + card.id + "'><img src='" + card.fields['Image'][0].thumbnails.large.url + "'/>";
+                //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
+
+              $( chosen_item ).appendTo( "#" + css_container_id );
+            }
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+              var chosen=get_battle_pack_for_wave(data, wave);
 
               $.each( chosen, function( idx, card ) {
-                li_items.push( "<li style='position: absolute; left: 500; top: " + drop_distance + "; z-index: " + zIndex + ";' class='small_card' id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
-                //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
-                drop_distance += 55;
-                zIndex += 1;
+                place_battle_card(card, "small_card", "battle_cards", idx + 2);      // +2 is a hard-code for being on wave 3/4
               });
-
-              $( li_items.join( "" ) ).appendTo( "#battle_cards" );
             });
         </script>
 
         <style>
           .small_card:hover { z-index: 100 !important; }
+          .bot_card { display: inline; }
+          .bot_card img { width: 375; height: 525; }
+          .small_card { position: absolute; left: 500; top: 70; }
+          .small_card img { width: 250; height: 350; }
           ul { list-style: none; }
         </style>
 
