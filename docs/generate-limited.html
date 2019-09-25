@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>Generated Wave 3 Pack</h1>
+        <h1>Generated 3 x Wave 3 Packs</h1>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -120,13 +120,18 @@
               $( chosen_item ).appendTo( "#" + css_container_id );
             }
 
-
-            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+            function pull_bots(data, wave, widget) {
               chosen=get_bot_card(data, wave);
-              place_bot_card(chosen, "bot_card", "bot_cards");
+              place_bot_card(chosen, "bot_card", "bot_cards" + widget);
 
               chosen=get_small_bot_card(data, wave);
-              place_bot_card(chosen, "small_card", "battle_cards");
+              place_bot_card(chosen, "small_card", "battle_cards" + widget);
+            }
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+              pull_bots(data, wave, 1);
+              pull_bots(data, wave, 2);
+              pull_bots(data, wave, 3);
             });
 
             function get_n_unique_battle_cards(cards, n) {
@@ -163,7 +168,7 @@
             }
 
             function place_battle_card(card, css_class, css_container_id, index) {
-              var drop_distance = 20 + 50 * index;      // This needs to be different for wave 1/2
+              var drop_distance = 50 * index - 35;      // This needs to be different for wave 1/2
               var zIndex = index;
               chosen_item="<li style='top: " + drop_distance + "; z-index: " + zIndex + ";' class='small_card' id='" + card.id + "'><img src='" + card.fields['Image'][0].thumbnails.large.url + "'/>";
                 //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
@@ -171,12 +176,18 @@
               $( chosen_item ).appendTo( "#" + css_container_id );
             }
 
-            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+            function pull_battle_cards(data, wave, widget) {
               var chosen=get_battle_pack_for_wave(data, wave);
 
               $.each( chosen, function( idx, card ) {
-                place_battle_card(card, "small_card", "battle_cards", idx + 2);      // +2 is a hard-code for being on wave 3/4
+                place_battle_card(card, "small_card", "battle_cards" + widget, idx + 2);      // +2 is a hard-code for being on wave 3/4
               });
+            }
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+              pull_battle_cards(data, wave, 1);
+              pull_battle_cards(data, wave, 2);
+              pull_battle_cards(data, wave, 3);
             });
         </script>
 
@@ -184,18 +195,41 @@
           .small_card:hover { z-index: 100 !important; }
           .bot_card { display: inline; }
           .bot_card img { width: 375; height: 525; }
-          .small_card { position: absolute; left: 500; top: 70; }
+          .small_card { position: absolute; left: 500; top: 15; }
           .small_card img { width: 250; height: 350; }
           ul { list-style: none; }
+          .card_pull { position: relative; }
         </style>
 
-        <ul>
+        <ul class="card_pull">
           <li>
-            <ul id="bot_cards">
+            <ul id="bot_cards1">
             </ul>
           </li>
           <li>
-            <ul id="battle_cards">
+            <ul id="battle_cards1">
+            </ul>
+          </li>
+        </ul>
+
+        <ul class="card_pull" style="z-index: 20">
+          <li>
+            <ul id="bot_cards2">
+            </ul>
+          </li>
+          <li>
+            <ul id="battle_cards2">
+            </ul>
+          </li>
+        </ul>
+
+        <ul class="card_pull" style="z-index: 30">
+          <li>
+            <ul id="bot_cards3">
+            </ul>
+          </li>
+          <li>
+            <ul id="battle_cards3">
             </ul>
           </li>
         </ul>
