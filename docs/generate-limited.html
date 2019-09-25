@@ -36,7 +36,8 @@
               'Wave 4': [1, 4],                 // Equivalent of 1:3
             };
 
-            function get_rarity_from_ratio(ratio_array, highest) {
+            function get_rarity_from_ratio(ratio_array) {
+              highest = Math.max.apply(null, ratio_array);
               rarity_random = Math.ceil(Math.random() * highest);   // replace highest with max of ratios
               var chosen = '';
               $.each( ratio_array, function( idx, ratio ) {
@@ -49,8 +50,8 @@
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
 
-              chosen_small_rarity = get_rarity_from_ratio(small_ratios[wave], 4);
-              chosen_rarity = get_rarity_from_ratio(ratios[wave], 80);
+              chosen_small_rarity = get_rarity_from_ratio(small_ratios[wave]);
+              chosen_rarity = get_rarity_from_ratio(ratios[wave]);
 
               var wave_cards = [];
               var wave_small_cards = [];
