@@ -93,14 +93,14 @@
                   img_index=1;
                 }
               }
-              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
+              chosen_item="<li style='position: absolute; left: 500; top:70;z-index: -1;' class='small_card' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
                 //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
-              $( chosen_item ).appendTo( "#bot_cards" );
+              $( chosen_item ).appendTo( "#battle_cards" );
 
             });
-        </script>
-        <script>
+
+
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
               var wave3 = [];
               wave3['Common'] = [];
@@ -128,22 +128,31 @@
 
               var li_items = [];
 
+              var drop_distance = 120;      // This needs to be different for wave 1/2
+
               $.each( chosen, function( idx, card ) {
-                li_items.push( "<li style='display: inline' class='battle-card' id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
+                li_items.push( "<li style='position: absolute; left: 500; top: " + drop_distance + ";' class='small-card' id='" + card.id + "'><img width='250' height='350' src='" + card.fields['Image'][0].thumbnails.large.url + "'/>");
                 //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
+                drop_distance += 55;
               });
 
               $( li_items.join( "" ) ).appendTo( "#battle_cards" );
             });
         </script>
 
-        <ul style="list-style: none">
+        <style>
+          .small-card { float: left; }
+          ul { list-style: none; }
+          #battle_cards li { }
+        </style>
+
+        <ul>
           <li>
-            <ul style="list-style: none" id="bot_cards">
+            <ul id="bot_cards">
             </ul>
           </li>
           <li>
-            <ul style="list-style: none" id="battle_cards">
+            <ul id="battle_cards">
             </ul>
           </li>
         </ul>
