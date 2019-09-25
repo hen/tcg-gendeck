@@ -134,7 +134,7 @@
               for (i = 0; i < 2; i++) {
                 var rnd = Math.floor(Math.random() * wave_cards['Uncommon'].length);
                 chosen.push( wave_cards['Uncommon'][rnd] );
-                wave_cards['Common'].splice( rnd, 1 );
+                wave_cards['Uncommon'].splice( rnd, 1 );
               }
               chosen.push( wave_cards['Rare'][Math.floor(Math.random() * wave_cards['Rare'].length)] );
 
