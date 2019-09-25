@@ -74,15 +74,26 @@
               });
 
               var chosen=wave3[Math.floor(Math.random() * wave3.length)];
-
-              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='375' height='525' src='" + chosen.fields['Image(s)'][0].thumbnails.large.url + "'/>";
+              var img_index=0;
+              if(chosen.fields['Alt Type(s)']) {
+                if(chosen.fields['Alt Type(s)'].includes('Weaponizer')) {
+                  img_index=1;
+                }
+              }
+              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='375' height='525' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
                 //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
               $( chosen_item ).appendTo( "#bot_cards" );
 
 
               chosen=wave3_small[Math.floor(Math.random() * wave3_small.length)];
-              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][0].thumbnails.large.url + "'/>";
+              img_index=0;
+              if(chosen.fields['Alt Type(s)']) {
+                if(chosen.fields['Alt Type(s)'].includes('Battle Master')) {
+                  img_index=1;
+                }
+              }
+              chosen_item="<li style='display: inline' id='" + chosen.id + "'><img width='250' height='350' src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
                 //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
               $( chosen_item ).appendTo( "#bot_cards" );
