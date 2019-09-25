@@ -104,10 +104,14 @@
               var chosen = [];
 
               for (i = 0; i < 3; i++) {
-                chosen.push( wave3['Common'][Math.floor(Math.random() * wave3['Common'].length)] );
+                var rnd = Math.floor(Math.random() * wave3['Common'].length);
+                chosen.push( wave3['Common'][rnd] );
+                wave3['Common'].splice( rnd, 1 );
               }
               for (i = 0; i < 2; i++) {
-                chosen.push( wave3['Uncommon'][Math.floor(Math.random() * wave3['Uncommon'].length)] );
+                var rnd = Math.floor(Math.random() * wave3['Uncommon'].length);
+                chosen.push( wave3['Uncommon'][rnd] );
+                wave3['Common'].splice( rnd, 1 );
               }
               chosen.push( wave3['Rare'][Math.floor(Math.random() * wave3['Rare'].length)] );
 
