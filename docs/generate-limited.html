@@ -12,26 +12,35 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
         <script>
+            // Which wave are we finding cards for?
+            var wave="Wave 3";
+
+            //  Wave 1:    Super Rare is 1:79
+            //  Wave 1:    
+            //  Wave 2:    Combiner is 1:2  (not really useful)
+            //  Wave 2:    
+            //  Wave 3:    Super Rare is 1:50, Uncommon-Small is 1:5.
+            //  Wave 3:    Rare is? 1:10?  Uncommon is?  1:3?
+            //  Wave 4:    Super Rare is 1:50, Uncommon-Small is 1:3.    (1:3 means 1 X card for every 3 Y cards; I think)
+            //  Wave 4:    Rare is?   Uncommon is?
+
+            // Matches order of array values below
+            var rarities = ['Common', 'Uncommon', 'Rare', 'Super-Rare']
+
+            var ratios={
+              'Wave 3': [1, 53, 72, 80],        // Equivalent-ish of 1:(79/3):(79/10):79
+              'Wave 4': [1, 53, 72, 80],        // Equivalent-ish of 1:(79/3):(79/10):79
+            };
+            var small_ratios={
+              'Wave 3': [1, 6],                 // Equivalent of 1:3
+              'Wave 4': [1, 4],                 // Equivalent of 1:3
+            };
+
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
-              var wave3 = [];
-              var wave3_small = [];
-
-//  Wave 1:    Super Rare is 1:79
-//  Wave 1:    
-//  Wave 2:    Combiner is 1:2  (not really useful)
-//  Wave 2:    
-//  Wave 3:    Super Rare is 1:50, Uncommon-Small is 1:5.
-//  Wave 3:    Rare is? 1:10?  Uncommon is?  1:3?
-//  Wave 4:    Super Rare is 1:50, Uncommon-Small is 1:3.    (1:3 means 1 X card for every 3 Y cards; I think)
-//  Wave 4:    Rare is?   Uncommon is?
-
-              var wave3_small_ratios = [1, 4];    // Equivalent of 1:3
-              var wave3_ratios = [1, 53, 72, 80];   // Equivalent-ish of 1:(79/3):(79/10):79
-              var rarities = ['Common', 'Uncommon', 'Rare', 'Super-Rare']
 
               rarity_random = Math.ceil(Math.random() * 4);   // replace 4 with max of ratios
               var chosen_small_rarity = '';
-              $.each( wave3_small_ratios, function( idx, ratio ) {
+              $.each( small_ratios[wave], function( idx, ratio ) {
                 if(rarity_random >= ratio) {
                   chosen_small_rarity = rarities[idx]
                 }
@@ -39,14 +48,17 @@
 
               rarity_random = Math.ceil(Math.random() * 80);   // replace 80 with max of ratios
               var chosen_rarity = '';
-              $.each( wave3_ratios, function( idx, ratio ) {
+              $.each( ratios[wave], function( idx, ratio ) {
                 if(rarity_random >= ratio) {
                   chosen_rarity = rarities[idx]
                 }
               });
 
+              var wave_cards = [];
+              var wave_small_cards = [];
+
               $.each( data.records, function( idx, card ) {
-                if(card.fields.Set=='Wave 3') {
+                if(card.fields.Set==wave) {
                   var small = false;
                   if(card.fields['Alt Type(s)']) {
                     if(card.fields['Alt Type(s)'].includes('Battle Master')) {
@@ -62,18 +74,18 @@
                     }
                     if(small) {
                       if(card.fields.Rarity==chosen_small_rarity) {
-                        wave3_small.push(card);
+                        wave_small_cards.push(card);
                       }
                     } else {
                       if(card.fields.Rarity==chosen_rarity) {
-                        wave3.push(card);
+                        wave_cards.push(card);
                       }
                     }
                   }
                 }
               });
 
-              var chosen=wave3[Math.floor(Math.random() * wave3.length)];
+              var chosen=wave_cards[Math.floor(Math.random() * wave_cards.length)];
               var img_index=0;
               if(chosen.fields['Alt Type(s)']) {
                 if(chosen.fields['Alt Type(s)'].includes('Weaponizer')) {
@@ -86,7 +98,7 @@
               $( chosen_item ).appendTo( "#bot_cards" );
 
 
-              chosen=wave3_small[Math.floor(Math.random() * wave3_small.length)];
+              chosen=wave_small_cards[Math.floor(Math.random() * wave_small_cards.length)];
               img_index=0;
               if(chosen.fields['Alt Type(s)']) {
                 if(chosen.fields['Alt Type(s)'].includes('Battle Master')) {
@@ -102,29 +114,29 @@
 
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
-              var wave3 = [];
-              wave3['Common'] = [];
-              wave3['Uncommon'] = [];
-              wave3['Rare'] = [];
+              var wave_cards = [];
+              wave_cards['Common'] = [];
+              wave_cards['Uncommon'] = [];
+              wave_cards['Rare'] = [];
               $.each( data.records, function( idx, card ) {
-                  if(card.fields.Set=='Wave 3') {
-                    wave3[card.fields.Rarity].push(card);
+                  if(card.fields.Set==wave) {
+                    wave_cards[card.fields.Rarity].push(card);
                   }
               });
 
               var chosen = [];
 
               for (i = 0; i < 3; i++) {
-                var rnd = Math.floor(Math.random() * wave3['Common'].length);
-                chosen.push( wave3['Common'][rnd] );
-                wave3['Common'].splice( rnd, 1 );
+                var rnd = Math.floor(Math.random() * wave_cards['Common'].length);
+                chosen.push( wave_cards['Common'][rnd] );
+                wave_cards['Common'].splice( rnd, 1 );
               }
               for (i = 0; i < 2; i++) {
-                var rnd = Math.floor(Math.random() * wave3['Uncommon'].length);
-                chosen.push( wave3['Uncommon'][rnd] );
-                wave3['Common'].splice( rnd, 1 );
+                var rnd = Math.floor(Math.random() * wave_cards['Uncommon'].length);
+                chosen.push( wave_cards['Uncommon'][rnd] );
+                wave_cards['Common'].splice( rnd, 1 );
               }
-              chosen.push( wave3['Rare'][Math.floor(Math.random() * wave3['Rare'].length)] );
+              chosen.push( wave_cards['Rare'][Math.floor(Math.random() * wave_cards['Rare'].length)] );
 
               var li_items = [];
 
