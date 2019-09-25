@@ -36,23 +36,21 @@
               'Wave 4': [1, 4],                 // Equivalent of 1:3
             };
 
+            function get_rarity_from_ratio(ratio_array, highest) {
+              rarity_random = Math.ceil(Math.random() * highest);   // replace highest with max of ratios
+              var chosen = '';
+              $.each( ratio_array, function( idx, ratio ) {
+                if(rarity_random >= ratio) {
+                  chosen = rarities[idx]
+                }
+              });
+              return chosen;
+            }
+
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
 
-              rarity_random = Math.ceil(Math.random() * 4);   // replace 4 with max of ratios
-              var chosen_small_rarity = '';
-              $.each( small_ratios[wave], function( idx, ratio ) {
-                if(rarity_random >= ratio) {
-                  chosen_small_rarity = rarities[idx]
-                }
-              });
-
-              rarity_random = Math.ceil(Math.random() * 80);   // replace 80 with max of ratios
-              var chosen_rarity = '';
-              $.each( ratios[wave], function( idx, ratio ) {
-                if(rarity_random >= ratio) {
-                  chosen_rarity = rarities[idx]
-                }
-              });
+              chosen_small_rarity = get_rarity_from_ratio(small_ratios[wave], 4);
+              chosen_rarity = get_rarity_from_ratio(ratios[wave], 80);
 
               var wave_cards = [];
               var wave_small_cards = [];
