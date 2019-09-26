@@ -107,10 +107,7 @@ function get_bot_card(data, wave, wantSmall) {
 }
 
 function place_bot_card(card, css_class, css_container_id) {
-  var img_index=0;
-  if(is_bot_on_back(chosen)) {
-    img_index=1;
-  }
+  var img_index=chosen.fields['Image(s)'].length - 1;   // The last image seems to be the one with the stars
   chosen_item="<li class='" + css_class + "' id='" + chosen.id + "'><img src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
     //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
