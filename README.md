@@ -1,6 +1,6 @@
 # tcg-gendeck
 
-This produces a web page that generates a random 3xW3/3xW4 pull for creating a Limited deck for the Energon Invitational: https://hen.github.io/tcg-gendeck/ generate-limited.html
+This produces a web page that generates a random 3xW3/3xW4 pull for creating a Limited deck for the Energon Invitational: https://hen.github.io/tcg-gendeck/generate-limited.html
 
 TODO: 
 
