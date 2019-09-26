@@ -499,6 +499,7 @@
         ], 
         "Rarity": "Rare", 
         "\u2b50": 1, 
+        "Card Text": "When one of your Decepticons attacks an enemy this turn > You get an extra attack this turn but only, but only with one of your other Decepticons against the same enemy.", 
         "Affiliation": "Decepticon", 
         "Card #": "044/064"
       }, 
@@ -918,6 +919,16 @@
       "id": "rec3N3vI1la8Sp1TK"
     }, 
     {
+      "createdTime": "2019-09-24T22:18:52.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "013/064"
+      }, 
+      "id": "rec3jFMykmFgO6eg3"
+    }, 
+    {
       "createdTime": "2019-06-04T18:11:08.000Z", 
       "fields": {
         "Set": "Wave 3", 
@@ -999,11 +1010,22 @@
         ], 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
+        "Card Text": "Reveal > When one of your Decepticons defends.\n\nWhen Revealed > Do damage to the attacker equal to the number of Upgrades on that attacker.", 
         "Card #": "004/064", 
         "Affiliation": "Decepticon", 
         "Rarity": "Rare"
       }, 
       "id": "rec4HtJykiYQPH1XP"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:28:10.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "043/064"
+      }, 
+      "id": "rec4emWwtLVuAPA31"
     }, 
     {
       "createdTime": "2019-02-08T23:43:35.000Z", 
@@ -1226,6 +1248,16 @@
       "id": "rec5Roiu9PgBWgDex"
     }, 
     {
+      "createdTime": "2019-09-24T22:27:57.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "041/064"
+      }, 
+      "id": "rec5VG6mLyDoWIIiy"
+    }, 
+    {
       "createdTime": "2019-02-08T23:38:29.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -1360,6 +1392,16 @@
         "Rarity": "Uncommon"
       }, 
       "id": "rec6NiPTSFNaWiqHW"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:32:34.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "064/064"
+      }, 
+      "id": "rec6SGfYDsPywOVs2"
     }, 
     {
       "createdTime": "2019-02-08T05:31:18.000Z", 
@@ -1726,6 +1768,26 @@
       "id": "rec7SE26gTsIEkZxV"
     }, 
     {
+      "createdTime": "2019-09-24T22:27:07.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "037/064"
+      }, 
+      "id": "rec7tCzUcmGjKhRHS"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:27:33.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "039/064"
+      }, 
+      "id": "rec7xlV7r1yOe0n70"
+    }, 
+    {
       "createdTime": "2019-02-08T10:37:10.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -1988,6 +2050,7 @@
         ], 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
+        "Card Text": "The upgraded character has +2 [HP].", 
         "Card #": "038/064", 
         "Affiliation": "Neutral", 
         "Rarity": "Common"
@@ -2404,6 +2467,16 @@
       "id": "recBXNigPIpuC8uyF"
     }, 
     {
+      "createdTime": "2019-09-24T22:19:56.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "019/064"
+      }, 
+      "id": "recBrlFPDGB1z0s3u"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -2714,6 +2787,7 @@
         ], 
         "Rarity": "Rare", 
         "\u2b50": 0, 
+        "Card Text": "Choose one of your characters. Return another character that has the same number of [STARS] or fewer from your KO area to the battlefield fully repaired. Move the damage counters and Upgrades from the chosen character to the returned character. Then KO the chosen character.", 
         "Affiliation": "Neutral", 
         "Card #": "032/064"
       }, 
@@ -2854,6 +2928,16 @@
         "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente"
       }, 
       "id": "recD9mIkAiGrETgoC"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:29:47.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "049/064"
+      }, 
+      "id": "recD9oK3sMrwRkeTr"
     }, 
     {
       "createdTime": "2019-02-08T10:35:53.000Z", 
@@ -3035,6 +3119,26 @@
       "id": "recDoAJpAEhSpY0CS"
     }, 
     {
+      "createdTime": "2019-09-24T22:29:21.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "045/064"
+      }, 
+      "id": "recE5INH7fWvCVYBE"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:16:29.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "011/064"
+      }, 
+      "id": "recEBjNKx5zQndd31"
+    }, 
+    {
       "createdTime": "2019-02-08T23:41:48.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -3126,6 +3230,16 @@
       "id": "recEySlo9eaiiotmm"
     }, 
     {
+      "createdTime": "2019-09-24T22:32:24.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "063/064"
+      }, 
+      "id": "recFENJCwxOFYODqI"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -3211,6 +3325,26 @@
         "Artist/Illustrator(s)": "Alex Milne"
       }, 
       "id": "recFGJ3EHOUQzXogM"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:31:39.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "059/064"
+      }, 
+      "id": "recFNaxUU6c279Kpi"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:30:20.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "052/064"
+      }, 
+      "id": "recFVYiNBoAOZXMSi"
     }, 
     {
       "createdTime": "2019-05-09T18:33:46.000Z", 
@@ -3562,6 +3696,51 @@
         "Card #": "009/081"
       }, 
       "id": "recIkzUZPbVIIe60B"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:04:50.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1c", 
+          "\u2b1b"
+        ], 
+        "Name": "Swerve", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a165e9941e35ef10cbefd04077276efd/ebe0d475", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/17784431a92905151b98fe1d6681616a/d702c101", 
+                "width": 457, 
+                "height": 638
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cf274271f6da4a03f16869ccb0255a4a/541b1313", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/284c4c2a16ad054e3738b6393d7ad419/f4228966/swerve.png", 
+            "filename": "swerve.png", 
+            "type": "image/png", 
+            "id": "attVDUp6zFBUltnH0", 
+            "size": 453595
+          }
+        ], 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When one of your characters in bot mode defends.\n\nWhen Reveal > Flip that character to alt mode.", 
+        "Card #": "058/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Uncommon"
+      }, 
+      "id": "recIoLnSNnnJdG2sZ"
     }, 
     {
       "createdTime": "2019-02-08T05:31:18.000Z", 
@@ -3983,6 +4162,16 @@
       "id": "recKeqrPBNH7O5XWq"
     }, 
     {
+      "createdTime": "2019-09-24T22:22:31.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "027/064"
+      }, 
+      "id": "recKlxfunUZZoeWLw"
+    }, 
+    {
       "createdTime": "2019-05-25T01:31:12.000Z", 
       "fields": {
         "Set": "Wave 3", 
@@ -4026,6 +4215,16 @@
         "Rarity": "Uncommon"
       }, 
       "id": "recKrYFZTpjxEaqbY"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:30:09.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "051/064"
+      }, 
+      "id": "recL18JvOk4hU22wd"
     }, 
     {
       "createdTime": "2019-02-08T05:31:18.000Z", 
@@ -4402,6 +4601,16 @@
       "id": "recMwVHTXpnlfxr0n"
     }, 
     {
+      "createdTime": "2019-09-24T22:30:40.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "054/064"
+      }, 
+      "id": "recMxV3wriVYnx3Gc"
+    }, 
+    {
       "createdTime": "2019-02-08T04:26:32.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -4494,6 +4703,16 @@
       "id": "recNwArFeapt3qyHh"
     }, 
     {
+      "createdTime": "2019-09-24T22:31:49.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "060/064"
+      }, 
+      "id": "recOMV3KigLdOBabW"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -4537,6 +4756,16 @@
         "Artist/Illustrator(s)": "E. J. Su"
       }, 
       "id": "recOT8usKetOE8yaN"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:24:10.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "031/064"
+      }, 
+      "id": "recOrwQypOjhrK0qT"
     }, 
     {
       "createdTime": "2019-09-20T23:17:29.000Z", 
@@ -4768,6 +4997,16 @@
         "Artist/Illustrator(s)": "Alex Milne"
       }, 
       "id": "recQAOKXgyo8HYXfo"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:31:10.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "057/064"
+      }, 
+      "id": "recQKfHPVkif9FyKE"
     }, 
     {
       "createdTime": "2019-05-25T01:38:04.000Z", 
@@ -5764,6 +6003,7 @@
         ], 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
+        "Card Text": "The upgraded character has Brave while tapped.\n(Enemies attack the upgraded character if able.)", 
         "Card #": "047/064", 
         "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
@@ -5907,6 +6147,16 @@
         "Artist/Illustrator(s)": "Alex Milne"
       }, 
       "id": "recV4uCyvOYsuyT3c"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:14:40.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "005/064"
+      }, 
+      "id": "recV6TbsWlCLmi4eu"
     }, 
     {
       "createdTime": "2019-02-08T05:31:18.000Z", 
@@ -6259,6 +6509,7 @@
         ], 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
+        "Card Text": "The upgraded characater has an extra Armor slot.\n\nWhen you put this on a character > Reveal the top card of your deck. If it's an Armor, play it onto the upgraded character.", 
         "Card #": "016/064", 
         "Affiliation": "Neutral", 
         "Rarity": "Rare"
@@ -6624,6 +6875,26 @@
       "id": "recWpAEI5WznWYtYi"
     }, 
     {
+      "createdTime": "2019-09-24T22:24:18.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "033/064"
+      }, 
+      "id": "recX2ppEpcVraWku7"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:30:29.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "053/064"
+      }, 
+      "id": "recXT3TF1zW8eYfCI"
+    }, 
+    {
       "createdTime": "2019-02-08T23:38:30.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -6716,6 +6987,51 @@
         "Rarity": "Uncommon"
       }, 
       "id": "recXkasjKWdst3mTx"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:04:36.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1b", 
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Hijack", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/02a310b9a495d9bf30a4838a2e0a41b8/975ffea3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5256e8c9a509c269e431441a7e2c3020/47efcf2e", 
+                "width": 458, 
+                "height": 640
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a1b1e90e92fdd961d57ac5b37b0d27dd/2b607da8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/cc458b92ebee87c4f49be712ed692cc7/e7fe565f/hijack.png", 
+            "filename": "hijack.png", 
+            "type": "image/png", 
+            "id": "attHETzJye1AIMy2z", 
+            "size": 465111
+          }
+        ], 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > If your opponent would draw a second card during their turn.\n\nWhen Revealed > If your opponent would draw a card this turn, you draw a card instead.", 
+        "Card #": "028/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Rare"
+      }, 
+      "id": "recYAGvfIyWPosCZY"
     }, 
     {
       "createdTime": "2019-07-08T18:00:17.000Z", 
@@ -7132,6 +7448,16 @@
       "id": "recZjBE8SfE3h1AFV"
     }, 
     {
+      "createdTime": "2019-09-24T22:15:24.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "008/064"
+      }, 
+      "id": "reca0IKgRZP2lCBKh"
+    }, 
+    {
       "createdTime": "2019-02-08T23:42:18.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -7269,6 +7595,16 @@
       "id": "recaDax7Xa6koBsf3"
     }, 
     {
+      "createdTime": "2019-09-24T22:15:11.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "007/064"
+      }, 
+      "id": "recaJWD1p6CrbIS1N"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -7357,6 +7693,16 @@
         "Artist/Illustrator(s)": "Nick Roche"
       }, 
       "id": "recb8hNZZcAnAhvqd"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:27:45.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "040/064"
+      }, 
+      "id": "recbCUqzxbDC9RdXE"
     }, 
     {
       "createdTime": "2019-05-23T08:22:55.000Z", 
@@ -7548,6 +7894,16 @@
       "id": "recbl8e4yJjOZx67l"
     }, 
     {
+      "createdTime": "2019-09-24T22:29:31.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "046/064"
+      }, 
+      "id": "recbsw9NSKp8OkOcc"
+    }, 
+    {
       "createdTime": "2019-07-08T17:59:31.000Z", 
       "fields": {
         "Set": "Wave 3A", 
@@ -7729,6 +8085,50 @@
         "Card #": "004/005"
       }, 
       "id": "reccDaDWqnkTNLhuS"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:04:46.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Name": "Overheat", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bb75399a0834d57c86e73b6ec670fe0a/c6350dd6", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/517883480e38d1619e06722ff7011c9a/c2d6c28a", 
+                "width": 457, 
+                "height": 638
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fa2367cb83d8fa4cb2ce48843ccc453c/85c032ec", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/f3eb534cf870cdeb2c5610b0306d23b7/acf20f9e/overheat.png", 
+            "filename": "overheat.png", 
+            "type": "image/png", 
+            "id": "attf64JLjUhorJKMD", 
+            "size": 443805
+          }
+        ], 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When an enemy attacks and your opponent flips 7 or more battle cards.\n\nWhen Revealed > This battle, [ORANGE] doesn't add to [ATK] and [BLACK] doesn't give Pierce.", 
+        "Card #": "042/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Rare"
+      }, 
+      "id": "reccJgtKVam3MZ565"
     }, 
     {
       "createdTime": "2019-02-08T10:35:51.000Z", 
@@ -8086,6 +8486,7 @@
         ], 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
+        "Card Text": "When the upgraded character attacks > Scrap this card after the battle.", 
         "Card #": "012/064", 
         "Affiliation": "Neutral", 
         "Rarity": "Common"
@@ -8279,6 +8680,50 @@
       "id": "recf5XmOPuj2bua3w"
     }, 
     {
+      "createdTime": "2019-09-24T22:05:27.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Adaptive Plating", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b4c705a7f17de9b2a1f850372ea58c8c/f6ec804f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e747b700c52b5a966ed5ccf159939dc0/ace6f06c", 
+                "width": 458, 
+                "height": 640
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/12bab71ba22938b25406efce57b0bfb8/0022fa81", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6fbd45e2896f5b13a36fc1a789a75fab/bf1b65a4/adaptiveplating.png", 
+            "filename": "adaptiveplating.png", 
+            "type": "image/png", 
+            "id": "attxJhC2QZpiNAoCZ", 
+            "size": 433259
+          }
+        ], 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "When the upgraded character defends and you flip at least [WHITE] > It gets +2 [DEF] until end of battle.", 
+        "Card #": "003/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Uncommon"
+      }, 
+      "id": "recfV0qA8o7r3pYdB"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -8367,6 +8812,16 @@
         "Card #": "004/007"
       }, 
       "id": "recgOTqNvpQpgwu77"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:31:01.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "056/064"
+      }, 
+      "id": "recgiOPAnDdb1ws41"
     }, 
     {
       "createdTime": "2019-02-08T05:31:18.000Z", 
@@ -9349,6 +9804,16 @@
       "id": "recjtgdOBefXxbpvN"
     }, 
     {
+      "createdTime": "2019-09-24T22:21:42.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "021/064"
+      }, 
+      "id": "reckHsHFljCOexMQq"
+    }, 
+    {
       "createdTime": "2019-02-08T23:41:42.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -9390,6 +9855,16 @@
         "Artist/Illustrator(s)": "Casey Coller"
       }, 
       "id": "reckI2b1d0tSl5EL0"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:19:47.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "018/064"
+      }, 
+      "id": "reckKoaCmWzHlouQf"
     }, 
     {
       "createdTime": "2019-02-08T10:40:38.000Z", 
@@ -9847,6 +10322,16 @@
       "id": "recmHpuAZA22J7830"
     }, 
     {
+      "createdTime": "2019-09-24T22:26:51.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "036/064"
+      }, 
+      "id": "recmL82U9DROAHqjp"
+    }, 
+    {
       "createdTime": "2019-02-08T05:31:18.000Z", 
       "fields": {
         "Set": "Wave 1", 
@@ -10168,6 +10653,16 @@
         "Artist/Illustrator(s)": "Guido Guidi"
       }, 
       "id": "recoWvBEupKSPpyCj"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:22:10.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "024/064"
+      }, 
+      "id": "recofFvfb7VC3y5bg"
     }, 
     {
       "createdTime": "2019-02-08T23:36:45.000Z", 
@@ -10518,6 +11013,7 @@
         ], 
         "Rarity": "Common", 
         "\u2b50": 0, 
+        "Card Text": "Each of your characters get Pierce 2 until end of turn. (Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "Affiliation": "Neutral", 
         "Card #": "017/064"
       }, 
@@ -10711,6 +11207,26 @@
       "id": "recrnE96OMM50V8b7"
     }, 
     {
+      "createdTime": "2019-09-24T22:32:00.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "061/064"
+      }, 
+      "id": "recrnp7jWNVXo4rcI"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:32:11.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "062/064"
+      }, 
+      "id": "recryCnKzIds4Aycf"
+    }, 
+    {
       "createdTime": "2019-05-25T01:34:10.000Z", 
       "fields": {
         "Set": "Wave 3", 
@@ -10803,6 +11319,16 @@
         "Artist/Illustrator(s)": "Sarah Stone"
       }, 
       "id": "recsLSUcSyk4XscrD"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:30:51.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "055/064"
+      }, 
+      "id": "recsR7t8X15TreCPg"
     }, 
     {
       "createdTime": "2019-02-08T23:38:05.000Z", 
@@ -10928,8 +11454,10 @@
             "size": 803097
           }
         ], 
+        "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
+        "Card Text": "Put only on a character that has more than one alt mode.\n\nAt the end of your turn > Flip the upgraded character to another mode.", 
         "Card #": "010/064", 
         "Affiliation": "Neutral", 
         "Rarity": "Rare"
@@ -11217,6 +11745,26 @@
       "id": "recvH28B42D0g0M7i"
     }, 
     {
+      "createdTime": "2019-09-24T22:21:51.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "022/064"
+      }, 
+      "id": "recvP3VXyATwzIjUF"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:22:03.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "023/064"
+      }, 
+      "id": "recvnq5fuHwS4DyHW"
+    }, 
+    {
       "createdTime": "2019-02-08T23:38:10.000Z", 
       "fields": {
         "Set": "Wave 2", 
@@ -11261,6 +11809,16 @@
         "Artist/Illustrator(s)": "Alex Milne"
       }, 
       "id": "recvpcFqxwXioOz7R"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:15:19.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "009/064"
+      }, 
+      "id": "recvxR8k7o1zqwzLW"
     }, 
     {
       "createdTime": "2019-09-23T22:40:32.000Z", 
@@ -11352,6 +11910,16 @@
         "Rarity": "Common"
       }, 
       "id": "recwDOpQXPgqFG2Q0"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:29:58.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "050/064"
+      }, 
+      "id": "recwHcDVXRXYjlqxv"
     }, 
     {
       "createdTime": "2019-02-08T10:37:11.000Z", 
@@ -11489,6 +12057,60 @@
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
       }, 
       "id": "recwhUGW63GPr95OF"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:04:53.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Name": "Erratic Cannon", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bc0bd4e43d21829e12c615ba9cb7fc4f/210528a5", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/235b27aa90045dbded5568291350f040/aa8d81b1", 
+                "width": 458, 
+                "height": 640
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3a5fa24b8417bcbfd42870e5093c60bb/660fdf63", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/555fc20f10cb6c1969aa75b17eab9292/55ca9ae7/erraticcannon.png", 
+            "filename": "erraticcannon.png", 
+            "type": "image/png", 
+            "id": "attsPV6Lu1Vu1kyfR", 
+            "size": 411448
+          }
+        ], 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "When the upgraded character attacks and you flip at least [WHITE] > It gets +3 [ATK] until end of battle.", 
+        "Card #": "020/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Uncommon"
+      }, 
+      "id": "recxxULSY3yw6r95W"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:19:02.000Z", 
+      "fields": {
+        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Battle Card", 
+        "Card #": "014/064"
+      }, 
+      "id": "recxztwsDYqSiLBrF"
     }, 
     {
       "createdTime": "2019-02-08T23:40:51.000Z", 
@@ -11760,6 +12382,50 @@
         "Rarity": "Common"
       }, 
       "id": "reczASQlTOI8lab4g"
+    }, 
+    {
+      "createdTime": "2019-09-24T22:04:42.000Z", 
+      "fields": {
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\ud83d\udd37\ud83d\udd37"
+        ], 
+        "Name": "Heroic Resolve", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/39505803f3f6b1d147d1e22fe69d7633/82cf9c9f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2f2cbeb118931f4c5786440a462f171e/94c020d2", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7f2c3553212e04dbb1e2084cb3f318f0/ba632ea9", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/935d328dd3c0fa4008e31e8bc49fdead/10240e51/heroicresolve.png", 
+            "filename": "heroicresolve.png", 
+            "type": "image/png", 
+            "id": "attyMAfmdjeMIWy85", 
+            "size": 1100986
+          }
+        ], 
+        "Sub-Type": "Secret", 
+        "\u2b50": 1, 
+        "Card Text": "Reveal > If one of your Autobots would take enough attack damage to be KO'd.\n\nWhen Revealed > Instead that character takes enough attack damage to be at 1 [HP]. THen put this card in your KO area.", 
+        "Card #": "026/064", 
+        "Affiliation": "Autobot", 
+        "Rarity": "Uncommon"
+      }, 
+      "id": "reczFO6rhuDmheiwk"
     }, 
     {
       "createdTime": "2019-05-18T21:16:19.000Z", 

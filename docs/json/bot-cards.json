@@ -3140,6 +3140,84 @@
       "id": "recEZ7KVHuNWA9JJy"
     }, 
     {
+      "createdTime": "2019-09-24T22:35:52.000Z", 
+      "fields": {
+        "\ud83e\udde1": 6, 
+        "Bot\u2694\ufe0f": 3, 
+        "Set": "Wave 4", 
+        "Subtitle": "Sports Card Patrol \u2022 Demolitions", 
+        "Name": "Raider Hyperdrive", 
+        "Affiliation": "Decepticon", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "T32/T52", 
+        "\u2b50": 4, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nBot Mode:\n\n[TAP], Scrap a [BLUE] card from your hand > Draw 3 cards. Then scrap 2 cards from your hand.\n(To [TAP], tap this character before you attack.)", 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/41972701a076dc2f3471652cb3cfecdc/453550ee", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/62b896b1bd1ee425b0241ff1846d795c/af25c4c6", 
+                "width": 222, 
+                "height": 310
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/02acaa0e04428e1b9f2da4021b66a330/f586988b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5e99bc9990c66b27f003ae07fc870cf8/e19d928d/hyperdrive-b.png", 
+            "filename": "hyperdrive-b.png", 
+            "type": "image/png", 
+            "id": "attz85t3lEpxDxLOp", 
+            "size": 173200
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c67610a62cb7cc372f4a27b540a6fdf2/a9e5c978", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/662b7effff17f5dd1307660ec00ae088/a6bc2d11", 
+                "width": 223, 
+                "height": 311
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d21081e8671059cb3a206926a6791ac/e71cf332", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5aa99e82d3182d1292966a14159b2acb/a292ac5e/hyperdrive-a.png", 
+            "filename": "hyperdrive-a.png", 
+            "type": "image/png", 
+            "id": "att7kz1TSLKjQPvnd", 
+            "size": 165825
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Sports Car Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Specialist"
+        ]
+      }, 
+      "id": "recF1Rpeq7c9O8x3z"
+    }, 
+    {
       "createdTime": "2019-02-07T02:50:14.000Z", 
       "fields": {
         "\ud83e\udde1": 9, 
