@@ -1,11 +1,11 @@
 <html>
     <head>
-        <title>Generate Turbo Deck</title>
+        <title>Generate 2-Player Turbo Deck</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     </head>
 
     <body>
-        <h1>Generated Turbo Deck</h1>
+        <h1>Generated 2-Player Turbo Deck</h1>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -19,11 +19,15 @@
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
               pull_bots(data, waveA, "1_1");
               pull_bots(data, waveB, "1_2");
+              pull_bots(data, waveA, "2_1");
+              pull_bots(data, waveB, "2_2");
             });
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
               pull_battle_cards(data, waveA, "1_1");
               pull_battle_cards(data, waveB, "1_2");
+              pull_battle_cards(data, waveA, "2_1");
+              pull_battle_cards(data, waveB, "2_2");
             });
         </script>
 
@@ -60,6 +64,30 @@
             </li>
             <li>
               <ul id="battle_cards1_2">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
+        <tr colspan="2"><td align="center"><font size="7">VS</font></td></tr>
+        <tr><td>
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_2">
               </ul>
             </li>
           </ul>
