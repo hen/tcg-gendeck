@@ -13,6 +13,8 @@
 
         <script>
             // Which wave are we finding cards for?
+            var wave1="Wave 1";
+            var wave2="Wave 2";
             var wave3="Wave 3";
             var wave4="Wave 4";
 
@@ -155,9 +157,11 @@
 
               // Filter cards for wave into each rarity
               $.each( data.records, function( idx, card ) {
+                if(card.fields.Name!="Unknown Wave 4 Battle Card") {     // Temporary filter
                   if(card.fields.Set==wave) {
                     wave_cards[card.fields.Rarity].push(card);
                   }
+                }
               });
 
               chosen_cards = [];
