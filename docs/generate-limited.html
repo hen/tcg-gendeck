@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>Generated 3 x Wave 3 Packs</h1>
+        <h1>Generated Limited Deck</h1>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -13,7 +13,8 @@
 
         <script>
             // Which wave are we finding cards for?
-            var wave="Wave 3";
+            var wave3="Wave 3";
+            var wave4="Wave 4";
 
             //  Wave 1:    Super Rare is 1:79
             //  Wave 1:    
@@ -129,9 +130,12 @@
             }
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
-              pull_bots(data, wave, 1);
-              pull_bots(data, wave, 2);
-              pull_bots(data, wave, 3);
+              pull_bots(data, wave3, "1_1");
+              pull_bots(data, wave3, "2_1");
+              pull_bots(data, wave3, "3_1");
+              pull_bots(data, wave4, "1_2");
+              pull_bots(data, wave4, "2_2");
+              pull_bots(data, wave4, "3_2");
             });
 
             function get_n_unique_battle_cards(cards, n) {
@@ -185,9 +189,12 @@
             }
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
-              pull_battle_cards(data, wave, 1);
-              pull_battle_cards(data, wave, 2);
-              pull_battle_cards(data, wave, 3);
+              pull_battle_cards(data, wave3, "1_1");
+              pull_battle_cards(data, wave3, "2_1");
+              pull_battle_cards(data, wave3, "3_1");
+              pull_battle_cards(data, wave4, "1_2");
+              pull_battle_cards(data, wave4, "2_2");
+              pull_battle_cards(data, wave4, "3_2");
             });
         </script>
 
@@ -199,40 +206,83 @@
           .small_card img { width: 250; height: 350; }
           ul { list-style: none; }
           .card_pull { position: relative; }
+          .col2 { padding-left: 250; }
         </style>
 
-        <ul class="card_pull">
-          <li>
-            <ul id="bot_cards1">
-            </ul>
-          </li>
-          <li>
-            <ul id="battle_cards1">
-            </ul>
-          </li>
-        </ul>
+      <!-- Ugly and clunky; need to move to a UI framework -->
+      <table>
+        <tr><td>
+          <ul class="card_pull" style="z-index: 10">
+            <li>
+              <ul id="bot_cards1_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards1_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 10">
+            <li>
+              <ul id="bot_cards1_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards1_2">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
 
-        <ul class="card_pull" style="z-index: 20">
-          <li>
-            <ul id="bot_cards2">
-            </ul>
-          </li>
-          <li>
-            <ul id="battle_cards2">
-            </ul>
-          </li>
-        </ul>
+        <tr><td>
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_2">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
+        <tr><td>
+          <ul class="card_pull" style="z-index: 30">
+            <li>
+              <ul id="bot_cards3_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards3_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 30">
+            <li>
+              <ul id="bot_cards3_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards3_2">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
+      </table>
 
-        <ul class="card_pull" style="z-index: 30">
-          <li>
-            <ul id="bot_cards3">
-            </ul>
-          </li>
-          <li>
-            <ul id="battle_cards3">
-            </ul>
-          </li>
-        </ul>
 
     </body>
 </html>
