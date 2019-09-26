@@ -10,3 +10,4 @@ TODO:
 * Review the ratios; they're not complete right
 * Move to a UI Framework; CSS is getting ugh
 * Show stats for the deck (B, W, O, Bl)
+* On-click, rotate through bot card images
