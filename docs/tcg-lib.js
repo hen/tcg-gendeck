@@ -215,6 +215,13 @@ function initialize_form_from_params(form_id, form_defaults) {
         case 'submit':
           // ignore
           break;
+        case 'select-multiple':
+          if($(this).attr('name') == pair[0]) {
+            var selected=$(this).val();
+            selected.push(pair[1]);
+            $(this).val(selected);
+          }
+          break;
         default:
           // supports at least 'text', 'select-one'
           if($(this).attr('name') == pair[0]) {
