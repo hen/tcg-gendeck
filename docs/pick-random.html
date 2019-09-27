@@ -1,8 +1,21 @@
+<html>
+    <head>
+        <title>Generate Two Teams</title>
+    </head>
+
+    <body>
+        <h1>Random Match-Up</h1>
+
+        <p>Two random teams to play against each other. </p>
+
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="tcg-lib.js"></script>
+
 <script>
 
     var STAR='\u2b50';
+    var MAX_STARS=25;
 
     function choose_team(data, filter) {
 
@@ -31,7 +44,6 @@
         });
 
         // Choose a team from the filtered bots
-        var MAX_STARS=25;
         var chosen_cards=[];
         var current_stars=0;
         var calculating=true;
@@ -70,6 +82,11 @@
         return chosen_cards;
     }
 
+    function display_team(cards) {
+        console.log(cards);
+    }
+
+/*
     // '\ud83e\udde1'
     // Name;
     // 'Alt Type(s)'
@@ -78,14 +95,56 @@
     // Wave
     // Tribe
     // Rarity
-    var filter={
-        //"Set": "Wave 1",
+    var filterB={
+        "Set": "Wave 1",
         "Tribe": "Dinobot",
-      //  "Rarity": ["Common", "Uncommon"],
+        "Rarity": ["Common", "Uncommon"],
     };
+*/
 
-    $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
-        var cards=choose_team(data, filter);
-        console.log(cards);
-    });
+    function page_load() {
+        $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+            var default_search_params = new URLSearchParams();
+            default_search_params.append('filterA.Set', 'Wave 1');
+            default_search_params.append('filterA.Set', 'Wave 2');
+            default_search_params.append('filterA.Set', 'Wave 3');
+            default_search_params.append('filterA.Set', 'Wave 4');
+            default_search_params.append('filterB.Set', 'Wave 1');
+            default_search_params.append('filterB.Set', 'Wave 2');
+            default_search_params.append('filterB.Set', 'Wave 3');
+            default_search_params.append('filterB.Set', 'Wave 4');
+
+            params=initialize_form_from_params("navbar", default_search_params);
+
+            filterA=params_to_hash(params, 'filterA.');
+            filterB=params_to_hash(params, 'filterB.');
+
+            var cardsA=choose_team(data, filterA);
+            display_team(cardsA);
+            var cardsB=choose_team(data, filterB);
+            display_team(cardsB);
+        });
+    }
 </script>
+
+        <form id="navbar" onSubmit="">
+            <h3>Team A</h3>
+            <label>Wave 1: </label><input type='checkbox' name='filterA.Set' value='Wave 1'/>
+            <label>Wave 2: </label><input type='checkbox' name='filterA.Set' value='Wave 2'/>
+            <label>Wave 3: </label><input type='checkbox' name='filterA.Set' value='Wave 3'/>
+            <label>Wave 4: </label><input type='checkbox' name='filterA.Set' value='Wave 4'/>
+            <h3>Team B</h3>
+            <label>Wave 1: </label><input type='checkbox' name='filterB.Set' value='Wave 1'/>
+            <label>Wave 2: </label><input type='checkbox' name='filterB.Set' value='Wave 2'/>
+            <label>Wave 3: </label><input type='checkbox' name='filterB.Set' value='Wave 3'/>
+            <label>Wave 4: </label><input type='checkbox' name='filterB.Set' value='Wave 4'/>
+            <input type='submit' value='Generate'/>
+        </form>
+
+      <script>
+          page_load();
+      </script>
+
+
+    </body>
+</html>
