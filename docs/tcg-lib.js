@@ -203,7 +203,6 @@ function initialize_form_from_params(form_id, form_defaults) {
   $(form_lookup).filter(':input').each( function() {
 
     for(var pair of values.entries()) {
-      console.log("Form: " + $(this).attr('name') + ", Type: " + $(this).prop('type') );
 
       // TODO: Need to support other form elements.   Drop downs, Textfields.
       switch( $(this).prop('type') ) {
