@@ -112,15 +112,15 @@ function get_bot_card(data, wave, wantSmall) {
 }
 
 function place_bot_card(card, css_class, css_container_id) {
-  var img_index=chosen.fields['Image(s)'].length - 1;   // The last image seems to be the one with the stars
-  chosen_item="<li class='" + css_class + "' id='" + chosen.id + "'><img src='" + chosen.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
-    //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
+  var img_index=card.fields['Image(s)'].length - 1;   // The last image seems to be the one with the stars
+  var card_item="<li class='" + css_class + "' id='" + card.id + "'><img src='" + card.fields['Image(s)'][img_index].thumbnails.large.url + "'/>";
+    //  For alt:   + card.fields.Set + ": " + card.fields.Name + "</li>" );
 
-  $( chosen_item ).appendTo( "#" + css_container_id );
+  $( card_item ).appendTo( "#" + css_container_id );
 }
 
 function pull_bots(data, wave, widget) {
-  chosen=get_bot_card(data, wave);
+  var chosen=get_bot_card(data, wave);
   place_bot_card(chosen, "bot_card", "bot_cards" + widget);
 
   if(small_ratios[wave] != null) {
