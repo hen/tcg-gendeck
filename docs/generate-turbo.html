@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <h1>Generated 2-Player Turbo Deck</h1>
+        <h1 id="pageTitle">Generated 2-Player Turbo Deck</h1>
 
         <p>Two random card pulls for each player. The same pair of waves is used for each player. </p>
 
@@ -15,8 +15,10 @@
         <script src="tcg-lib.js"></script>
 
         <script>
-            waveA=random_wave()
-            waveB=random_wave()
+          function generate_turbo(waveChoices) {
+
+            waveA=random_from(waveChoices)
+            waveB=random_from(waveChoices)
 
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
               pull_bots(data, waveA, "1_1");
@@ -31,6 +33,41 @@
               pull_battle_cards(data, waveA, "2_1");
               pull_battle_cards(data, waveB, "2_2");
             });
+
+            if(waveA == waveB) {
+              waveChoice="<span class='waveChoice'>: "+waveA + "</span>";
+            } else {
+              waveChoice="<span class='waveChoice'>: "+waveA + "/" + waveB + "</span>";
+            }
+            $( waveChoice ).appendTo( "#pageTitle" );
+
+          }
+
+         // function clear_display() {
+         //   $(".waveChoice").remove();
+         //   $(".bot_card").remove();
+         //   $(".small_card").remove();
+         // }
+
+          function setup_navbar(waveChoices) {
+            var navbarText = "";
+            navbarText += "<label>Wave 1: </label><input type='checkbox' name='wave' value='Wave 1' " + (waveChoices.includes("Wave 1") ? "checked='checked'" : "") + "/>";
+            navbarText += "<label>Wave 2: </label><input type='checkbox' name='wave' value='Wave 2' " + (waveChoices.includes("Wave 2") ? "checked='checked'" : "") + "/>";
+            navbarText += "<label>Wave 3: </label><input type='checkbox' name='wave' value='Wave 3' " + (waveChoices.includes("Wave 3") ? "checked='checked'" : "") + "/>";
+            navbarText += "<label>Wave 4: </label><input type='checkbox' name='wave' value='Wave 4' " + (waveChoices.includes("Wave 4") ? "checked='checked'" : "") + "/>";
+            navbarText += "<input type='submit' value='Generate'/>";
+            $( navbarText ).appendTo( "#navbar" );
+          }
+
+          function generate_new_turbo() {
+            var url = new URL(window.location.href);
+            var waveChoices = url.searchParams.getAll("wave");
+            if(waveChoices.length==0) {
+              waveChoices=waves;
+            }
+            setup_navbar(waveChoices);
+            generate_turbo(waveChoices);
+          }
         </script>
 
         <style>
@@ -44,6 +81,9 @@
           .col2 { padding-left: 250; }
           td { padding-bottom: 80; }
         </style>
+
+        <form id="navbar" onSubmit="">
+        </form>
 
       <!-- Ugly and clunky; need to move to a UI framework -->
       <table>
@@ -96,6 +136,9 @@
         </td></tr>
       </table>
 
+      <script>
+          generate_new_turbo();
+      </script>
 
     </body>
 </html>
