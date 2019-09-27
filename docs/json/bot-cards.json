@@ -814,6 +814,21 @@
       "id": "rec2JlX5zhSWgOAcJ"
     }, 
     {
+      "createdTime": "2019-09-27T01:52:38.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T45/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "rec2Riwm65kSZo4w4"
+    }, 
+    {
       "createdTime": "2019-05-25T01:27:35.000Z", 
       "fields": {
         "\ud83e\udde1": 13, 
@@ -970,6 +985,21 @@
         ]
       }, 
       "id": "rec2ygNEcAGnxDwd1"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:48:22.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T05/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "rec31BEIUmBWY4sS5"
     }, 
     {
       "createdTime": "2019-02-08T00:45:47.000Z", 
@@ -2051,6 +2081,81 @@
       "id": "recA3TRQMRO1p02qP"
     }, 
     {
+      "createdTime": "2019-09-27T01:42:57.000Z", 
+      "fields": {
+        "\ud83e\udde1": 12, 
+        "Bot\u2694\ufe0f": 5, 
+        "Set": "Wave 4", 
+        "Subtitle": "Artillery \u2022 Weapons Supervisor", 
+        "Name": "Sergeant Crosshairs", 
+        "Affiliation": "Autobot", 
+        "Alt Type(s)": [
+          "Tank"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "T43/T52", 
+        "\u2b50": 10, 
+        "Card Text": "Alt Mode:\n\nThis has 2 Armor slots.\n\nWhen you flip to this mode > Move 2 damage counters from this to one of your Battle Master characters.\n\nBot Mode:\n\nThis has 2 Armor slots.\n\nWhile this has a Battle Master upgrade > This has +2 [DEF]\n\n\n", 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/908360f25e50acc3d19948a960d4c178/e6d64254", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3afa6535277bb76c4492aabcc4451731/71e434ba", 
+                "width": 250, 
+                "height": 357
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4d74e85b430b83194a61c207abbbf37c/9c2e6b5b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/aefb5d5029d8719a6f0dcc159d768c31/a9a6757d/crosshairs-b.png", 
+            "filename": "crosshairs-b.png", 
+            "type": "image/png", 
+            "id": "attevnP1wCkrQgs9v", 
+            "size": 208873
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/90db28f94de78042153c566d53a644e8/d1aa0eab", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/acc07b1c2b74027e87f8275ae01f18bc/1f709c4f", 
+                "width": 250, 
+                "height": 357
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3d3efd0471467d340bd7479fc7830c74/947e8a89", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/d875088e45b719f73f9eedaf8b4ff499/4fa17478/crosshairs-a.png", 
+            "filename": "crosshairs-a.png", 
+            "type": "image/png", 
+            "id": "attWgXMeVudwAqWWw", 
+            "size": 210616
+          }
+        ], 
+        "Alt\u2694\ufe0f": 6, 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
+      }, 
+      "id": "recAhD3m6nnxRGpMS"
+    }, 
+    {
       "createdTime": "2019-05-09T18:42:45.000Z", 
       "fields": {
         "\ud83e\udde1": 11, 
@@ -2360,6 +2465,21 @@
         ]
       }, 
       "id": "recBgCHEk0pWl1knf"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:50:50.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T29/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recCLSUF7eguy5IUM"
     }, 
     {
       "createdTime": "2019-02-07T02:51:24.000Z", 
@@ -4296,6 +4416,109 @@
       "id": "recIG8MAHLghoFJXP"
     }, 
     {
+      "createdTime": "2019-09-27T01:49:51.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T15/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recIHhzGSR69R237Q"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:34:53.000Z", 
+      "fields": {
+        "\ud83e\udde1": 12, 
+        "Bot\u2694\ufe0f": 2, 
+        "Set": "Wave 4", 
+        "Subtitle": "Air Command \u2022 Evac", 
+        "Name": "Private Turbo Board", 
+        "Affiliation": "Autobot", 
+        "Alt Type(s)": [
+          "Battle Master"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T26/T52", 
+        "\u2b50": 6, 
+        "Card Text": "Bot Mode:\n\nYour opponent can't play more than 2 cards during their turn.\n\n(A Battle Master begins in bot mode and can't flip. When iit's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nAnti-Gravity Turbo Pack // Upgrade - Utility\n+1 [ATK] // +1 [DEF]\n\nWhen the upgraded character attacks and you flip at least [ORANGE][BLUE] > After the battle, you may plat one of the [ORANGE] or [BLUE] cards you flipped.\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b7001c48e793dc0ffb22d957b70ffc32/7a1faa85", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/64bdca98e3e672e296e4a8bf32d1b2f5/d32d6146", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c2d802ca77281b5cb4277ad48c02d033/e53baa8c", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/b23a51d03df8db4189cb2ef9eded5808/fed67ad6/turboboard-b.png", 
+            "filename": "turboboard-b.png", 
+            "type": "image/png", 
+            "id": "att1d3hcpttcxjzpc", 
+            "size": 1338493
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a1932c5fea47b41b986802ab316982a7/7c517f47", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/14e798405c2f0250e1b17843c6ed818a/c0119f32", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/47bf0af7399ac47fed1bf7711d885d47/32b54937", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6faa77e51b0597aff816bed50b13a281/90f0e525/turboboard-a.png", 
+            "filename": "turboboard-a.png", 
+            "type": "image/png", 
+            "id": "attsHZyS4tTzDB2AO", 
+            "size": 1597704
+          }
+        ], 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Specialist"
+        ]
+      }, 
+      "id": "recIiUppOCxHEJAbd"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:47:33.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T03/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recIjDMPIBo10q4Ly"
+    }, 
+    {
       "createdTime": "2019-05-05T04:42:03.000Z", 
       "fields": {
         "\ud83e\udde1": 12, 
@@ -4370,6 +4593,21 @@
         ]
       }, 
       "id": "recIkJkoxnevloJs9"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:51:39.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T35/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recIziVeGc2DcDLCo"
     }, 
     {
       "createdTime": "2019-07-08T03:36:11.000Z", 
@@ -4833,6 +5071,21 @@
       "id": "recLjh2gBawRHnLaf"
     }, 
     {
+      "createdTime": "2019-09-27T01:51:00.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T30/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recLwYBv3qGHQq9nV"
+    }, 
+    {
       "createdTime": "2019-02-08T00:14:13.000Z", 
       "fields": {
         "\ud83e\udde1": 12, 
@@ -5169,6 +5422,21 @@
       "id": "recN4fvr841wDtYBS"
     }, 
     {
+      "createdTime": "2019-09-27T01:51:55.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T38/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recNMO8EHJnTt211m"
+    }, 
+    {
       "createdTime": "2019-02-07T01:50:18.000Z", 
       "fields": {
         "\ud83e\udde1": 8, 
@@ -5242,6 +5510,21 @@
         ]
       }, 
       "id": "recNOw5Cs85ddgDSy"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:53:02.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T48/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recNvmVpyhvIG1ZNI"
     }, 
     {
       "createdTime": "2019-02-06T11:26:30.000Z", 
@@ -6158,6 +6441,21 @@
       "id": "recQQO8VYzJB99tBV"
     }, 
     {
+      "createdTime": "2019-09-27T01:50:42.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T28/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recQmAm4ZJfHUjPkt"
+    }, 
+    {
       "createdTime": "2019-03-04T23:49:21.000Z", 
       "fields": {
         "\ud83e\udde1": 8, 
@@ -6621,6 +6919,21 @@
       "id": "recS6uuPixsn4b5na"
     }, 
     {
+      "createdTime": "2019-09-27T01:48:43.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T11/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recSADzUlImXmzcps"
+    }, 
+    {
       "createdTime": "2019-04-25T17:27:50.000Z", 
       "fields": {
         "\ud83e\udde1": 7, 
@@ -6935,6 +7248,21 @@
       "id": "recT2v5GFOvSNZgr2"
     }, 
     {
+      "createdTime": "2019-09-27T01:49:24.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T12/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recTJ0fdi5fLmTejM"
+    }, 
+    {
       "createdTime": "2019-02-06T00:41:14.000Z", 
       "fields": {
         "\ud83e\udde1": 9, 
@@ -7009,6 +7337,21 @@
         ]
       }, 
       "id": "recTiwJ952L2P2f9D"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:50:22.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T22/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recTq5eDWpJt4x9hL"
     }, 
     {
       "createdTime": "2019-02-08T03:21:48.000Z", 
@@ -7162,6 +7505,21 @@
       "id": "recTvCzrETUY60QMH"
     }, 
     {
+      "createdTime": "2019-09-27T01:47:42.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T04/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recU4IINZd0TtVDN6"
+    }, 
+    {
       "createdTime": "2019-02-06T11:39:48.000Z", 
       "fields": {
         "\ud83e\udde1": 11, 
@@ -7237,6 +7595,21 @@
         ]
       }, 
       "id": "recU89WgcXwZ5AvbP"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:52:47.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T46/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recUQzn833H5q3GTK"
     }, 
     {
       "createdTime": "2019-02-08T21:54:12.000Z", 
@@ -7776,6 +8149,51 @@
         ]
       }, 
       "id": "recWMVCkD8uTJCSfd"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:51:10.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T31/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recWoemhRnWw1lWML"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:51:31.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T34/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recX3hI2OcgZnr1tu"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:50:05.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T17/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recX7JzNDufykUjrJ"
     }, 
     {
       "createdTime": "2019-02-08T02:37:25.000Z", 
@@ -8367,6 +8785,21 @@
         ]
       }, 
       "id": "recYtArKcJh9NarPe"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:50:31.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T25/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recZ9Jt1cIHZsHRoP"
     }, 
     {
       "createdTime": "2019-02-08T02:33:01.000Z", 
@@ -9117,6 +9550,81 @@
       "id": "recc4bPnC70P7TXq8"
     }, 
     {
+      "createdTime": "2019-09-27T01:45:27.000Z", 
+      "fields": {
+        "\ud83e\udde1": 13, 
+        "Bot\u2694\ufe0f": 3, 
+        "Set": "Wave 4", 
+        "Subtitle": "Special Ops \u2022 Spy", 
+        "Name": "Sergeant Mirage", 
+        "Affiliation": "Autobot", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "T44/T52", 
+        "\u2b50": 7, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > Reveal the top card of your deck. If it's a [BLUE] card, draw 2 cards. Otherwise, draw a card.\n\nBot Mode:\n\nWhile you have a face-down or face-up Secret Action > This has Tough 2. (Flip 2 more battle cards when defending.)\n", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dffe01b8f6644a1d6f2046b1e96c96a6/c49ddfd0", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cd683bdcc107d476b554aeca5bea6148/8cc66464", 
+                "width": 250, 
+                "height": 357
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b48f8d3a4dac789072f8198a5fad10c1/b9408805", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/a9a57f38aee4694cbcbdecf30a89d9d4/0583b9d6/mirage-b.png", 
+            "filename": "mirage-b.png", 
+            "type": "image/png", 
+            "id": "att0Xkq3lnjUSnthF", 
+            "size": 199843
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7fa4dd4087c2286996415a2b1a09aa53/4e0e9307", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/682de1bea3224a46c46807e2b2bea38b/f1213057", 
+                "width": 250, 
+                "height": 357
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b0ed3ce9b3095f3e9348c1f564c60f2d/e4bc1d0e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/157271ed02e5e17e8e93b26d654216bf/c1ae6fde/mirage-a.png", 
+            "filename": "mirage-a.png", 
+            "type": "image/png", 
+            "id": "attXZTqp279qVBrhG", 
+            "size": 210260
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Ranged"
+        ]
+      }, 
+      "id": "recc7jOYEG06N4k4e"
+    }, 
+    {
       "createdTime": "2019-02-08T03:21:03.000Z", 
       "fields": {
         "\ud83e\udde1": 13, 
@@ -9191,6 +9699,21 @@
         ]
       }, 
       "id": "reccE3yRDsZNLRz27"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:52:18.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T41/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "reccIT6Z6HFuNgy4E"
     }, 
     {
       "createdTime": "2019-05-20T17:10:54.000Z", 
@@ -10784,6 +11307,21 @@
       "id": "reciMdoKwCiD9zgTi"
     }, 
     {
+      "createdTime": "2019-09-27T01:52:26.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T42/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "reciwwy4QpS8DcF0C"
+    }, 
+    {
       "createdTime": "2019-02-07T02:51:27.000Z", 
       "fields": {
         "\ud83e\udde1": 10, 
@@ -12001,6 +12539,21 @@
       "id": "recmwY9unk7A70jp4"
     }, 
     {
+      "createdTime": "2019-09-27T01:52:05.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T40/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recn1bUTGXkmNsO8b"
+    }, 
+    {
       "createdTime": "2019-02-08T00:14:14.000Z", 
       "fields": {
         "\ud83e\udde1": 12, 
@@ -12596,6 +13149,21 @@
         ]
       }, 
       "id": "recpZpqbXzHvl0FAg"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:53:12.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T49/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recpn91vXzo7HmPUh"
     }, 
     {
       "createdTime": "2019-04-26T22:05:23.000Z", 
@@ -13265,6 +13833,21 @@
       "id": "recr9iDws1ifrgK1T"
     }, 
     {
+      "createdTime": "2019-09-27T01:49:32.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T13/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recra9wkLbJrM0yZ5"
+    }, 
+    {
       "createdTime": "2019-06-28T01:44:21.000Z", 
       "fields": {
         "\ud83e\udde1": 14, 
@@ -13458,6 +14041,21 @@
         ]
       }, 
       "id": "recs3NIrZ9sSl7kuY"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:48:33.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T07/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recsMDAIjHvSKvWhC"
     }, 
     {
       "createdTime": "2019-07-31T20:17:04.000Z", 
@@ -13842,6 +14440,21 @@
         ]
       }, 
       "id": "recvsBizwOLAMY745"
+    }, 
+    {
+      "createdTime": "2019-09-27T01:49:40.000Z", 
+      "fields": {
+        "\ud83e\udde1": 0, 
+        "Bot\u2694\ufe0f": 0, 
+        "Set": "Wave 4", 
+        "Name": "Unknown Wave 4 Bot", 
+        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Card #": "T14/T52", 
+        "\u2b50": 0, 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Alt\u2694\ufe0f": 0
+      }, 
+      "id": "recwKnRzIAPM79hfd"
     }, 
     {
       "createdTime": "2019-04-18T21:46:58.000Z", 

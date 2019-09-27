@@ -1020,9 +1020,43 @@
     {
       "createdTime": "2019-09-24T22:28:10.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Overwhelming Advantage", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e2a7da1597e73de5cf589f35f230d637/70bdadbe", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e0e85114b5c3cd853bb493346e2470ed/09c704aa", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7c9e40f032af313a797a381530b8b969/eadbf8ca", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3b02014a63817b17ba1f039f3aade523/93f627ea/overwhelmingadvantage.png", 
+            "filename": "overwhelmingadvantage.png", 
+            "type": "image/png", 
+            "id": "attDZzzVhdelKPaEa", 
+            "size": 1087871
+          }
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card Text": "For each Decepticon you have on the battlefield, Plan 1. (You may put 1 card from your hand on top of your deck.)\n\n\nWhen one of your characters attacks this turn, if its Upgrades include at least [WHITE][ORANGE][BLACK][BLUE][GREEN] and you flip at least [WHITE][ORANGE][BLUE][GREEN] > Do 15 damage to an enemy.", 
+        "Affiliation": "Decepticon", 
         "Card #": "043/064"
       }, 
       "id": "rec4emWwtLVuAPA31"
@@ -6151,10 +6185,44 @@
     {
       "createdTime": "2019-09-24T22:14:40.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "005/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Multi-Missile Pod", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/15efb8ae2eaf41e3a4071ec9f42c2f66/13645d3a", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b6c5aa5e453e79ba6eb430a00775b9a2/14852ba2", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ba2831d1f15c210d3bc79cce199531ce/9a8451f8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3f48fd1e0d79e8d51f4b151811e19580/d24303b6/multimisslepod.png", 
+            "filename": "multimisslepod.png", 
+            "type": "image/png", 
+            "id": "attbtda7j6dv5fRkp", 
+            "size": 1069132
+          }
+        ], 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "Put on Planes or Helicopters only.\nUp to 3 Multi-Missle pods can fit in 1 Weapon slot.\n\nWhen the upgraded character attacks > You may scrap this. If you do, do damage to each enemy equal to the number of Multi-Missle Pods scrapped from the upgraded character this battle.", 
+        "Card #": "005/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Rare"
       }, 
       "id": "recV6TbsWlCLmi4eu"
     }, 
@@ -9806,10 +9874,44 @@
     {
       "createdTime": "2019-09-24T22:21:42.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "021/064"
+        "Battle Icons": [
+          "\ud83d\udd36\ud83d\udd36"
+        ], 
+        "Name": "Even The Score", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/948ce098c5fb493c58fed0abbbd047b7/0822b8eb", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2fc1ac80a1a0cf79eec7b097415fa209/8ab361d6", 
+                "width": 323, 
+                "height": 450
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a7118ac8b993011e2d6b03de6e1a6b1f/fb281b2b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/455db5c83a60e2758ac8b5efc6a53555/2f425109/eventhescore.png", 
+            "filename": "eventhescore.png", 
+            "type": "image/png", 
+            "id": "attIAFqJG03zVW8Cn", 
+            "size": 240839
+          }
+        ], 
+        "Sub-Type": "Secret", 
+        "\u2b50": 1, 
+        "Card Text": "Reveal > When one of your Decepticons takes more than enough attack damage to be KO'd.\n\nWhen Revealed > Do the extra attack damage to the attacker. Then put this card into your KO area.", 
+        "Card #": "021/064", 
+        "Affiliation": "Decepticon", 
+        "Rarity": "Uncommon"
       }, 
       "id": "reckHsHFljCOexMQq"
     }, 
@@ -12105,9 +12207,43 @@
     {
       "createdTime": "2019-09-24T22:19:02.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Daring Escape", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f666dd5b42f733a4d83b92c868cf7ef8/3d310446", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/835c7f353e2b4e82a70ccefa05c3894b/a2282d71", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/85671edecf5cdd245bf56cdfed79c72d/a5a723d6", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/4a727740dd17ccccba349502fe9ce12e/a61b9d60/daringescape.png", 
+            "filename": "daringescape.png", 
+            "type": "image/png", 
+            "id": "attWE1xd29WvFzg4q", 
+            "size": 1060722
+          }
+        ], 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card Text": "For each Autobot you have on the battlefield, put the top card of your deck into your KO area face up.\n\nIf your deck and scrap pile are empty > You win the game.", 
+        "Affiliation": "Autobot", 
         "Card #": "014/064"
       }, 
       "id": "recxztwsDYqSiLBrF"
