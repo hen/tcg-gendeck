@@ -1,0 +1,88 @@
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>
+
+    var STAR='\u2b50';
+
+    function choose_team(data, filter) {
+
+        var filtered_cards=[];
+        
+        // Filter based on a template
+        $.each( data.records, function( idx, card ) {
+            var should_filter=true;
+            $.each( filter, function( attribute, match ) {
+                if(Array.isArray(match)) {
+                    if(!match.includes( card.fields[attribute] )) {
+                        should_filter=false;
+                    }
+                } else {
+                    if(card.fields[attribute] != match) {
+                        should_filter=false;
+                    }
+                }
+            });
+            if(should_filter) {
+                filtered_cards.push(card);
+            }
+        });
+
+        // Choose a team from the filtered bots
+        var MAX_STARS=25;
+        var chosen_cards=[];
+        var current_stars=0;
+        var calculating=true;
+
+        var escape_counter=10;
+        while(calculating) {
+            chosen=filtered_cards[Math.floor(Math.random() * filtered_cards.length)];
+            chosen_cards.push(chosen.fields.Name);
+            filtered_cards = filtered_cards.filter( card => card != chosen );
+            console.log("Added: " + chosen.fields.Name+"["+chosen.fields[STAR]+"]");
+
+            current_stars += chosen.fields[STAR];
+
+            remaining_stars = MAX_STARS - current_stars;
+
+            if(remaining_stars == 0) {
+                calculating = false;
+            } else {
+
+                filtered_cards = filtered_cards.filter( card => card.fields[STAR] <= remaining_stars );
+
+                if(filtered_cards.length==0 && remaining_stars !=0) {
+                    for (i = 0; i < remaining_stars; i++) { 
+                        chosen_cards.push("Star Card");
+                    }
+                    calculating = false;
+                }
+                escape_counter-=1;
+                if(escape_counter < 0) {
+                    console.log("Looping too much; quitting");
+                    calculating = false;
+                }
+            }
+        }
+
+        return chosen_cards;
+    }
+
+    // '\ud83e\udde1'
+    // Name;
+    // 'Alt Type(s)'
+    // 'Role(s)'
+    // Affiliation
+    // Wave
+    // Tribe
+    // Rarity
+    var filter={
+        //"Set": "Wave 1",
+        "Tribe": "Dinobot",
+        "Rarity": ["Common", "Uncommon"],
+    };
+
+    $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+        var cards=choose_team(data, filter);
+        console.log(cards);
+    });
+</script>
