@@ -41,7 +41,7 @@
             chosen=filtered_cards[Math.floor(Math.random() * filtered_cards.length)];
             chosen_cards.push(chosen.fields.Name);
             filtered_cards = filtered_cards.filter( card => card != chosen );
-            console.log("Added: " + chosen.fields.Name+"["+chosen.fields[STAR]+"]");
+            console.log("Added: " + chosen.fields.Name+"["+chosen.fields.Subtitle+"]("+chosen.fields[STAR]+")");
 
             current_stars += chosen.fields[STAR];
 
@@ -81,7 +81,7 @@
     var filter={
         //"Set": "Wave 1",
         "Tribe": "Dinobot",
-        "Rarity": ["Common", "Uncommon"],
+      //  "Rarity": ["Common", "Uncommon"],
     };
 
     $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
