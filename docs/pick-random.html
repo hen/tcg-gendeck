@@ -71,7 +71,7 @@
             chosen=filtered_cards[Math.floor(Math.random() * filtered_cards.length)];
             chosen_cards.push(chosen.fields.Name);
             filtered_cards = filtered_cards.filter( card => card != chosen );
-            console.log("Added: " + chosen.fields.Name+"["+chosen.fields.Subtitle+"]("+chosen.fields[STAR]+")");
+            //console.log("Added: " + chosen.fields.Name+"["+chosen.fields.Subtitle+"]("+chosen.fields[STAR]+")");
 
             current_stars += chosen.fields[STAR];
 
@@ -120,8 +120,42 @@
     };
 */
 
+    // Populates HTML select boxes with data
+    function populate_options(data, field, form_id, targets) {
+        var options = new Set();
+        $.each( data.records, function( idx, card ) {
+            if(card.fields[field]) {
+                if(Array.isArray(card.fields[field])) {
+                    card.fields[field].forEach( value => {
+                        options.add(value);
+                    });
+                } else {
+                    options.add(card.fields[field]);
+                }
+            }
+        });
+        targets.forEach( target => {
+          var form_lookup = "#" + form_id + " :input[name='" + target + "']";
+          options.forEach( option => {
+            $(form_lookup).append("<option>" + option + "</option>");
+          });
+        });
+    }
+
     function page_load() {
         $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+
+            // Get the potential values for each drop-down and populate it
+            populate_options(data, 'Set', 'navbar', ['filterA.Set', 'filterB.Set']);
+            populate_options(data, 'Affiliation', 'navbar', ['filterA.Affiliation', 'filterB.Affiliation']);
+            populate_options(data, '\u2b50', 'navbar', ['filterA.Star', 'filterB.Star']);
+            populate_options(data, 'Alt Type(s)', 'navbar', ['filterA.Alt Type(s)', 'filterB.Alt Type(s)']);
+            populate_options(data, 'Role(s)', 'navbar', ['filterA.Role(s)', 'filterB.Role(s)']);
+            populate_options(data, 'Tribe', 'navbar', ['filterA.Tribe', 'filterB.Tribe']);
+            populate_options(data, 'Name', 'navbar', ['filterA.Name', 'filterB.Name']);
+            populate_options(data, 'Rarity', 'navbar', ['filterA.Rarity', 'filterB.Rarity']);
+
+            // set up default options
             var default_search_params = new URLSearchParams();
             default_search_params.append('filterA.Set', 'Wave 1');
             default_search_params.append('filterA.Set', 'Wave 2');
@@ -139,7 +173,6 @@
                 filterA['\u2b50']=filterA['Star'];
                 delete filterA['Star'];
             }
-            console.log(filterA);
             filterB=params_to_hash(params, 'filterB.');
             if(filterB['Star']) {
                 filterB['\u2b50']=filterB['Star'];
@@ -156,29 +189,23 @@
 
         <form id="navbar" onSubmit="">
             <h3>Team A</h3>
-            <label>Wave 1: </label><input type='checkbox' name='filterA.Set' value='Wave 1'/>
-            <label>Wave 2: </label><input type='checkbox' name='filterA.Set' value='Wave 2'/>
-            <label>Wave 3: </label><input type='checkbox' name='filterA.Set' value='Wave 3'/>
-            <label>Wave 4: </label><input type='checkbox' name='filterA.Set' value='Wave 4'/>
-            <label>Affiliation: </label><select name='filterA.Affiliation'><option></option><option>Autobot</option><option>Decepticon</option></select>
-            <label>&#x2b50;: </label><input name='filterA.Star'/>
-            <label>Alt Type: </label><input name='filterA.Alt Type(s)'/>
-            <label>Role: </label><input name='filterA.Role(s)'/>
-            <label>Tribe: </label><input name='filterA.Tribe'/>
-            <label>Name: </label><input name='filterA.Name'/>
-            <label>Rarity: </label><input name='filterA.Rarity'/>
+            <label>Set: </label><select multiple="true" name='filterA.Set'><option></option></select>
+            <label>Affiliation: </label><select multiple="true" name='filterA.Affiliation'><option></option></select>
+            <label>&#x2b50;: </label><select multiple="true" name='filterA.Star'/><option></option></select>
+            <label>Alt Type: </label><select multiple="true" name='filterA.Alt Type(s)'/><option></option></select>
+            <label>Role: </label><select multiple="true" name='filterA.Role(s)'/><option></option></select>
+            <label>Tribe: </label><select multiple="true" name='filterA.Tribe'/><option></option></select>
+            <label>Name: </label><select multiple="true" name='filterA.Name'/><option></option></select>
+            <label>Rarity: </label><select multiple="true" name='filterA.Rarity'/><option></option></select>
             <h3>Team B</h3>
-            <label>Wave 1: </label><input type='checkbox' name='filterB.Set' value='Wave 1'/>
-            <label>Wave 2: </label><input type='checkbox' name='filterB.Set' value='Wave 2'/>
-            <label>Wave 3: </label><input type='checkbox' name='filterB.Set' value='Wave 3'/>
-            <label>Wave 4: </label><input type='checkbox' name='filterB.Set' value='Wave 4'/>
-            <label>Affiliation: </label><select name='filterB.Affiliation'><option></option><option>Autobot</option><option>Decepticon</option></select>
-            <label>&#x2b50;: </label><input name='filterB.Star'/>
-            <label>Alt Type: </label><input name='filterB.Alt Type(s)'/>
-            <label>Role: </label><input name='filterB.Role(s)'/>
-            <label>Tribe: </label><input name='filterB.Tribe'/>
-            <label>Name: </label><input name='filterB.Name'/>
-            <label>Rarity: </label><input name='filterB.Rarity'/>
+            <label>Set: </label><select multiple="true" name='filterB.Set'><option></option></select>
+            <label>Affiliation: </label><select multiple="true" name='filterB.Affiliation'><option></option></select>
+            <label>&#x2b50;: </label><select multiple="true" name='filterB.Star'/><option></option></select>
+            <label>Alt Type: </label><select multiple="true" name='filterB.Alt Type(s)'/><option></option></select>
+            <label>Role: </label><select multiple="true" name='filterB.Role(s)'/><option></option></select>
+            <label>Tribe: </label><select multiple="true" name='filterB.Tribe'/><option></option></select>
+            <label>Name: </label><select multiple="true" name='filterB.Name'/><option></option></select>
+            <label>Rarity: </label><select multiple="true" name='filterB.Rarity'/><option></option></select>
             <input type='submit' value='Generate'/>
         </form>
 
