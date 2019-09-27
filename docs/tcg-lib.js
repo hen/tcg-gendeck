@@ -250,3 +250,27 @@ function params_to_hash(params, prefix) {
     return hash
 }
 
+// Populates HTML select boxes with data
+function populate_options(data, field, form_id, targets) {
+    var options = new Set();
+    $.each( data.records, function( idx, card ) {
+        if(card.fields[field]) {
+            if(Array.isArray(card.fields[field])) {
+                card.fields[field].forEach( value => {
+                    options.add(value);
+                });
+            } else {
+                options.add(card.fields[field]);
+            }
+        }
+    });
+    var sorted_options=Array.from(options);
+    sorted_options.sort();
+    targets.forEach( target => {
+      var form_lookup = "#" + form_id + " :input[name='" + target + "']";
+      sorted_options.forEach( option => {
+        $(form_lookup).append("<option>" + option + "</option>");
+      });
+    });
+}
+
