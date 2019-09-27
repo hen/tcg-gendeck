@@ -167,7 +167,7 @@ function get_battle_pack_for_wave(data, wave) {
 function place_battle_card(card, css_class, css_container_id, index) {
   var drop_distance = 50 * index - 35;      // This needs to be different for wave 1/2
   var zIndex = index;
-  chosen_item="<li style='top: " + drop_distance + "; z-index: " + zIndex + ";' class='small_card' id='" + card.id + "'><img src='" + card.fields['Image'][0].thumbnails.large.url + "'/>";
+  chosen_item="<li style='top: " + drop_distance + "px; z-index: " + zIndex + ";' class='small_card' id='" + card.id + "'><img src='" + card.fields['Image'][0].thumbnails.large.url + "'/>";
     //  For alt:   + chosen.fields.Set + ": " + chosen.fields.Name + "</li>" );
 
   $( chosen_item ).appendTo( "#" + css_container_id );
