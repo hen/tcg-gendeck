@@ -203,8 +203,23 @@ function initialize_form_from_params(form_id, form_defaults) {
   $(form_lookup).filter(':input').each( function() {
 
     for(var pair of values.entries()) {
-      if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
-        $(this).attr('checked', true);
+      console.log("Form: " + $(this).attr('name') + ", Type: " + $(this).prop('type') );
+
+      // TODO: Need to support other form elements.   Drop downs, Textfields.
+      switch( $(this).prop('type') ) {
+        case 'checkbox':
+          if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
+            $(this).attr('checked', true);
+          }
+          break;
+        case 'submit':
+          // ignore
+          break;
+        default:
+          // supports at least 'text', 'select-one'
+          if($(this).attr('name') == pair[0]) {
+            $(this).val(pair[1]);
+          }
       }
     }
   });
