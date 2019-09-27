@@ -217,9 +217,11 @@ function initialize_form_from_params(form_id, form_defaults) {
 function params_to_hash(params, prefix) {
     var hash={};
     for(var key of params.keys()) {
-        if(prefix && key.startsWith(prefix)) {
-            var newkey=key.substr(prefix.length);
-            hash[newkey]=params.getAll(key);
+        if(prefix) { 
+            if(key.startsWith(prefix)) {
+                var newkey=key.substr(prefix.length);
+                hash[newkey]=params.getAll(key);
+            }
         } else {
             hash[key]=params.getAll(key);
         }
