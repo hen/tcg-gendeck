@@ -30,13 +30,23 @@
                 should_filter=false;
             }
             $.each( filter, function( attribute, match ) {
-                if(Array.isArray(match)) {
-                    if(!match.includes( card.fields[attribute] )) {
-                        should_filter=false;
-                    }
-                } else {
-                    if(card.fields[attribute] != match) {
-                        should_filter=false;
+                // ignore empty match requests
+                if(match != "") {
+                    if(Array.isArray(match)) {
+                        if(card.fields[attribute]) { 
+                            // The toString is a hack so that numbers in the json equate to Strings coming in over http. 
+                            // If I start handling < and > then it'll need to be revisited.
+                            if(!match.includes( card.fields[attribute].toString() )) {
+                                should_filter=false;
+                            }
+                        } else {
+                            should_filter=false;
+                        }
+                    } else {
+                        alert("ERROR: This code should not be used anymore; everything is an array now");
+                        if(match != "" && card.fields[attribute] && card.fields[attribute].toString() != match) {
+                            should_filter=false;
+                        }
                     }
                 }
             });
@@ -44,6 +54,12 @@
                 filtered_cards.push(card);
             }
         });
+
+        if(filtered_cards==0) {
+            // TODO: This needs to get to the UI. 
+            console.log("No Cards Found");
+            return;
+        }
 
         // Choose a team from the filtered bots
         var chosen_cards=[];
@@ -89,7 +105,7 @@
     }
 
 /*
-    // '\ud83e\udde1'
+    // '\u2b50'   (Star)
     // Name;
     // 'Alt Type(s)'
     // 'Role(s)'
@@ -119,7 +135,16 @@
             params=initialize_form_from_params("navbar", default_search_params);
 
             filterA=params_to_hash(params, 'filterA.');
+            if(filterA['Star']) {
+                filterA['\u2b50']=filterA['Star'];
+                delete filterA['Star'];
+            }
+            console.log(filterA);
             filterB=params_to_hash(params, 'filterB.');
+            if(filterB['Star']) {
+                filterB['\u2b50']=filterB['Star'];
+                delete filterB['Star'];
+            }
 
             var cardsA=choose_team(data, filterA);
             display_team(cardsA);
@@ -135,11 +160,25 @@
             <label>Wave 2: </label><input type='checkbox' name='filterA.Set' value='Wave 2'/>
             <label>Wave 3: </label><input type='checkbox' name='filterA.Set' value='Wave 3'/>
             <label>Wave 4: </label><input type='checkbox' name='filterA.Set' value='Wave 4'/>
+            <label>Affiliation: </label><select name='filterA.Affiliation'><option></option><option>Autobot</option><option>Decepticon</option></select>
+            <label>&#x2b50;: </label><input name='filterA.Star'/>
+            <label>Alt Type: </label><input name='filterA.Alt Type(s)'/>
+            <label>Role: </label><input name='filterA.Role(s)'/>
+            <label>Tribe: </label><input name='filterA.Tribe'/>
+            <label>Name: </label><input name='filterA.Name'/>
+            <label>Rarity: </label><input name='filterA.Rarity'/>
             <h3>Team B</h3>
             <label>Wave 1: </label><input type='checkbox' name='filterB.Set' value='Wave 1'/>
             <label>Wave 2: </label><input type='checkbox' name='filterB.Set' value='Wave 2'/>
             <label>Wave 3: </label><input type='checkbox' name='filterB.Set' value='Wave 3'/>
             <label>Wave 4: </label><input type='checkbox' name='filterB.Set' value='Wave 4'/>
+            <label>Affiliation: </label><select name='filterB.Affiliation'><option></option><option>Autobot</option><option>Decepticon</option></select>
+            <label>&#x2b50;: </label><input name='filterB.Star'/>
+            <label>Alt Type: </label><input name='filterB.Alt Type(s)'/>
+            <label>Role: </label><input name='filterB.Role(s)'/>
+            <label>Tribe: </label><input name='filterB.Tribe'/>
+            <label>Name: </label><input name='filterB.Name'/>
+            <label>Rarity: </label><input name='filterB.Rarity'/>
             <input type='submit' value='Generate'/>
         </form>
 
