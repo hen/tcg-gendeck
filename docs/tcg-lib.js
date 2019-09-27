@@ -186,3 +186,28 @@ function pull_battle_cards(data, wave, widget) {
     place_battle_card(card, "small_card", "battle_cards" + widget, idx + incr);
   });
 }
+
+// TODO: Genericize this to handle more than checked boxes
+// Returns the values used so the subsequent code doesn't have to worry about whether or not defaults were used
+function initialize_form_from_params(form_id, form_defaults) {
+
+  var values=[];
+  if(window.location.href.indexOf('?') == -1) {
+    values=form_defaults;
+  } else {
+    var url = new URL(window.location.href);
+    values=url.searchParams;
+  }
+
+  var form_lookup = form_id + " *";
+  $(form_lookup).filter(':input').each(function(){
+
+    for(var pair of values.entries()) {
+      if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
+        $(this).attr('checked', true);
+      }
+    }
+  });
+
+  return values;
+}
