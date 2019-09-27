@@ -11,6 +11,9 @@
         // Filter based on a template
         $.each( data.records, function( idx, card ) {
             var should_filter=true;
+            if(card.fields.Name=='Unknown Wave 4 Bot') {
+                should_filter=false;
+            }
             $.each( filter, function( attribute, match ) {
                 if(Array.isArray(match)) {
                     if(!match.includes( card.fields[attribute] )) {
