@@ -101,14 +101,18 @@
     }
 
     function display_team(cards, widget) {
-        cards.forEach( card => {
-            if(card=='Star Card') {
-                // ignore
-                console.log("Ignoring Star Card");
-            } else {
-                place_bot_card(card, "bot_card", "bot_cards" + widget);
-            }
-        });
+        if(cards) {
+            cards.forEach( card => {
+                if(card=='Star Card') {
+                    // ignore
+                    console.log("Ignoring Star Card");
+                } else {
+                    place_bot_card(card, "bot_card", "bot_cards" + widget);
+                }
+            });
+        } else {
+            console.log("No Team Chosen");
+        }
     }
 
 /*
