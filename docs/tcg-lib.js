@@ -95,12 +95,14 @@ function get_bot_card(data, wave, wantSmall) {
   var cards = [];
 
   $.each( data.records, function( idx, card ) {
-    if(card.fields.Set==wave) {
-      if(card.fields.Rarity==chosen_rarity) {
-        if( (is_small_bot_card(card) && wantSmall) ||
-            (!is_small_bot_card(card) && !wantSmall) )
-        {
-          cards.push(card);
+    if(card.fields.Name!="Unknown Wave 4 Bot") {     // Temporary filter
+      if(card.fields.Set==wave) {
+        if(card.fields.Rarity==chosen_rarity) {
+          if( (is_small_bot_card(card) && wantSmall) ||
+              (!is_small_bot_card(card) && !wantSmall) )
+          {
+            cards.push(card);
+          }
         }
       }
     }
