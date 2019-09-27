@@ -3,6 +3,12 @@
     <head>
         <meta charset="utf-8"/>
         <title>Generate Two Teams</title>
+        <style>
+          .bot_card { display: inline; }
+          .bot_card img { width: 150px; height: 200px; }
+          ul { list-style: none; }
+        </style>
+
     </head>
 
     <body>
@@ -68,8 +74,8 @@
 
         var escape_counter=10;
         while(calculating) {
-            chosen=filtered_cards[Math.floor(Math.random() * filtered_cards.length)];
-            chosen_cards.push(chosen.fields.Name);
+            var chosen=filtered_cards[Math.floor(Math.random() * filtered_cards.length)];
+            chosen_cards.push(chosen);
             filtered_cards = filtered_cards.filter( card => card != chosen );
             //console.log("Added: " + chosen.fields.Name+"["+chosen.fields.Subtitle+"]("+chosen.fields[STAR]+")");
 
@@ -100,8 +106,15 @@
         return chosen_cards;
     }
 
-    function display_team(cards) {
-        console.log(cards);
+    function display_team(cards, widget) {
+        cards.forEach( card => {
+            if(card=='Star Card') {
+                // ignore
+                console.log("Ignoring Star Card");
+            } else {
+                place_bot_card(card, "bot_card", "bot_cards" + widget);
+            }
+        });
     }
 
 /*
@@ -158,9 +171,9 @@
             }
 
             var cardsA=choose_team(data, filterA);
-            display_team(cardsA);
+            display_team(cardsA, "_A");
             var cardsB=choose_team(data, filterB);
-            display_team(cardsB);
+            display_team(cardsB, "_B");
         });
     }
 </script>
@@ -187,10 +200,22 @@
             <input type='submit' value='Generate'/>
         </form>
 
+      <ul class="teamA">
+        <li>
+          <ul id="bot_cards_A"></ul>
+        </li>
+      </ul>
+      <font size="7">VS</font>
+      <ul class="teamB">
+        <li>
+          <ul id="bot_cards_B"></ul>
+        </li>
+      </ul>
+
+
       <script>
           page_load();
       </script>
-
 
     </body>
 </html>
