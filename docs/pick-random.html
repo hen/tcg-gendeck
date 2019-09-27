@@ -134,9 +134,11 @@
                 }
             }
         });
+        var sorted_options=Array.from(options);
+        sorted_options.sort();
         targets.forEach( target => {
           var form_lookup = "#" + form_id + " :input[name='" + target + "']";
-          options.forEach( option => {
+          sorted_options.forEach( option => {
             $(form_lookup).append("<option>" + option + "</option>");
           });
         });
