@@ -199,8 +199,8 @@ function initialize_form_from_params(form_id, form_defaults) {
     values=url.searchParams;
   }
 
-  var form_lookup = form_id + " *";
-  $(form_lookup).filter(':input').each(function(){
+  var form_lookup = "#" + form_id + " *";
+  $(form_lookup).filter(':input').each( function() {
 
     for(var pair of values.entries()) {
       if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
@@ -211,3 +211,19 @@ function initialize_form_from_params(form_id, form_defaults) {
 
   return values;
 }
+
+// prefix is optional
+// if included, then only items matching that prefix will be returned AND the prefix will be stripped
+function params_to_hash(params, prefix) {
+    var hash={};
+    for(var key of params.keys()) {
+        if(prefix && key.startsWith(prefix)) {
+            var newkey=key.substr(prefix.length);
+            hash[newkey]=params.getAll(key);
+        } else {
+            hash[key]=params.getAll(key);
+        }
+    }
+    return hash
+}
+

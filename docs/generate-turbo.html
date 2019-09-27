@@ -45,20 +45,14 @@
 
           function generate_new_turbo() {
             var default_search_params = new URLSearchParams();
-            default_search_params.append('wave', 'Wave 1');
-            default_search_params.append('wave', 'Wave 2');
-            default_search_params.append('wave', 'Wave 3');
-            default_search_params.append('wave', 'Wave 4');
+            default_search_params.append('Set', 'Wave 1');
+            default_search_params.append('Set', 'Wave 2');
+            default_search_params.append('Set', 'Wave 3');
+            default_search_params.append('Set', 'Wave 4');
 
-            params=initialize_form_from_params("#navbar", default_search_params);
-
-            // TODO: This could be a search_params -> array function
-            waveChoices=[];
-            for(var value of params.values()) {
-                waveChoices.push(value);
-            }
-
-            generate_turbo(waveChoices);
+            params=initialize_form_from_params("navbar", default_search_params);
+            waveChoices=params_to_hash(params);
+            generate_turbo(waveChoices['Set']);
           }
         </script>
 
@@ -75,10 +69,10 @@
         </style>
 
         <form id="navbar" onSubmit="">
-            <label>Wave 1: </label><input type='checkbox' name='wave' value='Wave 1'/>
-            <label>Wave 2: </label><input type='checkbox' name='wave' value='Wave 2'/>
-            <label>Wave 3: </label><input type='checkbox' name='wave' value='Wave 3'/>
-            <label>Wave 4: </label><input type='checkbox' name='wave' value='Wave 4'/>
+            <label>Wave 1: </label><input type='checkbox' name='Set' value='Wave 1'/>
+            <label>Wave 2: </label><input type='checkbox' name='Set' value='Wave 2'/>
+            <label>Wave 3: </label><input type='checkbox' name='Set' value='Wave 3'/>
+            <label>Wave 4: </label><input type='checkbox' name='Set' value='Wave 4'/>
             <input type='submit' value='Generate'/>
         </form>
 
