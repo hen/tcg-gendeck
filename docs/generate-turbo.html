@@ -43,29 +43,46 @@
 
           }
 
-         // function clear_display() {
-         //   $(".waveChoice").remove();
-         //   $(".bot_card").remove();
-         //   $(".small_card").remove();
-         // }
+          // TODO: Genericize this to handle more than checked boxes
+          // Returns the values used so the subsequent code doesn't have to worry about whether or not defaults were used
+          function initialize_form_from_params(form_id, form_defaults) {
 
-          function setup_navbar(waveChoices) {
-            var navbarText = "";
-            navbarText += "<label>Wave 1: </label><input type='checkbox' name='wave' value='Wave 1' " + (waveChoices.includes("Wave 1") ? "checked='checked'" : "") + "/>";
-            navbarText += "<label>Wave 2: </label><input type='checkbox' name='wave' value='Wave 2' " + (waveChoices.includes("Wave 2") ? "checked='checked'" : "") + "/>";
-            navbarText += "<label>Wave 3: </label><input type='checkbox' name='wave' value='Wave 3' " + (waveChoices.includes("Wave 3") ? "checked='checked'" : "") + "/>";
-            navbarText += "<label>Wave 4: </label><input type='checkbox' name='wave' value='Wave 4' " + (waveChoices.includes("Wave 4") ? "checked='checked'" : "") + "/>";
-            navbarText += "<input type='submit' value='Generate'/>";
-            $( navbarText ).appendTo( "#navbar" );
+            var values=[];
+            if(window.location.href.indexOf('?') == -1) {
+              values=form_defaults;
+            } else {
+              var url = new URL(window.location.href);
+              values=url.searchParams;
+            }
+
+            var form_lookup = form_id + " *";
+            $(form_lookup).filter(':input').each(function(){
+
+              for(var pair of values.entries()) {
+                if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
+                  $(this).attr('checked', true);
+                }
+              }
+            });
+
+            return values;
           }
 
           function generate_new_turbo() {
-            var url = new URL(window.location.href);
-            var waveChoices = url.searchParams.getAll("wave");
-            if(waveChoices.length==0) {
-              waveChoices=waves;
+            var default_search_params = new URLSearchParams();
+            default_search_params.append('wave', 'Wave 1');
+            default_search_params.append('wave', 'Wave 2');
+            default_search_params.append('wave', 'Wave 3');
+            default_search_params.append('wave', 'Wave 4');
+
+            params=initialize_form_from_params("#navbar", default_search_params);
+
+            // TODO: This could be a search_params -> array function
+            waveChoices=[];
+            for(var value of params.values()) {
+                waveChoices.push(value);
             }
-            setup_navbar(waveChoices);
+
             generate_turbo(waveChoices);
           }
         </script>
@@ -83,6 +100,11 @@
         </style>
 
         <form id="navbar" onSubmit="">
+            <label>Wave 1: </label><input type='checkbox' name='wave' value='Wave 1'/>
+            <label>Wave 2: </label><input type='checkbox' name='wave' value='Wave 2'/>
+            <label>Wave 3: </label><input type='checkbox' name='wave' value='Wave 3'/>
+            <label>Wave 4: </label><input type='checkbox' name='wave' value='Wave 4'/>
+            <input type='submit' value='Generate'/>
         </form>
 
       <!-- Ugly and clunky; need to move to a UI framework -->
