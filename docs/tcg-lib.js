@@ -7,7 +7,10 @@ var wave4="Wave 4";
 var waves=[wave1, wave2, wave3, wave4];
 
 function random_wave() {
-  return waves[Math.floor(Math.random() * waves.length)];
+  return random_from(waves);
+}
+function random_from(array) {
+  return array[Math.floor(Math.random() * array.length)];
 }
 
 //  Wave 1:    Super Rare is 1:79
