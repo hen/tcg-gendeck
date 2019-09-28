@@ -28,9 +28,8 @@ var rarities = ['Common', 'Uncommon', 'Rare', 'Super-Rare']
 var ratios={
   'Wave 1': [1, 53, 72, 80],        // Equivalent-ish of 1:(79/3):(79/10):79
   'Wave 2': [1, 53, 72, 80],        // Equivalent-ish of 1:(79/3):(79/10):79
-  // TODO: Fix the below; it's 1:50 for SR not 1:79
-  'Wave 3': [1, 53, 72, 80],        // Equivalent-ish of 1:(79/3):(79/10):79
-  'Wave 4': [1, 53, 72, 80]         // Equivalent-ish of 1:(79/3):(79/10):79
+  'Wave 3': [1, 30, 46, 51],        // Equivalent-ish of 1:(50/3):(50/10):50
+  'Wave 4': [1, 30, 46, 51]         // Equivalent-ish of 1:(50/3):(50/10):50
 };
 var small_ratios={
   'Wave 1': null,
