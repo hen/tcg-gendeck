@@ -3363,10 +3363,45 @@
     {
       "createdTime": "2019-09-24T22:31:39.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "059/064"
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\u2b1b"
+        ], 
+        "Name": "Terrifying Resilience", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d7ba9e98b050f3c047e343005683ef3/1ef37027", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eba790ccb15f6f0e5704654212ac5a4b/c99b6536", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3a62adc819a20990451e33da14f421f4/577a5b92", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/896509fa30cedf64c11c987cba52ab50/5a0bedfd/terrifyingresilience.png", 
+            "filename": "terrifyingresilience.png", 
+            "type": "image/png", 
+            "id": "atthETjVe7ybAAkjr", 
+            "size": 1041291
+          }
+        ], 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "Can't be put on Autobots.\n\nTough 2 (Flip 2 more battle cards when defending.)", 
+        "Card #": "059/064", 
+        "Affiliation": "Decepticon", 
+        "Rarity": "Common"
       }, 
       "id": "recFNaxUU6c279Kpi"
     }, 
@@ -4794,10 +4829,44 @@
     {
       "createdTime": "2019-09-24T22:24:10.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "031/064"
+        "Battle Icons": [
+          "\u2b1b\u2b1b"
+        ], 
+        "Name": "Indestructible Sword", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4eacec59efb0d320f275114919b16780/12eeb528", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ac4db1b89be2148537c554150f37aef6/9e66f6d9", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9fc4d5618f71ebd34a9ee773b62c3141/6250a9fd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/f5c36f995c9e5552725083f20c307b17/f2733be0/indestuctablesword.png", 
+            "filename": "indestuctablesword.png", 
+            "type": "image/png", 
+            "id": "attB6ONU6EJbvot1H", 
+            "size": 1038180
+          }
+        ], 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 1, 
+        "Card Text": "When this is scrapped from a character > Return this to your hand.", 
+        "Card #": "031/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Uncommon"
       }, 
       "id": "recOrwQypOjhrK0qT"
     }, 
@@ -7665,10 +7734,41 @@
     {
       "createdTime": "2019-09-24T22:15:11.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "007/064"
+        "Name": "Blast Suit", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/61dfff6d790184d781c01b5138d94fda/19e5fa39", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1cb7ce98a39105cd0832da0154457578/cbe0892c", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cd7e1c8e107dac31ffb4219b4a8d3f0f/56b29e15", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/a2da9bf943ec5cd2c39865eda9a1f363/56da8133/blastsuit.png", 
+            "filename": "blastsuit.png", 
+            "type": "image/png", 
+            "id": "attH9GdsOPHR3X84t", 
+            "size": 1078321
+          }
+        ], 
+        "Sub-Type": "Armor", 
+        "\u2b50": 1, 
+        "Card Text": "If the upgraded character would take attack damage > Instead it takes half that damage rounded down, and you scrap this card.", 
+        "Card #": "007/064", 
+        "Affiliation": "Neutral", 
+        "Rarity": "Uncommon"
       }, 
       "id": "recaJWD1p6CrbIS1N"
     }, 
@@ -11311,10 +11411,45 @@
     {
       "createdTime": "2019-09-24T22:32:00.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "061/064"
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\u2b1b"
+        ], 
+        "Name": "Unflinching Courage", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3380c7d445c2fa9e7785bb07bc71f211/d022918b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e031939894b6172c66afcefeac38406d/ab2fdc51", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/867b371a3dbcc21843142e2ddd8c1f02/217cd8a4", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6bac5db41860faead7f7891c027ff71e/56d2c2ff/unflinchingcourage.png", 
+            "filename": "unflinchingcourage.png", 
+            "type": "image/png", 
+            "id": "attDR6J8Gt7mr8f2m", 
+            "size": 997175
+          }
+        ], 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "Can't be put on Decepticons.\n\nBold 2 (Flip 2 more battle cards when attacking.)", 
+        "Card #": "061/064", 
+        "Affiliation": "Autobot", 
+        "Rarity": "Common"
       }, 
       "id": "recrnp7jWNVXo4rcI"
     }, 

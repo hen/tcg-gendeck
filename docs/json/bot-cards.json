@@ -11309,15 +11309,75 @@
     {
       "createdTime": "2019-09-27T01:52:26.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 12, 
+        "Bot\u2694\ufe0f": 5, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Infantry \u2022 Enforcer", 
+        "Name": "Sergeant Barricade", 
+        "Affiliation": "Decepticon", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T42/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 7, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > You may play a battle card from under this.\n\nBot Mode:\n\nWhen this battles and has no battle cards under him > After the battle, put one of your flipped battle cards that has no battle icons under this instead of into your scrap pile.", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/90a1b8ad1e3761d863efccd9fd69b367/64a7698c", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/57c424b6e6eec571efe5f8b2f3b602ee/f3c273b6", 
+                "width": 512, 
+                "height": 734
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/28060a0a794d490d90f67d0f38276063/e50537d0", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/d41eab9053acb991141b8d87fbc1432d/bda17310/barricade-b.png", 
+            "filename": "barricade-b.png", 
+            "type": "image/png", 
+            "id": "attMrt94p5YEJcthe", 
+            "size": 1011062
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1aef6ba67710d6bdf86464b15aafa058/4775b97d", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6be8d448a5bdfa0423058330dc6575a8/9db7296b", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d0576a7f31952743b17fbb2685f13844/327f8df4", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/0a2b5b1f0cc0a5359bfa0eedb0827a7a/f749ced4/barricade-a.png", 
+            "filename": "barricade-a.png", 
+            "type": "image/png", 
+            "id": "attqhgFQiL4SopErJ", 
+            "size": 1000168
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Melee"
+        ]
       }, 
       "id": "reciwwy4QpS8DcF0C"
     }, 
@@ -12541,15 +12601,75 @@
     {
       "createdTime": "2019-09-27T01:52:05.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 13, 
+        "Bot\u2694\ufe0f": 4, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Infantry \u2022 Aerial Assault", 
+        "Name": "Raider Spinister", 
+        "Affiliation": "Decepticon", 
+        "Alt Type(s)": [
+          "Helicopter"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T40/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 11, 
+        "Card Text": "Alt Mode:\n\nThis has 2 Weapon slots.\nWhile this has a Battle Master Upgrade > This has +3.\n\nBot Mode:\n\nThis has 2 Weapon slots.\nWhen you flip to this mode > One of your Battle Master characters gets +3 [ATK] until end of turn.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c996d466eb19336577d6a1effac079e3/68862625", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1bacdb53431b9686227d740215af5fc8/2043c72a", 
+                "width": 346, 
+                "height": 496
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/061eab1f66ee31d09b77710a969a89b8/97e6ed4f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/10809c88744c53f876c507655893be06/ddc80312/spinister-b.png", 
+            "filename": "spinister-b.png", 
+            "type": "image/png", 
+            "id": "attlKWsC36qZhhXFH", 
+            "size": 379651
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/afe3a25a4980d60d6ae15dc2fe0e05b6/fb9eded6", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/618ed4b38c0a35578649b967af43df7a/af70d29d", 
+                "width": 346, 
+                "height": 495
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a20f2b5b984f27ebf31bd4b7b48511e5/d6f2a4d0", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/262bb5a3ef9fde87fc618cc8122cf024/02b97fbc/spinister.png", 
+            "filename": "spinister.png", 
+            "type": "image/png", 
+            "id": "att7NeoYn9Qh5kbr5", 
+            "size": 385216
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recn1bUTGXkmNsO8b"
     }, 
