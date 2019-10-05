@@ -120,7 +120,7 @@
     // Name;
     // 'Alt Type(s)'
     // 'Role(s)'
-    // Affiliation
+    // Faction
     // Wave
     // Tribe
     // Rarity
@@ -136,7 +136,7 @@
 
             // Get the potential values for each drop-down and populate it
             populate_options(data, 'Set', 'navbar', ['filterA.Set', 'filterB.Set']);
-            populate_options(data, 'Affiliation', 'navbar', ['filterA.Affiliation', 'filterB.Affiliation']);
+            populate_options(data, 'Faction', 'navbar', ['filterA.Faction', 'filterB.Faction']);
             populate_options(data, '\u2b50', 'navbar', ['filterA.Star', 'filterB.Star']);
             populate_options(data, 'Alt Type(s)', 'navbar', ['filterA.Alt Type(s)', 'filterB.Alt Type(s)']);
             populate_options(data, 'Role(s)', 'navbar', ['filterA.Role(s)', 'filterB.Role(s)']);
@@ -179,7 +179,7 @@
         <form id="navbar" onSubmit="">
             <h3>Team A</h3>
             <label>Set: </label><select multiple="true" name='filterA.Set'><option></option></select>
-            <label>Affiliation: </label><select multiple="true" name='filterA.Affiliation'><option></option></select>
+            <label>Faction: </label><select multiple="true" name='filterA.Faction'><option></option></select>
             <label>&#x2b50;: </label><select multiple="true" name='filterA.Star'/><option></option></select>
             <label>Alt Type: </label><select multiple="true" name='filterA.Alt Type(s)'/><option></option></select>
             <label>Role: </label><select multiple="true" name='filterA.Role(s)'/><option></option></select>
@@ -188,7 +188,7 @@
             <label>Rarity: </label><select multiple="true" name='filterA.Rarity'/><option></option></select>
             <h3>Team B</h3>
             <label>Set: </label><select multiple="true" name='filterB.Set'><option></option></select>
-            <label>Affiliation: </label><select multiple="true" name='filterB.Affiliation'><option></option></select>
+            <label>Faction: </label><select multiple="true" name='filterB.Faction'><option></option></select>
             <label>&#x2b50;: </label><select multiple="true" name='filterB.Star'/><option></option></select>
             <label>Alt Type: </label><select multiple="true" name='filterB.Alt Type(s)'/><option></option></select>
             <label>Role: </label><select multiple="true" name='filterB.Role(s)'/><option></option></select>
