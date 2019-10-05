@@ -8,7 +8,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Autobot Architect", 
         "Name": "Grapple", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -84,7 +84,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Infiltration", 
         "Name": "Private Mudslinger", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -163,7 +163,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Soldier", 
         "Name": "Raider Runabout", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -239,7 +239,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Cybertronian Sage", 
         "Name": "Alpha Trion", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Spaceship"
         ], 
@@ -316,7 +316,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Air Force \u2022 Weapons", 
         "Name": "Raider Aimless", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -390,7 +390,7 @@
         "Set": "Wave 4A", 
         "Subtitle": "Devoted Minion", 
         "Name": "Wipe-Out", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -465,7 +465,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Decepticon Psy Ops", 
         "Name": "Bombshell", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T12/T46", 
         "\u2b50": 11, 
@@ -541,7 +541,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Bombardier", 
         "Name": "Dinobot Swoop", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recfwOH8RXEiLPgLL"
         ], 
@@ -620,7 +620,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Dinobot Leader", 
         "Name": "Grimlock", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T21/T40", 
         "\u2b50": 10, 
@@ -698,7 +698,7 @@
         "Subtitle": "Spy", 
         "Name": "Buzzsaw", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/buzzsaw-spy-BVS", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T06/T08", 
         "\u2b50": 5, 
@@ -836,7 +836,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Soldier", 
         "Name": "Raider Runamuck", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -912,7 +912,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Steadfast Brawler", 
         "Name": "Ironhide", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -989,15 +989,75 @@
     {
       "createdTime": "2019-09-27T01:48:22.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 14, 
+        "Bot\u2694\ufe0f": 5, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Arms Dealer", 
+        "Name": "Detritus", 
+        "Faction": "Mercenaries", 
+        "Alt Type(s)": [
+          "Truck"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T05/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 11, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > You may play a [BLACK] card.\n\nBot Mode:\n\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Repair 3 damage from this.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13114b00d816b82bb1fd523be20ff7ca/61697fb3", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/aa1318018db73940a46ba3dc62bc90e7/8f3d3145", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0dfdfe57c540c2f1761bda0e0310d322/e25cdf69", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/90cfbf0f6db58c8b3894f535a1d50890/a4ab9f3d/detritus-b.png", 
+            "filename": "detritus-b.png", 
+            "type": "image/png", 
+            "id": "attDHljZZqxkShWPa", 
+            "size": 829037
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/22dd7668a35e0458e758bcc5a7bb4c1d/79c28f72", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df599d55223c33a531738a1de0741678/9a9ea058", 
+                "width": 512, 
+                "height": 734
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e58d4fc59633a2b7e23ae49f751194cf/fbdbcc35", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/9cf7b815f43871bd8baf2a3d0773c98e/bd920ac9/detritus-a.png", 
+            "filename": "detritus-a.png", 
+            "type": "image/png", 
+            "id": "attJgKrQLpx1m63Lg", 
+            "size": 833495
+          }
+        ], 
+        "Alt\u2694\ufe0f": 6, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "rec31BEIUmBWY4sS5"
     }, 
@@ -1009,7 +1069,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Spiked Battler", 
         "Name": "Dinobot Snarl", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recfwOH8RXEiLPgLL"
         ], 
@@ -1088,7 +1148,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Weapons Inventor", 
         "Name": "Wheeljack", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -1165,7 +1225,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Fearsome Flyer", 
         "Name": "Dinobot Swoop", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T19/T40", 
         "\u2b50": 6, 
@@ -1241,7 +1301,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Supersonic Interceptor", 
         "Name": "Thrust", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -1317,7 +1377,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Transport", 
         "Name": "Longhaul", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -1396,7 +1456,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Sneaky Prankster", 
         "Name": "Skywarp", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -1472,7 +1532,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Gleaming Commander", 
         "Name": "Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -1552,7 +1612,7 @@
         "Set": "Wave 1A", 
         "Subtitle": "City Patrol", 
         "Name": "Scamper", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -1629,7 +1689,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Veteran Decepticon", 
         "Name": "Flamewar", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Motorcycle"
         ], 
@@ -1705,7 +1765,7 @@
         "Set": "Wave 2S", 
         "Subtitle": "Least Likely, Most Dangerous", 
         "Name": "Bumblebee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -1781,7 +1841,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Artillery \u2022 Tactics", 
         "Name": "Private Flak", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -1860,7 +1920,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Soldier", 
         "Name": "Private Sideswipe", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -1936,7 +1996,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Mach Warrior", 
         "Name": "Thundercracker", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -2012,7 +2072,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Reluctant Soldier", 
         "Name": "Bluestreak", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -2088,7 +2148,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Artillery \u2022 Weapons Supervisor", 
         "Name": "Sergeant Crosshairs", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -2163,7 +2223,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Black Ops \u2022 Seeker", 
         "Name": "Sergeant Skywarp", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -2239,7 +2299,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Insecticon Commando", 
         "Name": "Ransack", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 3, 
         "Card #": "T33/T40", 
         "\u2b50": 6, 
@@ -2316,7 +2376,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Fearless Flyer", 
         "Name": "Air Raid", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recTtAb0NJRyIfPdK"
         ], 
@@ -2398,7 +2458,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Combiner Hunter", 
         "Name": "Windblade", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -2489,7 +2549,7 @@
         "Set": "Wave 1S", 
         "Subtitle": "Veteran Autobot", 
         "Name": "Ironhide", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T02/T04", 
         "\u2b50": 6, 
@@ -2565,7 +2625,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Leader", 
         "Name": "General Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -2642,7 +2702,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Soldier", 
         "Name": "Private Smokescreen", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -2717,7 +2777,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Powerful Commander", 
         "Name": "Grimlock", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recfwOH8RXEiLPgLL"
         ], 
@@ -2797,7 +2857,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Fusion Flyer", 
         "Name": "Sunstorm", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -2873,7 +2933,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Doomed Loner", 
         "Name": "Dead End", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recazq7ZL6mawoz9Q"
         ], 
@@ -2955,7 +3015,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Air Commander", 
         "Name": "Starscream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -3032,7 +3092,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Insecticon Leader", 
         "Name": "Insecticon Skrapnel", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T23/T40", 
         "\u2b50": 7, 
@@ -3109,7 +3169,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Strategic Mastermind", 
         "Name": "Prowl", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -3191,7 +3251,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Rainmaker", 
         "Name": "Raider Ion Storm", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -3267,7 +3327,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Sports Card Patrol \u2022 Demolitions", 
         "Name": "Raider Hyperdrive", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -3345,7 +3405,7 @@
         "Set": "Wave 1S", 
         "Subtitle": "Brave Warrior", 
         "Name": "Bumblebee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -3422,7 +3482,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Air Force \u2022 Artillery", 
         "Name": "Raider Sights", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -3495,7 +3555,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Aerialbot Leader", 
         "Name": "Silverbolt", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recTtAb0NJRyIfPdK"
         ], 
@@ -3577,7 +3637,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Recon & Communication", 
         "Name": "Autobot Cosmos", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Spaceship"
         ], 
@@ -3653,7 +3713,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Spy Patrol \u2022 Fuel Scout", 
         "Name": "Raider Ratbat", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T37/T52", 
         "\u2b50": 6, 
@@ -3728,7 +3788,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Air Force \u2022 Weapons", 
         "Name": "Raider Blowpipe", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -3802,7 +3862,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Electronic Warfare", 
         "Name": "Raider Storm Cloud", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -3881,7 +3941,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Courageous Scout", 
         "Name": "Bumblebee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -3957,7 +4017,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Battering Ram", 
         "Name": "Dinobot Slug", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recfwOH8RXEiLPgLL"
         ], 
@@ -4036,7 +4096,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Counterintelligence", 
         "Name": "Autobot Mirage", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -4118,7 +4178,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Combustion Specialist", 
         "Name": "Raider Nova Storm", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -4193,7 +4253,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Bounty Hunter", 
         "Name": "Deadlock", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -4270,7 +4330,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Cybertron Commander", 
         "Name": "Decepticon Shockwave", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Spaceship"
         ], 
@@ -4347,7 +4407,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Fastest Bot In The Galaxy", 
         "Name": "Blurr", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -4438,7 +4498,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Air Command \u2022 Evac", 
         "Name": "Private Turbo Board", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -4526,7 +4586,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Bodyguard", 
         "Name": "Captain Ironhide", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -4617,7 +4677,7 @@
         "Set": "Wave 3C", 
         "Subtitle": "Special Ops \u2022 Scout", 
         "Name": "Private Camshaft", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -4695,7 +4755,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Engineering \u2022 Scientist", 
         "Name": "Captain Wheeljack", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -4771,7 +4831,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Air Guardian", 
         "Name": "Jetfire", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -4847,7 +4907,7 @@
         "Set": "Wave 4A", 
         "Subtitle": "Base Recon", 
         "Name": "Full-Tilt", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -4923,7 +4983,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Dark Clone", 
         "Name": "Nemesis Prime", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -4992,6 +5052,81 @@
       "id": "recKyFn1ADS8kXRQM"
     }, 
     {
+      "createdTime": "2019-10-04T03:02:04.000Z", 
+      "fields": {
+        "\ud83e\udde1": 11, 
+        "Bot\u2694\ufe0f": 3, 
+        "Set": "P2019", 
+        "Subtitle": "Enigmatic Agent", 
+        "Name": "Nightbird", 
+        "Faction": "Mercenaries", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "P7/2019", 
+        "\u2b50": 7, 
+        "Card Text": "Alt Mode:\n\nWhen your opponent plays an Action > They choose one of their characters and do 1 damage to it.\n\nBot Mode:\n\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Play an action from your opponent's scrap pile.", 
+        "Alt\ud83d\udee1\ufe0f": 0, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3b354d317aa808a6b5573a64eb2ef45e/33d0f15f", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/69a2d825fff9cfed23cc3d27f4eb6cdd/17582a35", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/30bde87797576f8af9c8cc97169d713d/d20fe3e2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3a83312b079f8ebb1a15df038c0774b4/66fc511b/nightbird-b.png", 
+            "filename": "nightbird-b.png", 
+            "type": "image/png", 
+            "id": "attR1lIWNHup0dOu5", 
+            "size": 3875049
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5a3c1cd7488b22b0bca0725cb977a26d/82812d58", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3f2cb88364b561aefbbb0e67e4f143d9/01693a7b", 
+                "width": 512, 
+                "height": 744
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9822b909c950fe120529d045b27f0c8b/2d212d68", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/ac79597eb9ff308b9d4535cfc8c4bfc3/50791e93/nightbird-a.png", 
+            "filename": "nightbird-a.png", 
+            "type": "image/png", 
+            "id": "attbMyLKDYExPuzou", 
+            "size": 3984310
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
+      }, 
+      "id": "recLMNB1TiFU8vqDm"
+    }, 
+    {
       "createdTime": "2019-07-08T03:36:22.000Z", 
       "fields": {
         "\ud83e\udde1": 0, 
@@ -4999,7 +5134,7 @@
         "Set": "Wave 3C", 
         "Subtitle": "Special Ops \u2022 Strategist", 
         "Name": "Sergeant Overdrive", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -5093,7 +5228,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Insecticon Tyrant", 
         "Name": "Decepticon Venin", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T17/T46", 
         "\u2b50": 9, 
@@ -5170,7 +5305,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Advance Guard", 
         "Name": "Specialist Sandstorm", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt 2\u2694\ufe0f": 6, 
         "Alt Type(s)": [
           "Car", 
@@ -5274,7 +5409,7 @@
         "Set": "Wave 2S", 
         "Subtitle": "Cybertronian Tyrant", 
         "Name": "Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -5350,7 +5485,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Aerial Assault", 
         "Name": "Divebomb", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec8UcA84uBhTN9Ul"
         ], 
@@ -5444,7 +5579,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Veteran Sergeant", 
         "Name": "Sergeant Kup", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T34/T40", 
         "\u2b50": 7, 
@@ -5534,7 +5669,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Lone Wolf", 
         "Name": "Autobot Mirage", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -5611,7 +5746,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Demolitions", 
         "Name": "Raider Detour", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -5690,7 +5825,7 @@
         "Set": "Wave 2S", 
         "Subtitle": "Decepticon Lieutenant", 
         "Name": "Starscream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -5766,7 +5901,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Strategist", 
         "Name": "Major Prowl", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -5842,7 +5977,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Hot-Headed Warrior", 
         "Name": "Dinobot Slug", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T17/T40", 
         "\u2b50": 9, 
@@ -5917,7 +6052,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Artillery \u2022 Soldier", 
         "Name": "Sergeant Six-Gun", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Weaponizer"
         ], 
@@ -6014,7 +6149,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Surgical Engineer", 
         "Name": "Hook", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -6093,7 +6228,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Mining And Salvage", 
         "Name": "Scavenger", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -6172,7 +6307,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Freedom Fighter", 
         "Name": "Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -6249,7 +6384,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Espionage \u2022 Spy", 
         "Name": "Major Soundwave", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Spaceship"
         ], 
@@ -6327,7 +6462,7 @@
         "Subtitle": "Communications", 
         "Name": "Soundwave", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/soundwave-communications-BVS", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T05/T08", 
         "\u2b50": 10, 
@@ -6463,7 +6598,7 @@
         "Set": "Wave 2S", 
         "Subtitle": "Defender Of Truth", 
         "Name": "Windblade", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -6539,7 +6674,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Wrecker", 
         "Name": "Captain Impactor", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -6615,7 +6750,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Savage Hunter", 
         "Name": "Predacon Rampage", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec8UcA84uBhTN9Ul"
         ], 
@@ -6694,7 +6829,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Legendary Warrior", 
         "Name": "Bumblebee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -6771,7 +6906,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Infiltration", 
         "Name": "Private Tote", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -6850,7 +6985,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Fearless Firefighter", 
         "Name": "Inferno", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -6921,15 +7056,75 @@
     {
       "createdTime": "2019-09-27T01:48:43.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 12, 
+        "Bot\u2694\ufe0f": 4, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Hired Muscle", 
+        "Name": "Mudflap", 
+        "Faction": "Mercenaries", 
+        "Alt Type(s)": [
+          "Truck"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T11/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 8, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > Plan 1.\n(You may put 1 card from your hand on top of your deck.)\n\nBot Mode:\n\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Reveal the top card of your deck. You may play it.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bd4aadc851fe132dcd86d8e4b81895de/1ca318fa", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7ab3c089bf59e1ebe41e0b0edbe4f873/4a091afe", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b79bb244eab098c95d19779434b726e/c9048ab8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5b6aceb8d05201a0c56a3896477410af/fdeb3f2d/mudflap-b.png", 
+            "filename": "mudflap-b.png", 
+            "type": "image/png", 
+            "id": "attiZGm11g5HeuBFh", 
+            "size": 825528
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/977880f84469c14c3c4923467f0a6e3d/0bc393ff", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fc86736addd118ccf02f79ed407c9b5f/c0bd2b0d", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/75c666e2c7dc48f77b3fbff4264ec3e6/5e488e60", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/eff2dbd68e9b7aee413d1b8866186d29/4b5bfe52/mudflap-a.png", 
+            "filename": "mudflap-a.png", 
+            "type": "image/png", 
+            "id": "attbdRxzHbiUTWBPZ", 
+            "size": 762564
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recSADzUlImXmzcps"
     }, 
@@ -6941,7 +7136,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Patrol Leader", 
         "Name": "Raider Visper", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -7021,7 +7216,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Toxic Terror", 
         "Name": "Acid Storm", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -7097,7 +7292,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Combat Assault", 
         "Name": "Ruckus", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T37/T46", 
         "\u2b50": 11, 
@@ -7173,7 +7368,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Bold Warrior", 
         "Name": "Sunstreaker", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -7250,15 +7445,103 @@
     {
       "createdTime": "2019-09-27T01:49:24.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 17, 
+        "Bot\u2694\ufe0f": 6, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Capricious Agitator", 
+        "Name": "Octone", 
+        "Faction": "Mercenaries", 
+        "Alt 2\u2694\ufe0f": 5, 
+        "Alt Type(s)": [
+          "Truck", 
+          "Plane"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T12/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 13, 
+        "Card Text": "Alt 1 Mode:\n\nWhen you flip to this mode > Your opponent chooses one of their Autobots and does 1 damage to it.\nThis has +3 [ATK] while attacking an Autobot.\n\nBot Mode:\n\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Do 2 damage to an enemy.\n\nAlt 2 Mode:\n\nWhen you flip to this mode > Your opponent chooses one of their Decepticons and does 1 damage to it.\nThis has +3 [ATK] while attacking a Decepticon.", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0a91f0bdb143a840c448819e437fb241/41d3a192", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/37dce8cf2f150d9cc7d4fade5769ad18/330b2ce5", 
+                "width": 386, 
+                "height": 541
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/592ac4a2680d1610808ff60c474a4895/84072ca9", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/206baf3e9f6314dd469d825a551ab413/fb7f9a30/octone-a2.png", 
+            "filename": "octone-a2.png", 
+            "type": "image/png", 
+            "id": "att2sSd4rDAOQr0UO", 
+            "size": 409458
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b814978d3e10731b6f1cbc6dcfa9b672/f7cf8a9e", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/77355660c4abbf13b46c823129451e27/05d2f7c5", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e518392c9bf37ab96a2b3f17bc8b2a92/64fe7988", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/536ab784f2237cb89977f401e49def0a/d8b15ed3/octone-b.png", 
+            "filename": "octone-b.png", 
+            "type": "image/png", 
+            "id": "attdKOQvJminX6nYf", 
+            "size": 832867
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/67f720c61d40aae63e4d7edd65a90eab/9de122eb", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6aa0805b14937e091deda9c7ffab065d/0a4a0dd7", 
+                "width": 389, 
+                "height": 541
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f337873161f7b59a409e4be337b0fda6/62703cd3", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5b7357ac20d054e63d7c6db0550d3fd6/29c492c9/octone-a1.png", 
+            "filename": "octone-a1.png", 
+            "type": "image/png", 
+            "id": "attjhcLD76M4EgWIs", 
+            "size": 436317
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Alt 2\ud83d\udee1\ufe0f": 2, 
+        "Rarity": "Super-Rare", 
+        "Role(s)": [
+          "Melee", 
+          "Ranged"
+        ]
       }, 
       "id": "recTJ0fdi5fLmTejM"
     }, 
@@ -7270,7 +7553,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Skilled Fighter", 
         "Name": "Arcee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Motorcycle"
         ], 
@@ -7361,7 +7644,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Confident Sharpshooter", 
         "Name": "Warpath", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -7437,7 +7720,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Soldier", 
         "Name": "Raider Kickback", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T33/T52", 
         "\u2b50": 6, 
@@ -7507,15 +7790,75 @@
     {
       "createdTime": "2019-09-27T01:47:42.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 12, 
+        "Bot\u2694\ufe0f": 4, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
+        "Subtitle": "Soldier Of Fortune", 
+        "Name": "Deadlock", 
+        "Faction": "Mercenaries", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T04/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 9, 
+        "Card Text": "Alt Mode:\n\nStealth against Autobots and Decepticons\n(Those enemies attack other characters if able.)\nWhen you flip to this mode > Autobots and Decepticons can't use Stealth this turn.\n\nBot Mode:\n\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Flip this and draw 2 cards.", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dd5175fc2721a2a4578db3904cd62c07/bc72fbf2", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d841287e05cfa13b93b511488ac3fe2a/aedc5f7b", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/485344ced6d8eb87cbb02f12b891eeee/3696e10f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/4d47f3396cbac127e84b10d9c3e73718/41868e65/deadlock-b.png", 
+            "filename": "deadlock-b.png", 
+            "type": "image/png", 
+            "id": "attGBVjMOsy525pgb", 
+            "size": 821575
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/147632e6e269374f977863b78a075bde/2ac1c543", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6e526a1a6869a7b6d53b3d07fbf50d34/eb381a92", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/41d9b77dc381b61348e934e6c604a6dd/60b53771", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/339d877d636761837459d669959fe806/116f6e0d/deadlock-a.png", 
+            "filename": "deadlock-a.png", 
+            "type": "image/png", 
+            "id": "attWHqSKAjkDpFnKc", 
+            "size": 758426
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recU4IINZd0TtVDN6"
     }, 
@@ -7527,7 +7870,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Special Ops", 
         "Name": "Chromia", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Motorcycle"
         ], 
@@ -7619,7 +7962,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Demolitions", 
         "Name": "Bonecrusher", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -7698,7 +8041,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Artillery \u2022 Mechanic", 
         "Name": "Sergeant Cog", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Weaponizer"
         ], 
@@ -7772,7 +8115,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Black Ops \u2022 Soldier", 
         "Name": "Raider Flamefeather", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T29/T48", 
         "\u2b50": 8, 
@@ -7848,7 +8191,7 @@
         "Set": "Wave 3C", 
         "Subtitle": "Special Ops \u2022 Security Agent", 
         "Name": "Private Downshift", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -7927,7 +8270,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Decepticon Leader", 
         "Name": "Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -8004,7 +8347,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Applied Sciences \u2022 Scientist", 
         "Name": "Major Shockwave", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Spaceship"
         ], 
@@ -8081,7 +8424,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Ranger", 
         "Name": "Captain Elita-1", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -8203,7 +8546,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Ground Assault", 
         "Name": "Predacon Headstrong", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec8UcA84uBhTN9Ul"
         ], 
@@ -8282,7 +8625,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Special Ops", 
         "Name": "Autobot Jazz", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -8356,10 +8699,10 @@
       "fields": {
         "\ud83e\udde1": 24, 
         "Bot\u2694\ufe0f": 7, 
-        "Set": "2019P", 
+        "Set": "P2019", 
         "Subtitle": "Autobot Defense Base", 
         "Name": "Omega Supreme", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank", 
           "Spaceship"
@@ -8439,7 +8782,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Tactics", 
         "Name": "Raider Road Hugger", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -8518,7 +8861,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Long Range Scout", 
         "Name": "Autobot Hound", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -8594,7 +8937,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Desert Warrior", 
         "Name": "Dinobot Snarl", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T18/T40", 
         "\u2b50": 7, 
@@ -8671,7 +9014,7 @@
         "Subtitle": "Saboteur", 
         "Name": "Ravage", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/ravage-saboteur-BVS", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T08/T08", 
         "\u2b50": 5, 
@@ -8809,7 +9152,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Stunticon Leader", 
         "Name": "Motormaster", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recazq7ZL6mawoz9Q"
         ], 
@@ -8896,7 +9239,7 @@
         "Subtitle": "Warrior", 
         "Name": "Ramhorn", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/ramhorn-warrior-BVS", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T03/T08", 
         "\u2b50": 5, 
@@ -9019,7 +9362,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Leader", 
         "Name": "General Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -9096,7 +9439,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Sky Smasher", 
         "Name": "Ramjet", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T32/T40", 
         "\u2b50": 10, 
@@ -9172,7 +9515,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Ground Command \u2022 Artillery", 
         "Name": "Private Dazzlestrike", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -9245,7 +9588,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Electronic Warfare", 
         "Name": "Sergeant Skrapnel", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T44/T48", 
         "\u2b50": 9, 
@@ -9322,7 +9665,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Impulsive Fighter", 
         "Name": "Autobot Hot Rod", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "rec556XYMvHqKcYYh"
         ], 
@@ -9404,7 +9747,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Arrogant Ruler", 
         "Name": "Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -9481,7 +9824,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Hunter", 
         "Name": "Specialist Flamewar", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Motorcycle"
         ], 
@@ -9557,7 +9900,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Spy", 
         "Name": "Sergeant Mirage", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -9632,7 +9975,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Teleporting Seeker", 
         "Name": "Skywarp", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -9723,7 +10066,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Black Ops \u2022 Demolitions", 
         "Name": "Raider Cindersaur", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T27/T48", 
         "\u2b50": 8, 
@@ -9799,7 +10142,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Engineering \u2022 Rescue & Repair", 
         "Name": "Specialist Ratchet", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -9875,7 +10218,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Space Force \u2022 Transport", 
         "Name": "Captain Astrotrain", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt 2\u2694\ufe0f": 6, 
         "Alt Type(s)": [
           "Spaceship", 
@@ -9977,7 +10320,7 @@
         "Set": "Wave 1S", 
         "Subtitle": "Autobot Leader", 
         "Name": "Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -10054,7 +10397,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Relentless Foe", 
         "Name": "Blitzwing", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt 2\u2694\ufe0f": 4, 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/blitzwing%20relentless%20foe?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Alt Type(s)": [
@@ -10161,7 +10504,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Recon", 
         "Name": "Sergeant Hound", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -10237,7 +10580,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Emergency Response", 
         "Name": "Private Red Heat", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -10313,10 +10656,10 @@
       "fields": {
         "\ud83e\udde1": 6, 
         "Bot\u2694\ufe0f": 2, 
-        "Set": "2019P", 
+        "Set": "P2019", 
         "Subtitle": "Ground Command \u2022 Artillery", 
         "Name": "Private Smashdown", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -10390,7 +10733,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Cutthroat Warrior", 
         "Name": "Decepticon Drag Strip", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recazq7ZL6mawoz9Q"
         ], 
@@ -10473,7 +10816,7 @@
         "Set": "Wave 1C", 
         "Subtitle": "Strategic Seeker", 
         "Name": "Slipstream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -10549,7 +10892,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Ground Command \u2022 Advance Guard", 
         "Name": "Private Vanguard", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -10622,7 +10965,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 City Commander", 
         "Name": "Major Ultra Magnus", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -10699,7 +11042,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Counterintelligence", 
         "Name": "Sergeant Chromia", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -10775,7 +11118,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Seeker", 
         "Name": "Sergeant Thundercracker", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -10850,7 +11193,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Devoted Decepticon", 
         "Name": "Demolisher", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -10927,7 +11270,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Paranoid Scout", 
         "Name": "Breakdown", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recazq7ZL6mawoz9Q"
         ], 
@@ -11009,7 +11352,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Search And Rescue", 
         "Name": "Autobot Novastar", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T06/T46", 
         "\u2b50": 12, 
@@ -11086,7 +11429,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Fueler", 
         "Name": "Torox", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec8UcA84uBhTN9Ul"
         ], 
@@ -11165,7 +11508,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Insecticon Mind-Controller", 
         "Name": "Bombshell", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T07/T40", 
         "\u2b50": 8, 
@@ -11240,7 +11583,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Air Command \u2022 Artillery", 
         "Name": "Private Pteraxadon", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -11314,7 +11657,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Enforcer", 
         "Name": "Sergeant Barricade", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -11389,7 +11732,7 @@
         "Set": "Wave 1S", 
         "Subtitle": "Security Chief", 
         "Name": "Red Alert", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T04/T04", 
         "\u2b50": 6, 
@@ -11464,7 +11807,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Living Weapon", 
         "Name": "Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -11541,7 +11884,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Off-Road Patrol \u2022 Infiltration", 
         "Name": "Private Highjump", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -11619,7 +11962,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Decepticon King", 
         "Name": "Starscream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -11700,7 +12043,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Recon", 
         "Name": "Private Greenlight", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -11775,7 +12118,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Trusted Lieutenant", 
         "Name": "Bumblebee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -11853,7 +12196,7 @@
         "Set": "Wave 1A", 
         "Subtitle": "Autobot City", 
         "Name": "Metroplex", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T01/T04", 
         "\u2b50": 25, 
@@ -11929,7 +12272,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Conqueror Of Cyberton", 
         "Name": "Lord Megatron", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -12005,7 +12348,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Battlefield Legend", 
         "Name": "Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -12089,7 +12432,7 @@
         "Subtitle": "Electronic Surveillance", 
         "Name": "Eject", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/eject-electronic-surveillance-BVS", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T02/T08", 
         "\u2b50": 5, 
@@ -12212,7 +12555,7 @@
         "Set": "Wave 1C", 
         "Subtitle": "Renegade Warrior", 
         "Name": "Cliffjumper", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -12289,7 +12632,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Sky High Recon", 
         "Name": "Fireflight", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recTtAb0NJRyIfPdK"
         ], 
@@ -12371,7 +12714,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Air Commander", 
         "Name": "Captain Starscream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -12447,7 +12790,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Predacon Leader", 
         "Name": "Razorclaw", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec8UcA84uBhTN9Ul"
         ], 
@@ -12527,7 +12870,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Materials Fabrication", 
         "Name": "Mixmaster", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -12606,7 +12949,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Aerial Assault", 
         "Name": "Raider Spinister", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Helicopter"
         ], 
@@ -12681,7 +13024,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Dino Demolitions", 
         "Name": "Dinobot Sludge", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recfwOH8RXEiLPgLL"
         ], 
@@ -12760,7 +13103,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Black Ops \u2022 Cryptology", 
         "Name": "Sergeant Sparkstalker", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T46/T48", 
         "\u2b50": 8, 
@@ -12836,7 +13179,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Airborne Special Ops", 
         "Name": "Alpha Bravo", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recTtAb0NJRyIfPdK"
         ], 
@@ -12918,7 +13261,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Artillery \u2022 Patrol Leader", 
         "Name": "Private Top Shot", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -12998,7 +13341,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Mighty Stomper", 
         "Name": "Dinobot Sludge", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T16/T40", 
         "\u2b50": 8, 
@@ -13074,7 +13417,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Sneaky Insecticon", 
         "Name": "Chop Shop", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T10/T40", 
         "Rulings / Errata": [
@@ -13155,7 +13498,7 @@
         "Subtitle": "Warrior", 
         "Name": "Frenzy", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/frenzy-warrior-BVS", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T07/T08", 
         "\u2b50": 5, 
@@ -13293,7 +13636,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Ground Command \u2022 Artillery", 
         "Name": "Private Lionizer", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -13367,7 +13710,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Cruel Overlord", 
         "Name": "Darkmount", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -13445,7 +13788,7 @@
         "Subtitle": "Tracker", 
         "Name": "Steeljaw", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/steeljaw-tracker-BVS", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T04/T08", 
         "\u2b50": 5, 
@@ -13544,7 +13887,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Aerial Defense", 
         "Name": "Autobot Springer", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt 2\u2694\ufe0f": 5, 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/autobot%20springer%20aerial%20defense?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Alt Type(s)": [
@@ -13651,7 +13994,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Espionage \u2022 Interrogation", 
         "Name": "Raider Laserbeak", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T31/T48", 
         "\u2b50": 5, 
@@ -13727,7 +14070,7 @@
         "Set": "Wave 2A", 
         "Subtitle": "Construction Foreman", 
         "Name": "Scrapper", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "rec6BufiPSqB4d7IJ"
         ], 
@@ -13807,7 +14150,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Merciless Insecticon", 
         "Name": "Barrage", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T06/T40", 
         "\u2b50": 7, 
@@ -13884,7 +14227,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Espionage \u2022 Saboteur", 
         "Name": "Raider Ravage", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T34/T48", 
         "\u2b50": 5, 
@@ -13976,7 +14319,7 @@
         "Subtitle": "Communications", 
         "Name": "Blaster", 
         "FortressMaximus.io": "https://fortressmaximus.io/card/blaster-communications-BVS", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T01/T08", 
         "\u2b50": 10, 
@@ -14096,7 +14439,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Ground Command \u2022 Artillery", 
         "Name": "Private Firedrive", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -14165,15 +14508,75 @@
     {
       "createdTime": "2019-09-27T01:48:33.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 15, 
+        "Bot\u2694\ufe0f": 4, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Bounty Hunter", 
+        "Name": "Lockdown", 
+        "Faction": "Mercenaries", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T07/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 10, 
+        "Card Text": "Alt Mode:\n\nThis has +2 [ATK] for each card under him.\nWhen you flip to this mode > Draw a card for each card under this and for each Upgrade he has. Then scrap that many cards from your hand.\n\nBot Mode:\n\nThis has +2 [ATK] for each card under him.\nWhen this does enough attack damage to KO an enemy > Use this card's Bounty ability.\nBounty > Put the bottom card of your deck face down under this.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7d5cff8532f26ce431c3378c61c082b4/86d38a47", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7a08b35a839b4dbb3d0e7c97f1a4e034/4aa6298f", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/72b77fcf578782c43ae084e4f3231cad/ab767e16", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/91932a8256cdc6cceb496b7505ad4370/0f324a54/lockdown-b.png", 
+            "filename": "lockdown-b.png", 
+            "type": "image/png", 
+            "id": "attgTumZRJgUp42iT", 
+            "size": 856327
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e492c047173c11eef1a185af4785200/26d4bc77", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c164447e636939e5383e73ab0f34c190/6396d2ca", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/98a722177fbdb4fcb9b4cbe0c16069cd/3d76448c", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/7469420241c080b10c5806a7eb414d3b/ec32d741/lockdown-a.png", 
+            "filename": "lockdown-a.png", 
+            "type": "image/png", 
+            "id": "attyhXTBlyELBZHTH", 
+            "size": 821941
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Melee"
+        ]
       }, 
       "id": "recsMDAIjHvSKvWhC"
     }, 
@@ -14185,7 +14588,7 @@
         "Set": "Wave 4A", 
         "Subtitle": "Assault Base", 
         "Name": "Trypticon", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T01/T04", 
         "\u2b50": 24, 
@@ -14261,7 +14664,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Ground Force \u2022 Weapons", 
         "Name": "Raider Nightstick", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Battle Master"
         ], 
@@ -14335,7 +14738,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Cunning Insecticon", 
         "Name": "Kickback", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T25/T40", 
         "\u2b50": 5, 
@@ -14411,7 +14814,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Air Warfare Specialist", 
         "Name": "Skydive", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Combiner Mode": [
           "recTtAb0NJRyIfPdK"
         ], 
@@ -14493,7 +14896,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Special Ops \u2022 Warrior", 
         "Name": "Private Arcee", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -14584,7 +14987,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Fortification And Defense", 
         "Name": "Private Trailbreaker", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -14660,7 +15063,7 @@
         "Set": "Wave 1A", 
         "Subtitle": "Combat Drone", 
         "Name": "Slammer", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -14712,7 +15115,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Scheming Second-In-Command", 
         "Name": "Starscream", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -14788,7 +15191,7 @@
         "Set": "Wave 4A", 
         "Subtitle": "Artillery Drone", 
         "Name": "Brunt", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -14838,7 +15241,7 @@
         "Set": "Wave 1", 
         "Subtitle": "Military Strategist", 
         "Name": "Prowl", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -14915,7 +15318,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Battle Patrol \u2022 Demolitions", 
         "Name": "Private Sidetrack", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
         ], 
@@ -14994,7 +15397,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Air Force \u2022 Soldier", 
         "Name": "Raider Needlenose", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -15070,7 +15473,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Infantry \u2022 Soldier", 
         "Name": "Private Hot Rod", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -15145,7 +15548,7 @@
         "Set": "Wave 1A", 
         "Subtitle": "Heavy Weapons Expert", 
         "Name": "Six-Gun", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T03/T04", 
         "\u2b50": 4, 
@@ -15218,7 +15621,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Galactic Commander", 
         "Name": "General Optimus Prime", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -15294,7 +15697,7 @@
         "Set": "Wave 2", 
         "Subtitle": "All-Terrain Soldier", 
         "Name": "Offroad", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recazq7ZL6mawoz9Q"
         ], 
@@ -15376,7 +15779,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Aerial Attacker", 
         "Name": "Blackwing", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recWtnczdRKwmpHHu"
         ], 
@@ -15461,7 +15864,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Infantry \u2022 Communications", 
         "Name": "Private Stakeout", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 
@@ -15540,7 +15943,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Weapons \u2022 Soldier", 
         "Name": "Raider Brunt", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Weaponizer"
         ], 
@@ -15637,7 +16040,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Off-Road Patrol \u2022 Patrol Leader", 
         "Name": "Private Powertrain", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Truck"
         ], 
@@ -15716,7 +16119,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Doombringer", 
         "Name": "Dirge", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -15792,7 +16195,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Air Force \u2022 Gunner", 
         "Name": "Raider Triggerhappy", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Alt Type(s)": [
           "Plane"
         ], 
@@ -15868,7 +16271,7 @@
         "Set": "Wave 2", 
         "Subtitle": "Air Defense", 
         "Name": "Dreadwind", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Combiner Mode": [
           "recWtnczdRKwmpHHu"
         ], 
@@ -15953,7 +16356,7 @@
         "Set": "Wave 3", 
         "Subtitle": "Medical \u2022 Medic", 
         "Name": "Private Red Alert", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Alt Type(s)": [
           "Car"
         ], 

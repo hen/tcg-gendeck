@@ -35,10 +35,10 @@
             "size": 1172197
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Tap one of your untapped Melee characters > Tap an untapped enemy character that has the same number of [STARS] or fewer.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/tackle?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "073/081", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -80,11 +80,11 @@
             "size": 787465
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "If you have Superion on the battlefield > Do 1 damage to each enemy.\n\nIf you have 5 Aerialbots in bot mode on the battlefield and/or in your KO area > Combine them into Superion, Sky Protector. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
         "Card #": "001/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/aerialbot%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "recTtAb0NJRyIfPdK"
@@ -127,10 +127,10 @@
             "size": 1168437
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Choose one of your characters. You may play a Weapon, an Armor, and a Utility onto it.\n\n(Your team and deck can have 25 [STARS] total.)", 
-        "Affiliation": "Neutral", 
         "Card #": "029/064"
       }, 
       "id": "rec0NSv6cVgM5Chax"
@@ -170,13 +170,13 @@
             "size": 192130
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Ranged character > Your opponent chooses a card from their hand and scraps it.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "058/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/rapid%20ascent?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Brendan Cahill"
@@ -218,10 +218,10 @@
             "size": 188331
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Each of your characters get +1 \u2694 until end of turn for each Upgrade on it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/battle%20ready?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "006/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -263,10 +263,10 @@
             "size": 1152074
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Scrap the top 2 cards of your deck. Put an Action and an Upgrade scrapped this way into your hand.\n\nYou may play Unleash Potential.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/ancient-wisdom?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "003/081", 
         "Artist/Illustrator(s)": "Sarah Stone"
@@ -308,11 +308,11 @@
             "size": 824548
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Optimus Maximus on the battlefield > Scrap an enemy Weapon or Armor.\n\nIf you have 6 Sentinels in bot mode on the battlefield and/or in your KO area > Combine them into Optimus Maximus, Ultimate Defender. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
         "Card #": "059/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/sentinel%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "rec556XYMvHqKcYYh"
@@ -356,11 +356,11 @@
             "size": 1216547
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 1 (Flip 1 more battle card when defending.)\n\nWhen you play this on a character > You may play another Extra Padding.\n\nUp to 3 Extra Paddings can fit in 1 Armor slot.", 
         "Card #": "024/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "rec1X06hf5HfxzNJj"
@@ -400,13 +400,13 @@
             "size": 1012840
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Ranged character > Repair 1 damage from it.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "014/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/cooling%20vents?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -448,13 +448,13 @@
             "size": 1162340
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 1, 
         "Card Text": "This can be in an Armor or Utility slot.\n\n(Your team and deck can have 25 [STARS] total.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "044/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/mounted%20missles?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -497,10 +497,10 @@
             "size": 1026174
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 1, 
         "Card Text": "When one of your Decepticons attacks an enemy this turn > You get an extra attack this turn but only, but only with one of your other Decepticons against the same enemy.", 
-        "Affiliation": "Decepticon", 
         "Card #": "044/064"
       }, 
       "id": "rec24ZCdDgUZshcTH"
@@ -540,11 +540,11 @@
             "size": 1288271
           }
         ], 
+        "Faction": "Autobots", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Autobots only.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
         "Card #": "012/064", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/compact-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon"
       }, 
@@ -585,11 +585,11 @@
             "size": 1029883
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "While the upgraded character is battling an enemy that has the same number of [STARS] as it > The upgraded character has +2 [ATK] and +2 [DEF].", 
         "Card #": "021/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/enemy%20combat%20analysis?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -632,10 +632,10 @@
             "size": 1112329
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Draw a card. Then Plan 1. (You may put 1 card from your hand on top of your deck.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/secret%20dealings?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "057/081", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -677,13 +677,13 @@
             "size": 1203657
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Cars only.\n\nDamage counters can't be moved from other characters to the upgraded character.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "011/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bumpers?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -726,13 +726,13 @@
             "size": 1217870
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a character > Scrap an enemy Weapon.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "024/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/enforcement%20batons?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -774,13 +774,13 @@
             "size": 184733
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Melee characters only.\n\nTough 3 (Flip 3 more battle cards when defending.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "008/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/body%20armor?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Marcelo Matere"
@@ -822,11 +822,11 @@
             "size": 1333277
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > You may play an Armor onto the defender.", 
         "Card #": "007/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/bolster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon"
       }, 
@@ -867,10 +867,10 @@
             "size": 1295229
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Move up to 5 damage counters from one of your Decepticon Leaders that has 8 [STARS] or more to one of your other characters.", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/callous%20leadership?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "010/064"
       }, 
@@ -908,10 +908,10 @@
             "size": 168809
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Do 2 damage to an enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/plasma%20burst?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "054/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -921,10 +921,44 @@
     {
       "createdTime": "2019-09-24T22:18:52.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "013/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Crude Club", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bf3059366abb0eade0bffe7066619b3b/5b6dc3b5", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0c802962f4281054cce10a3eda83a087/24964199", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0c395d3c17ea772bda89f3a6adf35716/71c194dc", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/50472302a0d8d626934a0f22d277c881/1e1499ba/crudeclub.png", 
+            "filename": "crudeclub.png", 
+            "type": "image/png", 
+            "id": "att5MXj9KEdLuwPGU", 
+            "size": 1021354
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "The upgraded character has +1 [ATK] for each Upgrade on it.", 
+        "Card #": "013/064", 
+        "Rarity": "Rare"
       }, 
       "id": "rec3jFMykmFgO6eg3"
     }, 
@@ -963,11 +997,11 @@
             "size": 3109412
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)", 
         "Card #": "003/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/basic-combat-protocol?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common"
       }, 
@@ -1008,11 +1042,11 @@
             "size": 996527
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your Decepticons defends.\n\nWhen Revealed > Do damage to the attacker equal to the number of Upgrades on that attacker.", 
         "Card #": "004/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Rare"
       }, 
       "id": "rec4HtJykiYQPH1XP"
@@ -1053,10 +1087,10 @@
             "size": 1087871
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "For each Decepticon you have on the battlefield, Plan 1. (You may put 1 card from your hand on top of your deck.)\n\n\nWhen one of your characters attacks this turn, if its Upgrades include at least [WHITE][ORANGE][BLACK][BLUE][GREEN] and you flip at least [WHITE][ORANGE][BLUE][GREEN] > Do 15 damage to an enemy.", 
-        "Affiliation": "Decepticon", 
         "Card #": "043/064"
       }, 
       "id": "rec4emWwtLVuAPA31"
@@ -1096,11 +1130,11 @@
             "size": 402537
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Devastator on the battlefield > Repair 1 damage from him, then put a height counter on your Tower.\n\nIf you have 6 Constructicons in bot mode on the battlefield and/or in your KO area > Combine them into Devastator, Towering Warrior. (A combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
         "Card #": "002/005", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/constructicon%20enigma%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "rec6BufiPSqB4d7IJ"
@@ -1143,10 +1177,10 @@
             "size": 1317098
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +4 [ATK] until end of turn. At end of turn, do 3 damage to it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/reckless-charge?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "052/081", 
         "Artist/Illustrator(s)": "James Raiz"
@@ -1188,10 +1222,10 @@
             "size": 203047
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Your opponent chooses 3 cards from their hand and scraps the rest.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/computer%20sabotage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "015/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -1230,10 +1264,10 @@
             "size": 1095472
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters.\n\nWhen it does more than enough attack damage to KO an enemy this turn > Your opponent chooses one of their other characters and puts the extra damage on it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/steamroll?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "065/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -1272,11 +1306,11 @@
             "size": 1240489
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "If the upgraded character defends and would take an even amount of attack damage > Instead it takes no attack damage.\n\nWhen the upgraded character defends and takes no attack damage > Scrap this card.", 
         "Card #": "020/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "rec5Roiu9PgBWgDex"
@@ -1284,9 +1318,43 @@
     {
       "createdTime": "2019-09-24T22:27:57.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\u2b1b"
+        ], 
+        "Name": "Opportune Repairs", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/618750f412480ebbebf321183f390a5f/cfe26c8c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cb62b7c979af3aea08a66c9dc0c9b759/9db81927", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/954a56bb7cf6d1fa6e40e89635edb13e/9035cce6", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/04ed565552aa43f0750383d8af399329/e216a35f/opportunerepairs.png", 
+            "filename": "opportunerepairs.png", 
+            "type": "image/png", 
+            "id": "attbFWCLuRmS22iTn", 
+            "size": 1037646
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card Text": "Play this only if you had a Mercenary on your starting team.\n\nRepair 3 damage from one of your Autobots.", 
         "Card #": "041/064"
       }, 
       "id": "rec5VG6mLyDoWIIiy"
@@ -1326,10 +1394,10 @@
             "size": 1200494
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Draw 2 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/pep%20talk?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "046/081", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -1371,10 +1439,10 @@
             "size": 175609
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Untap one of your tapped characters. Then tap one of your untapped characters.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/swap%20missions?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "072/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -1417,12 +1485,12 @@
             "size": 1242244
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Melee characters only.\n\nWhile the upgraded character is defending against a Specialist > The upgraded character has +1 [DEF].", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "013/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "rec6NiPTSFNaWiqHW"
@@ -1430,9 +1498,44 @@
     {
       "createdTime": "2019-09-24T22:32:34.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\u2b1b", 
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Wedge Formation", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c80d04c6301a21f3a1d6f1585303c362/dd1b7eba", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c20a521d1191aca4dde3ba0c1dfe092e/4d407475", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df7c96e69373695fea543971a1fae4de/a0a70719", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/8d608ff18f235e00872344e12fefd9bb/7d9e048c/wedgeformation.png", 
+            "filename": "wedgeformation.png", 
+            "type": "image/png", 
+            "id": "attWu19GucFExMZX8", 
+            "size": 1112619
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "Repair 1 damage from one of your Melee characters.\n\nIf you have a Ranged character on the battlefield > Draw a card.\n\nIf you have a Specialist on the battlefield > Plan 1.", 
         "Card #": "064/064"
       }, 
       "id": "rec6SGfYDsPywOVs2"
@@ -1469,10 +1572,10 @@
             "size": 193439
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Do 1 damage to each enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/strafing%20run?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "070/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -1514,10 +1617,10 @@
             "size": 191047
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 1 damage from each of your characters.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/repair%20bay?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "062/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -1559,10 +1662,10 @@
             "size": 1153874
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Your opponent chooses one of their characters and does 1 damage to it.\n\nIf your starting team was only Decepticons > Your opponent does 1 more damage to the chosen character.", 
-        "Affiliation": "Decepticon", 
         "Card #": "027/064"
       }, 
       "id": "rec6aoZPl6YLg6QGk"
@@ -1603,13 +1706,13 @@
             "size": 1194185
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a character > Scrap an enemy Armor.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "008/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bashing-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -1651,10 +1754,10 @@
             "size": 188767
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Scrap your hand. One of your Dinobots gets Bold 5 until end of turn. (Flip 5 more battle cards when attacking.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/dino%20chomp?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "022/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -1696,11 +1799,11 @@
             "size": 800227
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Volcanicus on the battlefield > He gets Bold 2 until end of turn.\n\nIf you have 5 Dinobots in the bot mode on the battlefield and/or in your KO area > Combine them into Volcanicus, Fiery Champion. (A Combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
         "Card #": "019/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/dinobot%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "recfwOH8RXEiLPgLL"
@@ -1743,13 +1846,13 @@
             "size": 188442
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "While the upgraded character has a Weapon \u2192 It has Bold 1. (Flip 1 more battle card when attacking.)\n\nWhile the upgraded character has an Armor \u2192 It has Tough 1. (Flip 1 more battle card when defending.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "014/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/combat%20training?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente"
@@ -1793,10 +1896,10 @@
             "size": 965711
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 1, 
         "Card Text": "If you have Trypticon, Assault Base on the battlefield > Put Full-Tilt, Wipe-Out, and Brunt from your KO area onto the battlefield fully repaired. The characters put onto the battlefield this way attack this turn. At end of turn, put each of those characters that's still on the battlefield under Trypticon.", 
-        "Affiliation": "Decepticon", 
         "Card #": "048/064"
       }, 
       "id": "rec7SE26gTsIEkZxV"
@@ -1856,13 +1959,13 @@
             "size": 1064261
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Melee character > Do 1 damage to an enemy.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "023/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/energon%20slingshot?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -1901,10 +2004,10 @@
             "size": 160195
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Do 2 damage to EACH character.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/photon%20bomb?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "052/081", 
         "Artist/Illustrator(s)": "Brendan Cahill"
@@ -1946,13 +2049,13 @@
             "size": 172801
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Optimus Prime only.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "041/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/ion%20blaster%20of%20optimus%20prime?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -1994,10 +2097,10 @@
             "size": 198452
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "You may KO one of your characters that has 6 [STARS] or more. If you do, take an extra turn after this one.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/peace%20through%20tyranny?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "051/081", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -2039,10 +2142,10 @@
             "size": 1048719
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Scrap an enemy Weapon or Armor.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
-        "Affiliation": "Neutral", 
         "Card #": "017/064"
       }, 
       "id": "rec9SxO86l8yEsSnp"
@@ -2082,11 +2185,11 @@
             "size": 718333
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "The upgraded character has +2 [HP].", 
         "Card #": "038/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "rec9jOoPuiPbLDPoM"
@@ -2126,13 +2229,13 @@
             "size": 333268
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "If any of your other characters would take attack damage > Instead the upgraded character takes that damage.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "035/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/heroism?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -2174,12 +2277,12 @@
             "size": 1045393
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you flip the upgraded character to another mode > It gets Bold 2 until end of turn. (Flip 2 more battle cards when attacking.)", 
         "Card #": "035/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recA07qqrrHA8S25E"
@@ -2219,10 +2322,10 @@
             "size": 824349
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +2 [ATK] and Pierce 2 until end of turn.\n(Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/calculated-strike?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "009/064"
       }, 
@@ -2263,11 +2366,11 @@
             "size": 1114984
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)", 
         "Card #": "034/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/handheld-blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -2309,11 +2412,11 @@
             "size": 1011789
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put only on characters that 11 [STARS] or more.\n\nThe upgraded characters has +4 [HP].", 
         "Card #": "022/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recAlg97x0JAFYI9t"
@@ -2353,13 +2456,13 @@
             "size": 1265943
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 1, 
         "Card Text": "While the upgraded character defends and you flip at least [ORANGE] > Do 1 damage to the attacker.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "022/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/energized%20field?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -2401,10 +2504,10 @@
             "size": 1427367
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Do 1 damage to an enemy.\n\nIf your Tower is 6 or higher, do 3 damage instead.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/heavy%20landing%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "003/005"
       }, 
@@ -2445,10 +2548,10 @@
             "size": 1201796
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Do 1 damage to an enemy. If it's KO'd this way, repair 1 damage from one of your Decepticons.", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/underhanded-tactics?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "077/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -2490,10 +2593,10 @@
             "size": 195403
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Each player scraps their hand and draws 4 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/system%20reboot?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "075/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -2545,13 +2648,13 @@
             "size": 181198
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Melee characters only.\n\nBold 3 (Flip 3 more battle cards when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "055/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/power%20sword?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -2593,13 +2696,13 @@
             "size": 294670
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When you play this from hand \u2192 You may play a Tandem Targeting System from your scrap pile.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "002/002", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/tandem%20targeting%20system%20sdcc%202018%20exclusive?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -2641,10 +2744,10 @@
             "size": 1191419
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "ALL characters get Bold 3 and Tough 3 until end of turn.\n(Flip 3 more battle cards when attacking or defending.)", 
-        "Affiliation": "Neutral", 
         "Card #": "030/064"
       }, 
       "id": "recChvMjGGj2Vowmx"
@@ -2684,13 +2787,13 @@
             "size": 186156
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "Rulings / Errata": [
           "recUYKMSjhHaBgA3n"
         ], 
         "\u2b50": 0, 
         "Card Text": "You may play an Action. Then you may play another Action.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/brainstorm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "010/081", 
         "Artist/Illustrator(s)": "Andrew Griffith, Josh Perez"
@@ -2732,10 +2835,10 @@
             "size": 181014
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +3 [ATK] until end of turn.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/leap%20into%20battle?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "043/081", 
         "Artist/Illustrator(s)": "Marcelo Matere"
@@ -2774,10 +2877,10 @@
             "size": 886168
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Move 1 damage counter form one of your characters to an enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/fling?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "031/081", 
         "Artist/Illustrator(s)": "Klaus Scherwinski"
@@ -2819,10 +2922,10 @@
             "size": 1055737
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. Return another character that has the same number of [STARS] or fewer from your KO area to the battlefield fully repaired. Move the damage counters and Upgrades from the chosen character to the returned character. Then KO the chosen character.", 
-        "Affiliation": "Neutral", 
         "Card #": "032/064"
       }, 
       "id": "recCz1rnrE7GrcCy7"
@@ -2862,10 +2965,10 @@
             "size": 1094961
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Scrap a card from your hand. Then draw 2 cards.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
-        "Affiliation": "Neutral", 
         "Card #": "048/064"
       }, 
       "id": "recD1sijOYavzfRqN"
@@ -2905,10 +3008,10 @@
             "size": 176306
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Draw a card for each of your upgrades.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/equipment%20enthusiast?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "029/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -2950,13 +3053,13 @@
             "size": 173732
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 3, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character is NOT Ironhide and it attacks > Do 2 damage to it.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "069/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/static%20laser%20of%20ironhide?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente"
@@ -3008,13 +3111,13 @@
             "size": 1138360
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "Rulings / Errata": [
           "rec1irMBbRvCzvnls"
         ], 
         "\u2b50": 0, 
         "Card Text": "Choose an enemy in bot mode. Your opponent flips it to alt mode.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/cornered?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "015/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -3029,7 +3132,7 @@
           "\ud83d\udd36\ud83d\udd36"
         ], 
         "Name": "Interpret The Airwaves", 
-        "Affiliation": "Autobot", 
+        "Faction": "Autobots", 
         "Image": [
           {
             "thumbnails": {
@@ -3098,11 +3201,11 @@
             "size": 1078961
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Firecons only.\n\nEach of your Firecons has Bold 1.\n(Flip 1 more battle card when attacking.)", 
         "Card #": "025/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Rare"
       }, 
       "id": "recDbNlM0qOymCL34"
@@ -3142,10 +3245,10 @@
             "size": 317690
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Look at your opponent's hand and scrap an Action from it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/disruptive%20entrance?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "025/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -3165,10 +3268,44 @@
     {
       "createdTime": "2019-09-24T22:16:29.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "011/064"
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "Coup", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fe10891badc9db3c89c50d596280bec1/e0041d50", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3c278c8d001a222cafc7a96fdb803649/55aaa8d2", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4717a4438274a093ccd1a3b49c286d06/d962428d", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/bf356b93852346024af3f2be90503fa3/65070717/coup.png", 
+            "filename": "coup.png", 
+            "type": "image/png", 
+            "id": "attT2sSZtg0oN18LJ", 
+            "size": 973583
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When a character is KO'd.\n\nWhen Revealed > Use a Bounty ability of one of your cards on the battlefield.", 
+        "Card #": "011/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recEBjNKx5zQndd31"
     }, 
@@ -3207,11 +3344,11 @@
             "size": 1189507
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Play this only if you've played Tech Research this turn.\n\nBold 4 (Flip 4 more battle cards when attacking.)", 
         "Card #": "068/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/superior%20cannon?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Atilio Rojo"
@@ -3253,10 +3390,10 @@
             "size": 196681
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Repair 1 damage from one of your characters. If you have more [STARS] of characters in your KO area than you have on the battlefield, repair 2 more damage from that character.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/emergency%20maintenance?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "027/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -3308,10 +3445,10 @@
             "size": 192595
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip a battle card for each Insecticon you began the game with. For each [ORANGE] you flip, your opponent chooses one of their characters and does 1 damage to it. For each [BLUE] you flip, repair 1 damage from one of your characters.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/swarm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "074/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -3350,10 +3487,10 @@
             "size": 1144356
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you began the game with only Decepticon characters > Repair 1 damage from each of your characters. Then do 1 damage to each Autobot.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bad%20attitude?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "007/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -3396,11 +3533,11 @@
             "size": 1041291
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Can't be put on Autobots.\n\nTough 2 (Flip 2 more battle cards when defending.)", 
         "Card #": "059/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Common"
       }, 
       "id": "recFNaxUU6c279Kpi"
@@ -3450,10 +3587,10 @@
             "size": 1087957
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip one of your Spaceships to bot mode. Then flip it back to alt mode.", 
-        "Affiliation": "Neutral", 
         "Card #": "062/064"
       }, 
       "id": "recFmRuqUpDIiILdE"
@@ -3494,11 +3631,11 @@
             "size": 1160883
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "If one of your cards would cause a Weapon or Armor to be scrapped from the upgraded character > Scrap this card instead.", 
         "Card #": "002/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/backup-bag?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare"
       }, 
@@ -3539,10 +3676,10 @@
             "size": 1031818
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Draw 2 cards.", 
-        "Affiliation": "Neutral", 
         "Card #": "041/064"
       }, 
       "id": "recG7unAF4f3QuJ26"
@@ -3579,10 +3716,10 @@
             "size": 1187873
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 2 damage from one of your characters.", 
-        "Affiliation": "Neutral", 
         "Card #": "038/064"
       }, 
       "id": "recGHXj7cVQMsUbhw"
@@ -3622,11 +3759,11 @@
             "size": 1153455
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "While the upgraded character is defending against an enemy that has Pierce > Reduce that enemy's Pierce total by 2.", 
         "Card #": "043/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recGWa0oG0QH5oSJ0"
@@ -3667,10 +3804,10 @@
             "size": 1137167
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose a battle icon color. Look at your opponent's hand and scrap a card that has that color icon.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/espionage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "027/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -3712,13 +3849,13 @@
             "size": 997060
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "Rulings / Errata": [
           "recUYKMSjhHaBgA3n"
         ], 
         "\u2b50": 0, 
         "Card Text": "Flip one of your characters to its other mode.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/rapid-conversion?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "051/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -3757,10 +3894,10 @@
             "size": 1154158
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Do 3 damage to an enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bolt%20of%20lightning?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "009/081"
       }, 
@@ -3802,11 +3939,11 @@
             "size": 453595
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your characters in bot mode defends.\n\nWhen Reveal > Flip that character to alt mode.", 
         "Card #": "058/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recIoLnSNnnJdG2sZ"
@@ -3846,13 +3983,13 @@
             "size": 151428
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "At the start of your turn > Draw a card.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "019/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/data-bank?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -3894,13 +4031,13 @@
             "size": 173356
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Tanks only.\n\nThe upgraded character has Pierce equal to its \ud83d\udee1. (Do at least \ud83d\udee1 damage when attacking, but not more than \u2694 total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "017/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/crushing%20treads?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -3942,13 +4079,13 @@
             "size": 1064622
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "At the start of your turn \u2192 Do 1 damage to the upgraded character.\n\nWhen the upgraded character is KO'd \u2192 Do 2 damage to each enemy.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "023/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recJltb5rTwHCMY5k"
@@ -3989,12 +4126,12 @@
             "size": 1199747
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Ranged characters only.\n\nWhile the upgraded character is defending against a Melee enemy > The upgraded character has +1 [DEF].", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "047/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recK5yIJgTzj18O6M"
@@ -4034,13 +4171,13 @@
             "size": 180742
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "Rulings / Errata": [
           "recXX77BPKsSkLpZF"
         ], 
         "\u2b50": 0, 
         "Card Text": "Choose an enemy character. Move 1 damage from each of your Planes to that enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/bombing-run?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "009/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -4082,13 +4219,13 @@
             "size": 787902
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Stealth (Enemies attack other characters if able.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "064/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/stealthiness?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -4130,13 +4267,13 @@
             "size": 179318
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character is attacking > It has Pierce 1 that attack for each [BLUE] you flip. (Do at least 1 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "078/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/thermal%20weaponry?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -4178,10 +4315,10 @@
             "size": 1021652
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters > It gets +1 [ATK] until end of turn for each Autobot Mini-Cassette in your KO area. If you have Blaster on the battlefield, the chosen character also gets Pierce 6 until end of turn. (Do at least 6 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
-        "Affiliation": "Autobot", 
         "Card #": "002/007"
       }, 
       "id": "recKXMzYtB6c8Iwj2"
@@ -4222,10 +4359,10 @@
             "size": 935487
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +2 [ATK] until end of turn.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
-        "Affiliation": "Neutral", 
         "Card #": "058/064"
       }, 
       "id": "recKeqrPBNH7O5XWq"
@@ -4275,11 +4412,11 @@
             "size": 2616493
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Reveal the top card of your deck. If it's an Action, play it.", 
         "Card #": "001/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/anticipation-engine?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon"
       }, 
@@ -4288,10 +4425,44 @@
     {
       "createdTime": "2019-09-24T22:30:09.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "051/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Shoulder Holster", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3c0d23d2bc1e7700632a92b65fde6469/c411d077", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b1d7c42df38ca0ea3d9b4f314452770f/afc43e0d", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cecb66734ec3b0f2c4fc6966390d51bc/84d1dac1", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/55ab9c9268ddb2653cab31db490d2c90/35c688fc/shoulderholster.png", 
+            "filename": "shoulderholster.png", 
+            "type": "image/png", 
+            "id": "attbVCMb0TggZ0vAP", 
+            "size": 911630
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Utility", 
+        "\u2b50": 0, 
+        "Card Text": "The upgraded character has an extra Weapon slot.\n\nWhen you put this on a character > Reveal the top card of your deck. If it's a Weapon, play it onto the upgraded character.", 
+        "Card #": "051/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recL18JvOk4hU22wd"
     }, 
@@ -4330,10 +4501,10 @@
             "size": 191532
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Each player choose a Weapon on one of their characters and scraps it. Each player chooses a card in their hand and scraps it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/collateral-damage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "013/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -4375,10 +4546,10 @@
             "size": 188516
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Each player reveals their hand and scraps all Upgrades from it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/security%20checkpoint?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "066/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -4420,11 +4591,11 @@
             "size": 1407123
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > Each of your characters gets +1 [DEF] until end of turn.", 
         "Card #": "015/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recM2s3boNshEvNuh"
@@ -4464,12 +4635,12 @@
             "size": 1182391
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Decepticons only.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
         "Card #": "033/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Uncommon"
       }, 
       "id": "recMPo1GbovcJM2Kg"
@@ -4509,6 +4680,7 @@
             "size": 234387
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "Rulings / Errata": [
@@ -4518,7 +4690,6 @@
         "Card Text": "If the upgraded character would take damage \u2192 Instead your Metroplex takes that damage.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "002/003", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/protected%20by%20metroplex%20wave%201a%20metroplex?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Phil Jiminez, Romulo Fajardo Jr."
@@ -4560,10 +4731,10 @@
             "size": 1275824
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Draw 2 cards. Then scrap 2 cards from your hand.\n\nIf you began the game with only Decepticon characters > You may play an upgrade.", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/swindled?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "072/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -4605,13 +4776,13 @@
             "size": 1147283
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "Rulings / Errata": [
           "rec3T75oVknVgK8Wx"
         ], 
         "\u2b50": 0, 
         "Card Text": "If you've played Ancient Wisdom this turn \u2192 Choose a battle card you own from outside the game that has 1 [STAR] and put it into your hand.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/unleash%20potential?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "079/081", 
         "Artist/Illustrator(s)": "Sarah Stone"
@@ -4653,6 +4824,7 @@
             "size": 1192157
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "Rulings / Errata": [
@@ -4662,7 +4834,6 @@
         "Card Text": "If the upgraded character would take non-attack damage from an opponent's card > Instead the upgraded character takes that much damage minus 1.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "018/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/defensive%20driving?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -4714,12 +4885,12 @@
             "size": 318295
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "004/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/armored-plating?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -4761,10 +4932,10 @@
             "size": 183798
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +2 [ATK] until end of turn.  While it's attacking an enemy that has more [STARS] than it, it gets Pierce 4. (Do at least 4 damage when attacking, but not more than Attack total. Pierce numbers add together.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/the%20bigger%20they%20are?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "077/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -4816,10 +4987,10 @@
             "size": 192925
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets Bold 3 until end of turn. (Flip 3 more battle cards when attacking.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/supercharge?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "071/081", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -4861,11 +5032,11 @@
             "size": 1038180
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 1, 
         "Card Text": "When this is scrapped from a character > Return this to your hand.", 
         "Card #": "031/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recOrwQypOjhrK0qT"
@@ -4905,11 +5076,11 @@
             "size": 1090869
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "The upgraded character has +4 [HP].", 
         "Card #": "030/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recOzP94d6MLmYxUH"
@@ -4949,10 +5120,10 @@
             "size": 1133906
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Scrap one of your Upgrades \u2192 Scrap up to 2 enemy Upgrades of the same type as your scrapped Upgrade.", 
-        "Affiliation": "Neutral", 
         "Card #": "016/064"
       }, 
       "id": "recP6mASzLNAWkuJ0"
@@ -4992,13 +5163,13 @@
             "size": 309069
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When this is on Bumblebee and he attacks \u2192 Draw a card.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "002/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/agility%20of%20bumblebee?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "David Daza"
@@ -5040,13 +5211,13 @@
             "size": 183286
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Insecticons only. When the upgraded character is KO'd \u2192 Draw a card, scrap an enemy Upgrade, and your opponent chooses a cared from their hand and scraps it.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "011/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/bug%20bomb?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -5088,13 +5259,13 @@
             "size": 182997
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Draw a card. Then you may put a card from your hand on top of your deck.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "020/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/data%20pad?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -5143,12 +5314,12 @@
             "size": 1111695
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character battles > Each player can't flip more than 2 battle cards during this battle.", 
         "Card #": "064/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recQemZR1a58RXtUj"
@@ -5188,13 +5359,13 @@
             "size": 1247062
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Dinobots only.\n\nWhen the upgraded character defends and you flip at least [ORANGE][ORANGE] > Do 1 damage to the attacker.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "020/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/electrified%20spikes?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -5236,13 +5407,13 @@
             "size": 320706
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Planes only.\n\nWhen the upgraded character attacks or defends \u2192 Look at the top card of your deck. You may scrap it.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "001/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/aerial%20recon?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -5284,13 +5455,13 @@
             "size": 1085809
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Constructicons only.\n\nWhen the upgraded character attacks > Put a height counter on your tower.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "001/005", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/builders%20tools%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare"
       }, 
@@ -5331,10 +5502,10 @@
             "size": 1221896
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Tap ALL characters.", 
-        "Affiliation": "Neutral", 
         "Card #": "021/064"
       }, 
       "id": "recRJfSiBVueY3LsN"
@@ -5374,10 +5545,10 @@
             "size": 1974180
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have fewer than 4 cards in hand, draw cards equal to the difference.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/work%20overtime%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "005/005"
       }, 
@@ -5418,10 +5589,10 @@
             "size": 1104648
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "You may play an action. Then you play another action.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/brainstorm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "008/064"
       }, 
@@ -5462,6 +5633,7 @@
             "size": 172723
           }
         ], 
+        "Faction": "Mercenaries", 
         "Format Bans": [
           "recjxrGlbIZwzKIDr"
         ], 
@@ -5471,7 +5643,6 @@
         ], 
         "\u2b50": 0, 
         "Card Text": "Choose 2 of your characters. Swap all their Upgrades.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/swap%20parts?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "073/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -5513,11 +5684,11 @@
             "size": 1263355
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > After your oponent chooses an attacker and before they choose a defender.\n\nWhen Revealed > One of your characters gets Stealth until end of turn.\n(Enemies attack other characters if able.)", 
         "Card #": "032/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recS1SpfW5onRWa2n"
@@ -5557,10 +5728,10 @@
             "size": 253901
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "One of your Titans gets Bold 4 until end of turn. (Flip 4 more battle cards when attacking.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/height%20advantage%20wave%201a%20metroplex?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "001/003", 
         "Artist/Illustrator(s)": "Marcelo Matere"
@@ -5603,13 +5774,13 @@
             "size": 1064286
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Armor", 
         "\u2b50": 2, 
         "Card Text": "Put on Autobots only.\n\nIf the upgraded characater would take non-attack damage \u2192 Instead it takes that much damage minus 1.", 
         "\ud83d\udee1\ufe0f\u0394": 2, 
         "Card #": "037/064", 
-        "Affiliation": "Autobot", 
         "Rarity": "Rare"
       }, 
       "id": "recSIPcHCr0BwEYos"
@@ -5649,13 +5820,13 @@
             "size": 211464
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Trucks only. The upgraded character has +1 \u2694 for each Cargo Trailer on it. Up to 3 Cargo Trailers can fit into its Utility slot.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "012/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/cargo%20trailer?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -5697,13 +5868,13 @@
             "size": 303264
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 3, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on damaged characters only.\n\nPierce 2 (Do at least 2 damage when attacking, but no more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "028/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/energon%20axe?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -5745,12 +5916,12 @@
             "size": 174241
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "056/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/primary-laser?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Marcelo Matere, Priscilla Tramontano"
@@ -5792,10 +5963,10 @@
             "size": 175114
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "You may play an Upgrade.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/new%20designs?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "048/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -5837,11 +6008,11 @@
             "size": 821819
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character battles and you flip your first [WHITE] > Flip 1 extra battle card.", 
         "Card #": "056/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recTIulr8tNwddpAx"
@@ -5881,10 +6052,10 @@
             "size": 787493
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Deploy a character from under your Trypticon, Assault Base to the battlefield.", 
-        "Affiliation": "Decepticon", 
         "Card #": "006/064"
       }, 
       "id": "recTUPQ08uE9B7ExY"
@@ -5924,10 +6095,10 @@
             "size": 1243589
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 1 damage from one of your characters.\n\n(After each battle > You may swap 1 card from your hand with one of your flipped [GREEN] cards.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/rest%20and%20relaxation?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "054/081", 
         "Artist/Illustrator(s)": "Brendan Cahill"
@@ -5969,10 +6140,10 @@
             "size": 156369
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Do 1 damage to an enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/zap?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "081/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -6014,11 +6185,11 @@
             "size": 847798
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Specialist > Scrap the top card of your deck. You may play that card.", 
         "Card #": "029/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/field%20communicator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common"
       }, 
@@ -6060,10 +6231,10 @@
             "size": 1000035
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "For each enemy Secret Action that's face up or face down, do 1 damage to each enemy.", 
-        "Affiliation": "Neutral", 
         "Card #": "015/064"
       }, 
       "id": "recU4kpWrgzKPhFVL"
@@ -6104,11 +6275,11 @@
             "size": 984619
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "The upgraded character has Brave while tapped.\n(Enemies attack the upgraded character if able.)", 
         "Card #": "047/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recU8wL1VZgrIjB80"
@@ -6148,10 +6319,10 @@
             "size": 290789
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Draw 2 cards. Then put a card from your hand on top of your deck.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/incoming%20transmission?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "039/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -6193,10 +6364,10 @@
             "size": 1288041
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Tap one of your untapped Specialists that has 5 [STARS] or more > Draw 3 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/intelligence%20mission?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "038/081", 
         "Artist/Illustrator(s)": "Marcelo Matere"
@@ -6238,13 +6409,13 @@
             "size": 207714
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 2 (Flip 2 more battle cards when defending.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "061/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/reinforced%20plating?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -6286,11 +6457,11 @@
             "size": 1069132
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Planes or Helicopters only.\nUp to 3 Multi-Missle pods can fit in 1 Weapon slot.\n\nWhen the upgraded character attacks > You may scrap this. If you do, do damage to each enemy equal to the number of Multi-Missle Pods scrapped from the upgraded character this battle.", 
         "Card #": "005/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recV6TbsWlCLmi4eu"
@@ -6330,13 +6501,13 @@
             "size": 182630
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Specialist > You may play an Action.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "046/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/multi%20mission%20gear?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -6379,10 +6550,10 @@
             "size": 1115723
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Enemies can't use Brave or Stealth this turn.\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/battlefield-scan?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "006/064"
       }, 
@@ -6423,10 +6594,10 @@
             "size": 1183118
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one >\n- More an Upgrade from one of your characters to another one.\n- Put a Battle Master upgrade from your KO area onto one of your characters.", 
-        "Affiliation": "Neutral", 
         "Card #": "045/064"
       }, 
       "id": "recVCDr12ExEzTtBv"
@@ -6467,10 +6638,10 @@
             "size": 1171991
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Your opponent chooses one of their Upgrades and scraps it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/smelt?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "060/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -6512,13 +6683,13 @@
             "size": 923388
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 3, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks and you don't flip a \u2b1b \u2192 Scrap this card after the battle.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "050/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recVIWcFmIqhJbkpe"
@@ -6558,10 +6729,10 @@
             "size": 183643
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Look at your opponent's hand and scrap an Upgrade from it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/disruption?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "024/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -6600,11 +6771,11 @@
             "size": 1115978
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When you use the upgraded character's [TAP] ability > Untap that character and scrap this card.", 
         "Card #": "040/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recVRaE6dYSYLmA5z"
@@ -6644,11 +6815,11 @@
             "size": 1052917
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "The upgraded characater has an extra Armor slot.\n\nWhen you put this on a character > Reveal the top card of your deck. If it's an Armor, play it onto the upgraded character.", 
         "Card #": "016/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recVa8D61Aj5AIULi"
@@ -6688,11 +6859,11 @@
             "size": 1140185
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > If one or more of your characters would take non-attack damage during your opponent's turn.\n\nWhen Revealed > Instead your characters can't take non-attack damage this turn.", 
         "Card #": "060/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recVuokr6ToHNvW5U"
@@ -6732,10 +6903,10 @@
             "size": 172817
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip each of your characters from bot mode to Tank mode. Then, for each of your Tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/hunker-down?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "036/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -6777,10 +6948,10 @@
             "size": 200222
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Scrap an enemy Upgrade.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/ramming%20speed?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "057/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -6819,11 +6990,11 @@
             "size": 1149667
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 3, 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card #": "019/064", 
-        "Affiliation": "Neutral", 
         "Sub-Type": "Weapon"
       }, 
       "id": "recWNyOLa5A7bCIeo"
@@ -6863,13 +7034,13 @@
             "size": 284049
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "Rulings / Errata": [
           "recUYKMSjhHaBgA3n"
         ], 
         "\u2b50": 0, 
         "Card Text": "Flip one of your characters to its other mode.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/rapid-conversion?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "059/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -6908,10 +7079,10 @@
             "size": 220559
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Scrap ALL Upgrades. Repair 1 damage from each character for each Upgrade scrapped from it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/salvage%20for%20parts?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "064/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -6953,11 +7124,11 @@
             "size": 1226175
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal \u2192 When one of your characters defends.\n\nWhen Revealed \u2192 Draw 2 Cards. Then put a card from your hand on top of your deck.", 
         "Card #": "005/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/battlefield-report?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common"
       }, 
@@ -6998,13 +7169,13 @@
             "size": 181781
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a character \u2192 Scrap an enemy Utility. If you cannot, draw a card.\n\nPierce 1 (Do at least 1 damage when attacking, but not more than \u2694 total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "016/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/crushing%20size?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -7024,10 +7195,45 @@
     {
       "createdTime": "2019-09-24T22:30:29.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "053/064"
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Soldier's Blaster", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0bdbd16103548f034df6da48bee9c6ae/edffc2ec", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f239a33c0b583d532d8f41af1aa792f4/3fb450d0", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/14c6ee56511efb4a9b037e9d1fe8227a/8b7ea38a", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/69d8f26249b42b73142dd30fbf82ba99/de61411d/soldiersblaster.png", 
+            "filename": "soldiersblaster.png", 
+            "type": "image/png", 
+            "id": "att1R05C0m1huERyu", 
+            "size": 1117247
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "\u2694\ufe0f\u0394": 1, 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "When the upgraded character attacks an enemy from a different faction > The upgraded character gets +2 until end of battle.\n(The factions are Autobots, Decepticons, and Mercenaries.)", 
+        "Card #": "053/064", 
+        "Rarity": "Common"
       }, 
       "id": "recXT3TF1zW8eYfCI"
     }, 
@@ -7067,13 +7273,13 @@
             "size": 1433570
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Autobots only.\n\nWhile the upgraded character is attacking a Decepticon > It has Pierce 2. (Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "045/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/nobles%20blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -7116,11 +7322,11 @@
             "size": 1175272
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Reveal the top card of your deck. If it's an Upgrade, you may play it.", 
         "Card #": "039/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recXkasjKWdst3mTx"
@@ -7161,11 +7367,11 @@
             "size": 465111
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > If your opponent would draw a second card during their turn.\n\nWhen Revealed > If your opponent would draw a card this turn, you draw a card instead.", 
         "Card #": "028/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recYAGvfIyWPosCZY"
@@ -7205,10 +7411,10 @@
             "size": 938231
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Blaster or Soundwave on the battlefield > You may put one of your Mini-Cassettes from the battlefield under it. If you do, repair 2 damage from one of your characters, then put this card into your KO area.", 
-        "Affiliation": "Neutral", 
         "Card #": "007/007"
       }, 
       "id": "recYLjwHfZXYz0aKP"
@@ -7248,10 +7454,10 @@
             "size": 188361
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Return all Upgrades on a character to their owner's hand.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/disarm?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "023/081", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -7293,13 +7499,13 @@
             "size": 959246
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Trucks only.\n\nWhen the upgraded character does attack damage to an enemy > Your opponent flips that enemy to its other mode.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "004/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/battering-ram?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare"
       }, 
@@ -7340,11 +7546,11 @@
             "size": 712036
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "If you have Menasor on the battlefield > Draw 2 cards.\n\nIf you have 5 Stunticons in bot mode on the battlefield and/or your KO area > Combine them into Menasor, Menacing Colossus. (A Combiner begins untappped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)", 
         "Card #": "066/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/stunticon%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "recazq7ZL6mawoz9Q"
@@ -7387,10 +7593,10 @@
             "size": 1165531
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. When it does attack damage this turn to an enemy that has fewer [STARS] than it > Do 1 damage to each enemy that has fewer [STARS] than your character.", 
-        "Affiliation": "Neutral", 
         "Card #": "057/064"
       }, 
       "id": "recZ2XDyBxKMMufkY"
@@ -7430,10 +7636,10 @@
             "size": 1080210
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Each player draws 2 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/testify?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "075/081", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -7475,13 +7681,13 @@
             "size": 1327433
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Predacons only.\n\nThe upgraded character can have a Weapon or Armor in its Armor slot.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "076/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/tooth-and-claw?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Livio Ramondelli"
@@ -7524,10 +7730,10 @@
             "size": 1262686
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Flip one your characters from bot mode to alt mode.\n\n(After each battle > You may swap 1 card from your hand with one of your flipped [GREEN] cards.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/escape%20route?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "026/081", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -7570,6 +7776,7 @@
             "size": 1283413
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "Rulings / Errata": [
           "recEojoqgVCVW79vv"
@@ -7577,7 +7784,6 @@
         "\u2b50": 0, 
         "Card Text": "If an opponent's card would cause a Weapon or Armor to be scrapped from the upgraded character > Scrap this card instead.", 
         "Card #": "062/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/spare%20parts?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -7629,10 +7835,10 @@
             "size": 1278621
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Scrap all enemy Weapons, Armors, or Utilities.\n\n(Your team and deck can have 25 [STARS] total.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/vandalize?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "080/081", 
         "Artist/Illustrator(s)": "Alex Milne, Josh Perez"
@@ -7674,10 +7880,10 @@
             "size": 1251004
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Tap one of your untapped characters that has 5 [STARS] or more > Do 3 damage to an enemy.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/inferno%20breath?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "037/081", 
         "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente"
@@ -7719,12 +7925,12 @@
             "size": 1055118
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "050/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/primary-laser?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Marcelo Matere, Priscilla Tramontano"
@@ -7763,11 +7969,11 @@
             "size": 1078321
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 1, 
         "Card Text": "If the upgraded character would take attack damage > Instead it takes half that damage rounded down, and you scrap this card.", 
         "Card #": "007/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recaJWD1p6CrbIS1N"
@@ -7807,10 +8013,10 @@
             "size": 197008
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. If it's a Truck, repair 2 damage from it. If it's a Car, draw 2 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/team%20up%20tactics?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "076/081", 
         "Artist/Illustrator(s)": "Andrew Griffith, Josh Perez"
@@ -7852,10 +8058,10 @@
             "size": 194298
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip each of your characters from bot mode to Car mode. Then untap one of your Cars.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/start-your-engines?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "068/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -7865,9 +8071,43 @@
     {
       "createdTime": "2019-09-24T22:27:45.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\u2b1b", 
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Opportune Offensive", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5038ed498b5addea2b15913bd9de6fb4/1898fe60", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3acbc551892f89911c3fed54ebec61f8/ff4256cc", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/92ec00fed41e8c0daf8e10e36d997eef/591243a2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/48c817a1579686f0946cbd0055dc041d/55223039/opportuneoffensive.png", 
+            "filename": "opportuneoffensive.png", 
+            "type": "image/png", 
+            "id": "att5GUh7cz4Ql23hd", 
+            "size": 876237
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Rare", 
+        "\u2b50": 0, 
+        "Card Text": "Play this only if you had a Mercenary on your starting team.\n\nOne of your Decepticons gets +3 [ATK] and Pierce 3 until end of turn.", 
         "Card #": "040/064"
       }, 
       "id": "recbCUqzxbDC9RdXE"
@@ -7907,11 +8147,11 @@
             "size": 947819
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When your opponent plays an [ORANGE] action.\n\nWhen Revealed > Scrap that Action and it has no effect.", 
         "Card #": "034/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recbEKMeu9QVnP6ki"
@@ -7951,13 +8191,13 @@
             "size": 1358942
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Sentinels only.\n\nWhen the upgraded character attacks > You may flip a Sentinel in your KO area from bot mode to alt mode. If you do, then flip it back to bot mode.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "012/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/combat%20commands?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Casey Coller"
@@ -8000,13 +8240,13 @@
             "size": 1042488
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 2 (Flip 2 more battle cards when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "006/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/backup%20beam?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -8048,13 +8288,13 @@
             "size": 179724
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "After the upgraded character defends \u2192 Scrap this card.", 
         "\ud83d\udee1\ufe0f\u0394": 2, 
         "Card #": "007/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/blast%20shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -8106,13 +8346,13 @@
             "size": 334317
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Mini-Cassettes only.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "003/007", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recbtIbKNyxx0NQ5X"
@@ -8152,13 +8392,13 @@
             "size": 160254
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "034/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/handheld-blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -8201,11 +8441,11 @@
             "size": 770071
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "The upgraded character has Stealth while untapped. (Enemies attack other characters if able.)", 
         "Card #": "029/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "reccCm63Gxuakfde2"
@@ -8245,10 +8485,10 @@
             "size": 1051325
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Put an upgrade from your scrap pile on top of your deck.\n\nIf your Tower is 3 or higher, draw a card.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/heavy%20landing%20wave%202a%20devastator?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "004/005"
       }, 
@@ -8289,11 +8529,11 @@
             "size": 443805
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When an enemy attacks and your opponent flips 7 or more battle cards.\n\nWhen Revealed > This battle, [ORANGE] doesn't add to [ATK] and [BLACK] doesn't give Pierce.", 
         "Card #": "042/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "reccJgtKVam3MZ565"
@@ -8333,10 +8573,10 @@
             "size": 1291777
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Draw 2 cards. Then scrap 2 cards from your hand.\n\nIf you began the game with only Autobot characters > You may play an Action.", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/confidence?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "013/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -8378,12 +8618,12 @@
             "size": 1173678
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Shockwave only.\nUp to 2 LV Gamma-Disruptor Launchers can fit in 1 Weapon slot.\n\nWhen you put this on Shockwave > Your opponent chooses a card from their hand and scraps it.", 
         "Card #": "036/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Rare"
       }, 
       "id": "reccLXHZPo3Vsirsj"
@@ -8423,13 +8663,13 @@
             "size": 174363
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "While this is on Megatron > He has Pierce 3. (Do at least 3 damage when attacking, but not more than [ATK] value. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "032/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/fusion%20cannon%20of%20megatron?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -8468,10 +8708,10 @@
             "size": 176600
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Untap one of your characters that has 10 [STARS] or fewer.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/ready%20for%20action?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "060/091", 
         "Artist/Illustrator(s)": "Marcelo Mater, Priscilla Tramontano"
@@ -8513,11 +8753,11 @@
             "size": 1143822
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Play this only if you've played Tech Research this turn.\n\nTough 4 (Flip 4 more battle cards when defending.)", 
         "Card #": "070/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/superior%20plating?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Livio Ramondelli"
@@ -8559,10 +8799,10 @@
             "size": 180319
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Draw 3 cards. Then scrap 2 cards from your hand.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/inspiring%20leadership?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "040/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -8604,13 +8844,13 @@
             "size": 173130
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Cars only.\n\nWhen you put this on a character > Untap that character.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "080/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/turbo%20boosters?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -8652,11 +8892,11 @@
             "size": 897005
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Scrap this card after the battle.", 
         "Card #": "012/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "rece1B8dbQZuOGaBS"
@@ -8696,13 +8936,13 @@
             "size": 178812
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Pierce 3 (Do at least 3 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "053/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/piercing%20blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -8744,13 +8984,13 @@
             "size": 203524
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 4, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "After the upgraded character attacks > Scrap this card.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "033/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/grenade%20launcher?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Hayato Sakamoto"
@@ -8792,12 +9032,12 @@
             "size": 1001646
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Brave (Enemies attack this character if able.)", 
         "Card #": "010/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/bravery?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Sarah Stone"
@@ -8839,10 +9079,10 @@
             "size": 1157904
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip each of your characters from bot mode to Motorcycle mode.\n\nYou get an extra attack this turn, but only a Motorcycle can attack this way.", 
-        "Affiliation": "Neutral", 
         "Card #": "044/064"
       }, 
       "id": "recf5XmOPuj2bua3w"
@@ -8882,11 +9122,11 @@
             "size": 433259
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character defends and you flip at least [WHITE] > It gets +2 [DEF] until end of battle.", 
         "Card #": "003/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recfV0qA8o7r3pYdB"
@@ -8926,13 +9166,13 @@
             "size": 232857
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Specialist > You may play an Upgrade.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "047/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/multi%20tool?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Hayato Sakamoto"
@@ -8947,7 +9187,7 @@
           "\u2b1b\u2b1b"
         ], 
         "Name": "Intercept Communications", 
-        "Affiliation": "Decepticon", 
+        "Faction": "Decepticons", 
         "Image": [
           {
             "thumbnails": {
@@ -9026,11 +9266,11 @@
             "size": 349260
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "If the upgraded character would take 5 or more attack damage > Instead scrap this card and the upgraded character takes 4 attack damage.", 
         "Card #": "031/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/force%20field?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Alex Milne, Josh Perez"
@@ -9072,13 +9312,13 @@
             "size": 191625
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Dinobots only.\n\nBold 2 (Flip 2 more battle cards when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "042/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/jaws%20of%20steel?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -9120,13 +9360,13 @@
             "size": 182461
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 1 (Flip 1 more battle card when defending.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "038/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/improvised-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -9168,10 +9408,10 @@
             "size": 160554
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Scrap your hand. Then draw 3 cards.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/backup-plan?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "005/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -9213,13 +9453,13 @@
             "size": 1296403
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Plan 2. (Put up to 2 cards from your hand on top of your deck.)\n\nWhen you put a card from your hand on top your deck > The upgraded character gets +1 [ATK] until end of turn.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "043/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/mining%20pick?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -9262,13 +9502,13 @@
             "size": 1349536
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 1, 
         "Card Text": "When the upgraded character is battling > Flip 1 more battle card. Scrap one of the cards you flipped without using its battle icons.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "053/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/recon%20system?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -9310,10 +9550,10 @@
             "size": 259909
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Metroplex on the battlefield \u2192 Draw a card for each character you have on the battlefield.", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/rally%20the%20city%20wave%201a%20metroplex?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "003/003"
       }, 
@@ -9354,13 +9594,13 @@
             "size": 186021
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "Rulings / Errata": [
           "recpO9abEQTyQ9UJr"
         ], 
         "\u2b50": 0, 
         "Card Text": "Scrap the top 4 cards of your deck. Pull all Upgrades scrapped this way into your hand.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/treasure-hunt?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "079/081", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -9403,13 +9643,13 @@
             "size": 1424229
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 2, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Decepticons only.\n\nWhile the upgraded character is attacking an Autobot > It has Pierce 2. (Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "055/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/scoundrels%20blaster?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -9452,10 +9692,10 @@
             "size": 1353841
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your Autobots. It gets +2 [ATK] until end of turn.\n\nChoose an enemy Decepticon. It gets -2 [DEF] until end of turn. (A character's [DEF] can't go below 0.)", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/press%20the%20advantage?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "049/081", 
         "Artist/Illustrator(s)": "Casey Coller"
@@ -9497,10 +9737,10 @@
             "size": 906151
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "(After each battle \u2192 You may swap 1 card from your hand with one of your flipped [GREEN] cards.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/tech%20research?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "074/081", 
         "Artist/Illustrator(s)": "Casey Coller"
@@ -9542,11 +9782,11 @@
             "size": 958425
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "For each Mini-Cassette you have on the battlefield > The upgraded character has Tough 1. (Flip 1 more battle card when defending.)", 
         "Card #": "006/007", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "reciSneGDSBTyxsnu"
@@ -9586,13 +9826,13 @@
             "size": 189868
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a character > Scrap an enemy Weapon. If you can't, draw a card.", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "065/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/scrapper%20gauntlets?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Unknown"
@@ -9635,12 +9875,12 @@
             "size": 1253599
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Put on Specialists only.\n\nWhile the upgraded character is defending against a Ranged enemy > The upgraded character has +1 [DEF].", 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "059/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recie8q4Tcy8R7t35"
@@ -9680,13 +9920,13 @@
             "size": 185965
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character defends and you flip an equal number of [BLUE] and [ORANGE] > Each of those [ORANGE] adds to its [DEF] total.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "067/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/shock%20absorbers?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -9729,11 +9969,11 @@
             "size": 942938
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 1 (Flip 1 more battle card when defending.)\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
         "Card #": "052/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recipknOm9nIsqm7w"
@@ -9774,13 +10014,13 @@
             "size": 741635
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "Rulings / Errata": [
           "reclQFcVSpMBdt3hM"
         ], 
         "\u2b50": 0, 
         "Card Text": "For each Focus Fire you've played this turn > One of your characters get Bold 1 until end of turn. (Flip 1 more battle card when attacking.)\n\nYou may play another Focus Fire.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/focus%20fire?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "032/081", 
         "Artist/Illustrator(s)": "Casey Coller"
@@ -9822,10 +10062,10 @@
             "size": 1209031
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Draw 3 cards.\n\n(Your team and deck can have 25 [STARS] total.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/universal%20network%20access?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "078/081", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -9867,13 +10107,13 @@
             "size": 173693
           }
         ], 
+        "Faction": "Decepticons", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "While this is on Starscream > He has Bold 2. (Flip 2 more battle cards when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "049/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/null%20ray%20of%20starscream?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "E J Su"
@@ -9915,10 +10155,10 @@
             "size": 1134507
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets Pierce 3 until end of turn. (Do at least 3 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/surprise-attack?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "071/081", 
         "Artist/Illustrator(s)": "Andrew Griffith, Josh Burcham"
@@ -9960,11 +10200,11 @@
             "size": 1254538
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 1 (Flip 1 more battle card when defending.)", 
         "Card #": "036/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/improvised-shield?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Guido Guidi, Stephen Baskerville"
@@ -10006,11 +10246,11 @@
             "size": 240839
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Secret", 
         "\u2b50": 1, 
         "Card Text": "Reveal > When one of your Decepticons takes more than enough attack damage to be KO'd.\n\nWhen Revealed > Do the extra attack damage to the attacker. Then put this card into your KO area.", 
         "Card #": "021/064", 
-        "Affiliation": "Decepticon", 
         "Rarity": "Uncommon"
       }, 
       "id": "reckHsHFljCOexMQq"
@@ -10047,11 +10287,11 @@
             "size": 1377043
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Stunticons only.\n\nEnemies can't use Bold or Tough against the upgraded character.", 
         "Card #": "067/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/stunticon%20swagger?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Casey Coller"
@@ -10061,9 +10301,42 @@
     {
       "createdTime": "2019-09-24T22:19:47.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\u2b1b\u2b1b"
+        ], 
+        "Name": "Dual Wield", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/255373e9d053b79c6d3c5bafe1b3565c/f3222780", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1311944d838765d09c8f42c664e0408c/929f2f27", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4f1d7eb0f8b4543416a7850a45954b42/4e214e71", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/ee581a7eeb9924da7ba840bf87f5bd2f/6426919e/dualwield.png", 
+            "filename": "dualwield.png", 
+            "type": "image/png", 
+            "id": "attYZHeZpCYs3hRFh", 
+            "size": 1053583
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card Text": "One of your characters gets an extra Weapon slot until end of turn.\n\nIf that character is a Mercernary > You may play a Weapon from your scap pile onto it.", 
         "Card #": "018/064"
       }, 
       "id": "reckKoaCmWzHlouQf"
@@ -10103,11 +10376,11 @@
             "size": 1169388
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 3 (Flip 3 more battle cards when defending.)\n\nAfter the upgraded character defends > Scrap this card.", 
         "Card #": "028/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/evasive%20maneuvers?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -10150,11 +10423,11 @@
             "size": 971207
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": " When this is scrapped from a character > Scrap an enemy Armor.", 
         "Card #": "046/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "reckPCTi7voii0nCA"
@@ -10194,13 +10467,13 @@
             "size": 1219800
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "If the upgraded character would take 5 or more attack damage \u2192 Instead scrap this card and the upgraded character takes 4 attack damage.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "026/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "reckfGsg1VsnUUWVl"
@@ -10240,11 +10513,11 @@
             "size": 1150536
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Tough 1 (Flip 1 more battle card when defending.)", 
         "Card #": "063/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "reckmMLQGwtuatgP0"
@@ -10284,11 +10557,11 @@
             "size": 994040
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character defends > Draw a card. Then Plan 1.", 
         "Card #": "058/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/security%20console?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -10330,10 +10603,10 @@
             "size": 348953
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Each of your untapped Transformers can attack this turn.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/all%20out%20attack%20sdcc%202018%20exclusive?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "001/002", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -10376,11 +10649,11 @@
             "size": 1192880
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Pierce 1 (Do at least 1 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)\n\nWhen this is scrapped from a character > Scrap an enemy Utility.", 
         "Card #": "042/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recln5npjY1xxIuwn"
@@ -10421,10 +10694,10 @@
             "size": 189337
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Flip each of your characters from bot mode to alt mode.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/roll-out?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "063/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -10466,13 +10739,13 @@
             "size": 172143
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 2 (Flip 2 more battle cards when attacking.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "030/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/flamethrower?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -10514,11 +10787,11 @@
             "size": 992168
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Focus 1 (Before flipping battle cards when battling > Look at the top card of your deck. You may scrap it.)\n\nWhen the upgraded character battles and you flip at least [WHITE] > It gets +1 [ATK] and +1 [DEF] until end of battle.", 
         "Card #": "002/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recmHpuAZA22J7830"
@@ -10526,10 +10799,41 @@
     {
       "createdTime": "2019-09-24T22:26:51.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "036/064"
+        "Name": "Lucky Vest", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f0b793e4621650a5ecb5bb0978c191a7/2ffbacf2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/63809e4eec9ea42c5f02130c9a429726/71a7d636", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/da84c22f9dc422d4b17aaf94201b0f9c/7f4a03c5", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/18c09a7e51ac29256da239237dd02e65/7eddaa7f/luckyvest.png", 
+            "filename": "luckyvest.png", 
+            "type": "image/png", 
+            "id": "attE9te8L547VPCbh", 
+            "size": 1029169
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "When the upgraded character defends and you flip battle icons of at least 4 different colors > That character can't take more than 4 attack damage this battle.", 
+        "Card #": "036/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recmL82U9DROAHqjp"
     }, 
@@ -10569,13 +10873,13 @@
             "size": 152854
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Autobots only.\n\nWhile this is on a Leader > Each of your other characters has +1 [ATK] and Pierce 1. (Do at least 1 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "044/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/matrix%20of%20leadership?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -10617,10 +10921,10 @@
             "size": 1192619
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. If it's a Tank, your opponent chooses 2 cards from their hand and scraps them. If it's a Plane, your opponent chooses one of their characters and does 2 damage to it.", 
-        "Affiliation": "Neutral", 
         "Card #": "061/064"
       }, 
       "id": "recmbsKGEHdQVWKSK"
@@ -10661,10 +10965,10 @@
             "size": 1328160
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 1, 
         "Card Text": "Tap one of your untapped Autobots. Add its [ATK] total to one of your untapped Autobots until end of turn.", 
-        "Affiliation": "Autobot", 
         "Card #": "031/064"
       }, 
       "id": "recmuORtobnNhtbJH"
@@ -10704,10 +11008,10 @@
             "size": 1254516
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "You may play a Secret Action. Then you may play another Secret Action.", 
-        "Affiliation": "Neutral", 
         "Card #": "055/064"
       }, 
       "id": "recn4GdvO7oh6gSAG"
@@ -10747,11 +11051,11 @@
             "size": 1263101
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 2 (Flip 2 more battle cards when attacking.)\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
         "Card #": "053/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recnKSkiwQcOZIjus"
@@ -10791,13 +11095,13 @@
             "size": 179997
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks > Return one of the defending character's upgrades to its owners hand.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "021/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/debilitating%20crystal?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -10840,6 +11144,7 @@
             "size": 1113636
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "Rulings / Errata": [
@@ -10849,7 +11154,6 @@
         "Card Text": "When you put this on a character > You play another Attack Drone.\n\nUp to 3 Attack Drones can fit in 1 Weapon slot.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "005/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/attack%20drone?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -10901,10 +11205,10 @@
             "size": 1031150
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Each player choose 2 cards from their hand and scraps the rest.\n\nEach player with fewer than 2 cards in hand draws card equal to the difference.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/fog%20of%20war?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "033/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -10946,11 +11250,11 @@
             "size": 993520
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Play this only if you've played Tech Research this turn.\n\nPierce 4 (Do at least 4 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "Card #": "069/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/superior%20jetpack?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -10989,10 +11293,10 @@
             "size": 178897
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters and an enemy character. Do 3 damage to each of them.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/one%20shall%20stand%20one%20shall%20fall?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "050/081", 
         "Artist/Illustrator(s)": "Unknown"
@@ -11031,10 +11335,10 @@
             "size": 272698
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 2 damage from one of your characters.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/medic?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "045/081", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -11076,10 +11380,10 @@
             "size": 1263322
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 1 damage from one of your characters. If it's an Autobot, Plan 1. (You may put 1 card from your hand on top of your deck.)", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/field%20repair?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "030/081", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -11121,10 +11425,10 @@
             "size": 1318811
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Repair 1 damage from one of your characters.\n\nIf your starting team was only Autobots > Draw a card.", 
-        "Affiliation": "Autobot", 
         "Card #": "054/064"
       }, 
       "id": "recqawjWukF3AZX1f"
@@ -11165,13 +11469,13 @@
             "size": 1004902
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "Card Text": "Tough 2 (Flip 2 more battle cards when defending.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "063/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/sparring%20gear?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -11213,10 +11517,10 @@
             "size": 1075207
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Each of your characters get Pierce 2 until end of turn. (Do at least 2 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
-        "Affiliation": "Neutral", 
         "Card #": "017/064"
       }, 
       "id": "recqspjqwd1mr1Xbr"
@@ -11256,13 +11560,13 @@
             "size": 335786
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a Ranged character \u2192 Do 1 damage to each enemy.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "003/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/armed%20hovercraft?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -11305,6 +11609,7 @@
             "size": 1312788
           }
         ], 
+        "Faction": "Decepticons", 
         "Sub-Type": "Utility", 
         "Rulings / Errata": [
           "recK6m0Ezy4qOIQ3o", 
@@ -11313,7 +11618,6 @@
         "\u2b50": 0, 
         "Card Text": "Put on Decepticons only.\n\nWhen one of your Decepticons attacks > Plan 1. (You may put 1 card from your hand on top of your deck.)", 
         "Card #": "017/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/decepticon%20crown?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -11355,10 +11659,10 @@
             "size": 1427189
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Your opponent scraps a card from their hand.\n\nIf this is the third Sonic Scramble you have played this turn > Draw 3 cards. You may play another Sonic Scramble. ", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/sonic%20scramble?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "061/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -11400,10 +11704,10 @@
             "size": 542517
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. It gets +3 [ATK] while attackin in alt mode this turn.", 
-        "Affiliation": "Neutral", 
         "Card #": "025/064"
       }, 
       "id": "recrnE96OMM50V8b7"
@@ -11444,11 +11748,11 @@
             "size": 997175
           }
         ], 
+        "Faction": "Autobots", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Can't be put on Decepticons.\n\nBold 2 (Flip 2 more battle cards when attacking.)", 
         "Card #": "061/064", 
-        "Affiliation": "Autobot", 
         "Rarity": "Common"
       }, 
       "id": "recrnp7jWNVXo4rcI"
@@ -11456,10 +11760,44 @@
     {
       "createdTime": "2019-09-24T22:32:11.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "062/064"
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "Valuable Contract", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/576ba055c921a45be31e84c8ebb49628/d549e53c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9f19a3f77329309166fcafb881f186b5/964b1306", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7b37cb6dc9ad147c58024cae4907e2d3/de356727", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/f83b9e57933bbb0e39cda0e57680aa2f/f4518a73/valuablecontract.png", 
+            "filename": "valuablecontract.png", 
+            "type": "image/png", 
+            "id": "attGCTi3ZfvUOg5Jt", 
+            "size": 897110
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Utility", 
+        "\u2b50": 0, 
+        "Card Text": "When the upgraded character does enouugh attack damage to KO an enemy > Use this card's Bounty ability.\n\nBounty > Choose a battle card you own from outside the game that has exactly 1 [STAR] and put it into your hand.", 
+        "Card #": "062/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recryCnKzIds4Aycf"
     }, 
@@ -11499,12 +11837,12 @@
             "size": 950327
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When this is scrapped from a character > Scrap an enemy weapon.", 
         "Card #": "018/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "recsAS5mCz9dXPXVU"
@@ -11544,13 +11882,13 @@
             "size": 1110674
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 3 (Flip 3 more battle cards when attacking.)\n\nAfter the upgraded character attacks > Scrap this card.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "047/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/power%20punch?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
         "Artist/Illustrator(s)": "Sarah Stone"
@@ -11602,10 +11940,10 @@
             "size": 1214280
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have a Ranged character on the battlefield > Do 2 damage to an enemy in bot mode.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/marksmanship?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "041/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -11648,10 +11986,10 @@
             "size": 1016342
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Do 1 damage to a tapped enemy.\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
-        "Affiliation": "Neutral", 
         "Card #": "049/064"
       }, 
       "id": "rect3Gjnhw2v4kCtQ"
@@ -11691,12 +12029,12 @@
             "size": 803097
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put only on a character that has more than one alt mode.\n\nAt the end of your turn > Flip the upgraded character to another mode.", 
         "Card #": "010/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "rectot4CGcwCPZDAQ"
@@ -11733,6 +12071,7 @@
             "size": 197889
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "Rulings / Errata": [
           "recwHezQdTSz1SFC9", 
@@ -11740,7 +12079,6 @@
         ], 
         "\u2b50": 0, 
         "Card Text": "Return one of your KO'd characters that has 12 [STARS] or fewer to the battlefield, and repair 1 damage from it. At the end of turn, KO it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/i%20still%20function?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "037/081", 
         "Artist/Illustrator(s)": "E. J. Su"
@@ -11782,10 +12120,10 @@
             "size": 1312265
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "One of your characters gets +2 [ATK] until end of turn. While it's attacking an enemy this turn that has fewer [STARS] than it, it has Pierce 4. (Do at least 4 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/heavy%20handed?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "035/081", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -11827,11 +12165,11 @@
             "size": 1350004
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > Your opponent can't flip more than 4 battle cards during this battle.", 
         "Card #": "014/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "recuGHicaxEEWnpz3"
@@ -11872,6 +12210,7 @@
             "size": 1094769
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Utility", 
         "Rulings / Errata": [
@@ -11881,7 +12220,6 @@
         "Card Text": "When the upgraded character is battling > Each [ORANGE] you flip becomes a [BLUE]. Each [BLUE] you flip becomes an [ORANGE].", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "039/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/inverted?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -11925,10 +12263,10 @@
             "size": 1113324
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Reveal the top 3 cards of your deck. If they include at least [W][O][B], put them all into your hand. Otherwise, scrap them.\n\n(Your team and deck can have 25[STARS] total.)", 
-        "Affiliation": "Neutral", 
         "Card #": "028/064"
       }, 
       "id": "recvC4yFpmVZes2nN"
@@ -11968,13 +12306,13 @@
             "size": 191634
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks and you flip an equal number of [ORANGE] and [BLUE] > Each of those [BLUE] adds to its [ATK] total.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "018/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/cybertonium%20bow?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Hayato Sakamoto"
@@ -12037,10 +12375,10 @@
             "size": 1260202
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Plan 6. (Put up to 6 cards from your hand on top of your deck.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/master-plan?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "042/081", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -12050,9 +12388,42 @@
     {
       "createdTime": "2019-09-24T22:15:19.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\u2b1b\u2b1b"
+        ], 
+        "Name": "Contract Contingency", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/215ac21072c02538d571e12abc5fd2a6/c7a96f3c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13e64dbecc0cbde78983941eb8d89789/eb97af0a", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/21e33c76fe9fa08a84a0bb513b69398a/56ed4163", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/4a39dc3b8141c1d5d1ead1ab2267a15e/835d2bc6/contractcontingency.png", 
+            "filename": "contractcontingency.png", 
+            "type": "image/png", 
+            "id": "attzxIQLKULg8405A", 
+            "size": 1046910
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card Text": "Choose one of your characters. It gets +2 [ATK] until end of turn.\n\nWhen the chosen character does 4 or more attack damage to an enemy this turn without KO'ing it > Use one of the chosen character's Bounty abilities.", 
         "Card #": "009/064"
       }, 
       "id": "recvxR8k7o1zqwzLW"
@@ -12092,10 +12463,10 @@
             "size": 468522
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your characters. Until end of turn, its base [ATK] is 7 as long as it's a Truck.", 
-        "Affiliation": "Neutral", 
         "Card #": "001/064"
       }, 
       "id": "recwA5N1FIZ1QMygc"
@@ -12136,13 +12507,13 @@
             "size": 1058262
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Bold 1 (Flip 1 more battle card when attacking.)\n\n(For each [BLACK] you flip when attacking, the attacker gets Pierce 1 until end of turn.)", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "011/064", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-i/combat-dagger?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common"
       }, 
@@ -12193,11 +12564,11 @@
             "size": 789884
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Predaking on the battlefield > Draw a card. Then you may play an Upgrade.\n\nIf you have 5 Predacons in bot mode > Combine them into Predaking, Ferocious Hunter. (A Combiner begins untapped, has all damage from the combined characters, and keep 1 Upgrade in each slot.)", 
         "Card #": "048/081", 
-        "Affiliation": "Decepticon", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/predacon%20enigma?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Combiners": [
           "rec8UcA84uBhTN9Ul"
@@ -12240,10 +12611,10 @@
             "size": 1291456
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 1, 
         "Card Text": "Scrap the top card of your deck. You may play that card.\n\nThen scrap another card from the top of your deck. You may play that card.\n\n(Your team and deck can have 25 [STARS] total.)", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/leap-of-faith?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "040/081", 
         "Artist/Illustrator(s)": "Casey W. Coller, Joana Lafuente"
@@ -12285,10 +12656,10 @@
             "size": 1064768
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
         "Card Text": "Scrap an enemy upgrade.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/vaporize?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "081/081", 
         "Artist/Illustrator(s)": "Sara Pitre-Durocher"
@@ -12330,11 +12701,11 @@
             "size": 411448
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When the upgraded character attacks and you flip at least [WHITE] > It gets +3 [ATK] until end of battle.", 
         "Card #": "020/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Uncommon"
       }, 
       "id": "recxxULSY3yw6r95W"
@@ -12375,10 +12746,10 @@
             "size": 1060722
           }
         ], 
+        "Faction": "Autobots", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "For each Autobot you have on the battlefield, put the top card of your deck into your KO area face up.\n\nIf your deck and scrap pile are empty > You win the game.", 
-        "Affiliation": "Autobot", 
         "Card #": "014/064"
       }, 
       "id": "recxztwsDYqSiLBrF"
@@ -12419,10 +12790,10 @@
             "size": 1069519
           }
         ], 
+        "Faction": "Mercenaries", 
         "Rarity": "Uncommon", 
         "\u2b50": 0, 
         "Card Text": "Scrap the top card of your deck. If it's an Upgrade, you may play it.", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/scrounge?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Card #": "056/081", 
         "Artist/Illustrator(s)": "Nick Roche"
@@ -12461,11 +12832,11 @@
             "size": 1327243
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "Put on Planes only.\n\nWhen the upgraded character is KO'd during your opponent's turn > Do damage equal to its [ATK] total to a tapped enemy.", 
         "Card #": "016/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/crash-landing?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
@@ -12507,10 +12878,10 @@
             "size": 1034788
           }
         ], 
+        "Faction": "Decepticons", 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "If you have Buzzsaw on the battlefield > Draw a card.\n\nIf you have Ravage on the battlefield > Do 1 damage to an enemy.\n\nIf you have Frenzy on that battlefield > Your opponent chooses one of their Armors and scraps it.", 
-        "Affiliation": "Decepticon", 
         "Card #": "001/007"
       }, 
       "id": "recypEO6qbdTXLXbK"
@@ -12550,12 +12921,12 @@
             "size": 1206217
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Armor", 
         "\u2b50": 0, 
         "\ud83d\udee1\ufe0f\u0394": 1, 
         "Card #": "004/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/armored-plating?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Andrew Wildman, Stephen Baskerville"
@@ -12597,13 +12968,13 @@
             "size": 1050159
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 3, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "(A character's [DEF] can't go below 0.)", 
         "\ud83d\udee1\ufe0f\u0394": -1, 
         "Card #": "025/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/erratic%20lightning?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Alex Milne"
@@ -12645,11 +13016,11 @@
             "size": 1025002
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "When you flip the upgraded character to another move > Draw a card.", 
         "Card #": "034/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Common"
       }, 
       "id": "reczASQlTOI8lab4g"
@@ -12689,11 +13060,11 @@
             "size": 1100986
           }
         ], 
+        "Faction": "Autobots", 
         "Sub-Type": "Secret", 
         "\u2b50": 1, 
         "Card Text": "Reveal > If one of your Autobots would take enough attack damage to be KO'd.\n\nWhen Revealed > Instead that character takes enough attack damage to be at 1 [HP]. THen put this card in your KO area.", 
         "Card #": "026/064", 
-        "Affiliation": "Autobot", 
         "Rarity": "Uncommon"
       }, 
       "id": "reczFO6rhuDmheiwk"
@@ -12733,11 +13104,11 @@
             "size": 1096248
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put only on characters that have 7 [STARS] or fewer.\n\nPierce 3 (Do at least 3 damage when attacking, but not more than [ATK] total. Pierce numbers add together.)", 
         "Card #": "035/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "reczfhOTN5OfHOwi7"
@@ -12777,13 +13148,13 @@
             "size": 312109
           }
         ], 
+        "Faction": "Mercenaries", 
         "\u2694\ufe0f\u0394": 1, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "When you put this on a character > Scrap an enemy Armor. If you can't, draw a card.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "026/081", 
-        "Affiliation": "Neutral", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/drill-arms?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
         "Artist/Illustrator(s)": "Guido Guidi"
@@ -12825,11 +13196,11 @@
             "size": 1364528
           }
         ], 
+        "Faction": "Mercenaries", 
         "Sub-Type": "Secret", 
         "\u2b50": 0, 
         "Card Text": "Reveal > When one of your characters is KO'd.\n\nWhen Revealed > Instead of scrapping that character's Upgrades, you may put any number of them onto one of your other characters.", 
         "Card #": "051/064", 
-        "Affiliation": "Neutral", 
         "Rarity": "Rare"
       }, 
       "id": "reczxtT99MLUkLkKw"
@@ -12869,13 +13240,13 @@
             "size": 1380005
           }
         ], 
+        "Faction": "Autobots", 
         "\u2694\ufe0f\u0394": 0, 
         "Sub-Type": "Weapon", 
         "\u2b50": 0, 
         "Card Text": "Put on Aerialbots only.\n\nThe upgraded character has +1 [ATK] for each of your other tapped Aerialbots.", 
         "\ud83d\udee1\ufe0f\u0394": 0, 
         "Card #": "002/081", 
-        "Affiliation": "Autobot", 
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/rise-of-the-combiners/aerialbot%20formation?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
         "Artist/Illustrator(s)": "Andrew Griffith"
