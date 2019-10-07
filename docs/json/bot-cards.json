@@ -2529,15 +2529,79 @@
     {
       "createdTime": "2019-09-27T01:50:50.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Sports Card Patrol \u2022 Patrol Leader", 
+        "Name": "Raider Blackjack", 
+        "Faction": "Decepticons", 
+        "Alt Type(s)": [
+          "Car"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T29/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 5, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nWhen one of your Sports Car Patrols becomes untapped > Repair 1 damage from it.\n\nBot Mode:\n\nThis has +1 [ATK] and +1 [DEF] for each Sports Car Patrol in your KO area.", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a69d94b098781ed0368e71b6b61641f2/bf9b0320", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/af66bd35efb7bcdee5085a50937dcc56/cb259163", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c3594595443bf50e91b81fafbc5659f1/6025544c", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/c031fb9cdcab5916e6850da5257292c4/2c639aca/blackjack-b.png", 
+            "filename": "blackjack-b.png", 
+            "type": "image/png", 
+            "id": "attU4j9WsU3Oib3fa", 
+            "size": 1442296
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1017bd5e27d94fec7c586946fa8ede53/df5edbef", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/68afae2e43e69155d71ee7f4b6405440/d3e10a48", 
+                "width": 512, 
+                "height": 716
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5e357d64770e665ddace599e2aa9ef85/a4525c82", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/53b1d694eac2c1e6f6a128ae89c90950/e3974d47/blackjack-a.png", 
+            "filename": "blackjack-a.png", 
+            "type": "image/png", 
+            "id": "attOn2XjSFpwm69A5", 
+            "size": 1374538
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Sports Car Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Leader", 
+          "Melee"
+        ]
       }, 
       "id": "recCLSUF7eguy5IUM"
     }, 

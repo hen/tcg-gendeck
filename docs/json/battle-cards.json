@@ -7793,10 +7793,45 @@
     {
       "createdTime": "2019-09-24T22:15:24.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "008/064"
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\u2b1b"
+        ], 
+        "Name": "Composite Armor", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9ad4e52fcfa1e2ca2b7ae365f0d6be80/d5d7e8fb", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4af91ee2e5402a787cca2325641a25a4/b1b3c7d5", 
+                "width": 402, 
+                "height": 562
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f08014c0475b46d43aaa830149dff0fc/16810e61", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3bbe7bcfff990d8127abe06c6da8e89d/966b2a3c/compositearmor.png", 
+            "filename": "compositearmor.png", 
+            "type": "image/png", 
+            "id": "attS1pQKDDvr2albD", 
+            "size": 380410
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "Put on Tanks only.\n\nWhen the upgraded characater defends > Scrap this card after the battle. Then, if you flipped at least [BLACK] that battle, do 1 damage to the attacker.", 
+        "Card #": "008/064", 
+        "Rarity": "Rare"
       }, 
       "id": "reca0IKgRZP2lCBKh"
     }, 
