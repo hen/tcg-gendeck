@@ -8344,7 +8344,7 @@
           "\ud83d\udcd7"
         ], 
         "Name": "Pocket Processor", 
-        "Faction": "Mercenaries", 
+        "Card Type": "Upgrade", 
         "Image": [
           {
             "thumbnails": {
@@ -8371,12 +8371,12 @@
             "size": 847432
           }
         ], 
-        "Card Type": "Upgrade", 
-        "Card #": "046/064", 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Utility", 
         "\u2b50": 0, 
         "Card Text": "At the start of your turn > Draw a card.", 
-        "Rarity": "Rare", 
-        "Sub-Type": "Utility"
+        "Card #": "046/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recbsw9NSKp8OkOcc"
     }, 

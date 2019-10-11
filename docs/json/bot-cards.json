@@ -5742,11 +5742,11 @@
             "size": 346616
           }
         ], 
-        "Rarity": "Common", 
         "Alt\u2694\ufe0f": 0, 
         "Tribe": [
           "Spy Patrol"
         ], 
+        "Rarity": "Common", 
         "Role(s)": [
           "Melee"
         ]
@@ -6239,58 +6239,10 @@
           "Weaponizer"
         ], 
         "Bot\ud83d\udee1\ufe0f": 1, 
-        "Card #": "T09&T10/T52", 
+        "Card #": "T09/T52", 
         "\u2b50": 9, 
         "Card Text": "Bot Mode:\n\nWhen this attacks > You may scrap a Weapon from your hand that has +[ATK] in it's stat box. If you do, this gets that much +[ATK] until end of turn.\n(A Weaponizer begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nMTX-M2 Anti-Gravity Cannon // Upgrade - Weapon\n+1[ATK]\n\nPlay this only with MTX-52A Guided Missle Launcher. They start the game assembled as Sergeant Six-Gun.\n\nPierce 4\n\nIf this would leave the battlefield > Put it into your KO area instead.\n\n\nUpgrade Mode:\nMTX-52A Guided Missle Launcher // Upgrade - Weapon\n+3[ATK]\n\nPlay this only with MTX-M2 Anti-Gravity Cannon. They start the game assembled as Sergeant Six-Gun.\n\nThis can be in an Armor or Utility slot.\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
         "Image(s)": [
-          {
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/686b197a9144d4bc7ffdfc9d54321224/288af865", 
-                "width": 26, 
-                "height": 36
-              }, 
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/e1d159a4695949526014e489c97180ea/1af1b7c2", 
-                "width": 167, 
-                "height": 235
-              }, 
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/1e940898076c50a30fdfbe4eee8037ba/6255cf87", 
-                "width": 3000, 
-                "height": 3000
-              }
-            }, 
-            "url": "https://dl.airtable.com/.attachments/df509c89308d3d13dfa2ff11ff3675c7/48954421/sixgun-b.png", 
-            "filename": "sixgun-b.png", 
-            "type": "image/png", 
-            "id": "attMqZ2zgz8Q2AK0U", 
-            "size": 88671
-          }, 
-          {
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/d1fcda6f80de2b4fc93426cdc10bfc9c/32c3e5d2", 
-                "width": 26, 
-                "height": 36
-              }, 
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/2c16b555ba219c5e15a4682261c03b54/1ae802f6", 
-                "width": 168, 
-                "height": 235
-              }, 
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/16a25bb1245a3422cd9b933479efa9bb/dc3ae34e", 
-                "width": 3000, 
-                "height": 3000
-              }
-            }, 
-            "url": "https://dl.airtable.com/.attachments/3d7b21987816180e38030ce584965805/a2880ff8/sixgun-a.png", 
-            "filename": "sixgun-a.png", 
-            "type": "image/png", 
-            "id": "attXo3wyUhihHJK9n", 
-            "size": 91772
-          }, 
           {
             "thumbnails": {
               "small": {
@@ -6314,6 +6266,30 @@
             "type": "image/png", 
             "id": "attorvKJR7XTn22nE", 
             "size": 196440
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/686b197a9144d4bc7ffdfc9d54321224/288af865", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e1d159a4695949526014e489c97180ea/1af1b7c2", 
+                "width": 167, 
+                "height": 235
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1e940898076c50a30fdfbe4eee8037ba/6255cf87", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/df509c89308d3d13dfa2ff11ff3675c7/48954421/sixgun-b.png", 
+            "filename": "sixgun-b.png", 
+            "type": "image/png", 
+            "id": "attMqZ2zgz8Q2AK0U", 
+            "size": 88671
           }
         ], 
         "Rarity": "Rare", 
@@ -8699,13 +8675,13 @@
         "Subtitle": "Ground Force \u2022 Demolitions", 
         "Name": "Raider Needler", 
         "Faction": "Decepticons", 
-        "Card Text": "Bot Mode:\n\nEnemy characters can't be repaired.\n\n(A Battle Master begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nSteelbite Incisor Mask // Upgrade - Armor\n+2 [DEF]\n\nPierce 2 (Do at least 2 damage when attacking, but not more than [ATK] total.)\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
-        "Bot\ud83d\udee1\ufe0f": 1, 
-        "Card #": "T34/T52", 
-        "\u2b50": 7, 
         "Alt Type(s)": [
           "Battle Master"
         ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "T34/T52", 
+        "\u2b50": 7, 
+        "Card Text": "Bot Mode:\n\nEnemy characters can't be repaired.\n\n(A Battle Master begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nSteelbite Incisor Mask // Upgrade - Armor\n+2 [DEF]\n\nPierce 2 (Do at least 2 damage when attacking, but not more than [ATK] total.)\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
         "Image(s)": [
           {
             "thumbnails": {
@@ -16251,58 +16227,10 @@
           "Weaponizer"
         ], 
         "Bot\ud83d\udee1\ufe0f": 2, 
-        "Card #": "T51&T52/T52", 
+        "Card #": "T51/T52", 
         "\u2b50": 11, 
         "Card Text": "Bot Mode:\n\nEach enemy's Bold total and Tough total can't be more than 1.\n(A Weaponizer begins in bot mode and can't flip. When it's KO'd, play its upgrade sides.\n\nUpgrade Mode:\nTTC-HD Turret Armor // Upgrade - Armor\n+2 [DEF]\n\nPlay this only with TTC-HP Oblivio Launcher. They start the game assembled as Raider Brunt.\n\nTough 1 (Flip 1 more battle card when defending.)\nIf this would leave the battlefield > Put it into your KO area instead.\n\nUpgrade Mode:\nTTC-HP Oblivio Launcher // Upgrade - Weapon\n+3 [ATK]\n\nPlay this only with TTC-HD Turret Armor. They start the game assembled as Raider Brunt.\n\nBold 1 (Flip 1 more battle card when attacking.)\n\nIf this would leave the battlefield > Put into your KO area instead.", 
         "Image(s)": [
-          {
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/f84ce4c00731eded21a62396b1c250ec/7660d070", 
-                "width": 26, 
-                "height": 36
-              }, 
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/a177dd9e24f1ae8eda075c8ec19a8af4/2457c6d9", 
-                "width": 512, 
-                "height": 714
-              }, 
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/090327c2d562ce124742f5469bc574e7/8f3cfaf2", 
-                "width": 3000, 
-                "height": 3000
-              }
-            }, 
-            "url": "https://dl.airtable.com/.attachments/43e5c06ff561fbd25706a6f266e711c9/5b4ec83d/brunt-b.png", 
-            "filename": "brunt-b.png", 
-            "type": "image/png", 
-            "id": "attULUJvqTH8zBi0X", 
-            "size": 1171813
-          }, 
-          {
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/86eee2ea0bc58a440134fdd0705fbab3/8fdc40a0", 
-                "width": 26, 
-                "height": 36
-              }, 
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/9ed0f6db8cc18bc581d5c52025570b12/37d8d9ef", 
-                "width": 512, 
-                "height": 714
-              }, 
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/cfa5f79bc4cf953971fbfedaa90c3f33/c18bcd29", 
-                "width": 3000, 
-                "height": 3000
-              }
-            }, 
-            "url": "https://dl.airtable.com/.attachments/a6a668caf8c75094f02d35921005df52/b165f129/brunt-a.png", 
-            "filename": "brunt-a.png", 
-            "type": "image/png", 
-            "id": "attFvYo36dCjV2GSK", 
-            "size": 1174191
-          }, 
           {
             "thumbnails": {
               "small": {
@@ -16326,6 +16254,30 @@
             "type": "image/png", 
             "id": "atthuKwvGXHjqPlt2", 
             "size": 3043196
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f84ce4c00731eded21a62396b1c250ec/7660d070", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a177dd9e24f1ae8eda075c8ec19a8af4/2457c6d9", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/090327c2d562ce124742f5469bc574e7/8f3cfaf2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/43e5c06ff561fbd25706a6f266e711c9/5b4ec83d/brunt-b.png", 
+            "filename": "brunt-b.png", 
+            "type": "image/png", 
+            "id": "attULUJvqTH8zBi0X", 
+            "size": 1171813
           }
         ], 
         "Rarity": "Rare", 
@@ -16726,6 +16678,152 @@
         ]
       }, 
       "id": "reczwcmuKKof9MSQB"
+    }, 
+    {
+      "createdTime": "2019-09-20T23:34:17.000Z", 
+      "fields": {
+        "\ud83e\udde1": 10, 
+        "Bot\u2694\ufe0f": 4, 
+        "Set": "Wave 4", 
+        "Subtitle": "Artillery \u2022 Soldier", 
+        "Name": "Sergeant Six-Gun", 
+        "Faction": "Autobots", 
+        "Card Text": "Bot Mode:\n\nWhen this attacks > You may scrap a Weapon from your hand that has +[ATK] in it's stat box. If you do, this gets that much +[ATK] until end of turn.\n(A Weaponizer begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nMTX-M2 Anti-Gravity Cannon // Upgrade - Weapon\n+1[ATK]\n\nPlay this only with MTX-52A Guided Missle Launcher. They start the game assembled as Sergeant Six-Gun.\n\nPierce 4\n\nIf this would leave the battlefield > Put it into your KO area instead.\n\n\nUpgrade Mode:\nMTX-52A Guided Missle Launcher // Upgrade - Weapon\n+3[ATK]\n\nPlay this only with MTX-M2 Anti-Gravity Cannon. They start the game assembled as Sergeant Six-Gun.\n\nThis can be in an Armor or Utility slot.\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
+        "Bot\ud83d\udee1\ufe0f": 1, 
+        "Card #": "T10/T52", 
+        "\u2b50": 9, 
+        "Alt Type(s)": [
+          "Weaponizer"
+        ], 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/260f362a319f70be9ca5d89cc5109ae3/39106efb", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7bd579724dde295c4715d98b63eed06d/1e2cbe69", 
+                "width": 235, 
+                "height": 336
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6ef306794fcacdb2641853c3bdffecc7/335c5ddf", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/f9f03146c465329687a429fd6b3a270c/322e6a31/sixgun.png", 
+            "filename": "sixgun.png", 
+            "type": "image/png", 
+            "id": "attorvKJR7XTn22nE", 
+            "size": 196440
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d1fcda6f80de2b4fc93426cdc10bfc9c/32c3e5d2", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2c16b555ba219c5e15a4682261c03b54/1ae802f6", 
+                "width": 168, 
+                "height": 235
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/16a25bb1245a3422cd9b933479efa9bb/dc3ae34e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3d7b21987816180e38030ce584965805/a2880ff8/sixgun-a.png", 
+            "filename": "sixgun-a.png", 
+            "type": "image/png", 
+            "id": "attXo3wyUhihHJK9n", 
+            "size": 91772
+          }
+        ], 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
+      }, 
+      "id": "recP1YYXZv0Cco2VL"
+    }, 
+    {
+      "createdTime": "2019-09-20T23:26:43.000Z", 
+      "fields": {
+        "\ud83e\udde1": 10, 
+        "Bot\u2694\ufe0f": 3, 
+        "Set": "Wave 4", 
+        "Subtitle": "Weapons \u2022 Soldier", 
+        "Name": "Raider Brunt", 
+        "Faction": "Decepticons", 
+        "Card Text": "Bot Mode:\n\nEach enemy's Bold total and Tough total can't be more than 1.\n(A Weaponizer begins in bot mode and can't flip. When it's KO'd, play its upgrade sides.\n\nUpgrade Mode:\nTTC-HD Turret Armor // Upgrade - Armor\n+2 [DEF]\n\nPlay this only with TTC-HP Oblivio Launcher. They start the game assembled as Raider Brunt.\n\nTough 1 (Flip 1 more battle card when defending.)\nIf this would leave the battlefield > Put it into your KO area instead.\n\nUpgrade Mode:\nTTC-HP Oblivio Launcher // Upgrade - Weapon\n+3 [ATK]\n\nPlay this only with TTC-HD Turret Armor. They start the game assembled as Raider Brunt.\n\nBold 1 (Flip 1 more battle card when attacking.)\n\nIf this would leave the battlefield > Put into your KO area instead.", 
+        "Bot\ud83d\udee1\ufe0f": 2, 
+        "Card #": "T52/T52", 
+        "\u2b50": 11, 
+        "Alt Type(s)": [
+          "Weaponizer"
+        ], 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d8986c3331bdeb4e87ac687bd51ade7c/b7c8c95e", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/67f40aaf57a9d71e601ff15ddd673ad4/8c4a6bdd", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/61011f777fc00aadc002200a349207f7/7d573a9f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/2a4f4b31998f1f23a00062b88444f98e/06688c2b/raiderbrunt.png", 
+            "filename": "raiderbrunt.png", 
+            "type": "image/png", 
+            "id": "atthuKwvGXHjqPlt2", 
+            "size": 3043196
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/86eee2ea0bc58a440134fdd0705fbab3/8fdc40a0", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9ed0f6db8cc18bc581d5c52025570b12/37d8d9ef", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cfa5f79bc4cf953971fbfedaa90c3f33/c18bcd29", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/a6a668caf8c75094f02d35921005df52/b165f129/brunt-a.png", 
+            "filename": "brunt-a.png", 
+            "type": "image/png", 
+            "id": "attFvYo36dCjV2GSK", 
+            "size": 1174191
+          }
+        ], 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
+      }, 
+      "id": "recycloWg1pXN9USc"
     }
   ]
 }
