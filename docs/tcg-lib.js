@@ -20,7 +20,7 @@ function random_from(array) {
 //  Wave 3:    Super Rare is 1:50, Uncommon-Small is 1:5.
 //  Wave 3:    Rare is? 1:10?  Uncommon is?  1:3?
 //  Wave 4:    Super Rare is 1:50, Uncommon-Small is 1:3.    (1:3 means 1 X card for every 3 Y cards; I think)
-//  Wave 4:    Rare is?   Uncommon is?
+//  Wave 4:    Rare is?   Uncommon is?   Rare-Small is?  (assuming 1:10 for Rare-Small)
 
 // Matches order of array values below
 var rarities = ['Common', 'Uncommon', 'Rare', 'Super-Rare']
@@ -35,7 +35,7 @@ var small_ratios={
   'Wave 1': null,
   'Wave 2': null,
   'Wave 3': [1, 6],                 // Equivalent of 1:3
-  'Wave 4': [1, 4]                  // Equivalent of 1:3
+  'Wave 4': [1, 16, 20]                  // Equivalent of 1:3:10
 };
 var battle_card_makeup={
   'Wave 1': [4, 2, 1],
@@ -85,6 +85,13 @@ function is_small_bot_card(card) {
         return;
       }
     });
+  }
+  if(card.fields.Set=='Wave 4') {
+    if(card.fields['Alt Type(s)']) {
+      if(card.fields['Alt Type(s)'].includes('Weaponizer')) {
+        small = true;
+      }
+    }
   }
   return small;
 }
