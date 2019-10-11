@@ -8339,10 +8339,44 @@
     {
       "createdTime": "2019-09-24T22:29:31.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "046/064"
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Pocket Processor", 
+        "Faction": "Mercenaries", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/239678f56d3e5e00fb634400b1812f0d/44c0e7f3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/788acac1a5fd6126881ae4de2732308c/3f9be30d", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5fbd3da867915fa6e53d4027164b9542/8a92d63b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6006e7964911dc57543a338cb68ae3d9/225dfdea/pocketprocessor.png", 
+            "filename": "pocketprocessor.png", 
+            "type": "image/png", 
+            "id": "attfie9GLnu1caZxX", 
+            "size": 847432
+          }
+        ], 
+        "Card Type": "Upgrade", 
+        "Card #": "046/064", 
+        "\u2b50": 0, 
+        "Card Text": "At the start of your turn > Draw a card.", 
+        "Rarity": "Rare", 
+        "Sub-Type": "Utility"
       }, 
       "id": "recbsw9NSKp8OkOcc"
     }, 

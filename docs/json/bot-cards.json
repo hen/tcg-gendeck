@@ -5681,15 +5681,75 @@
     {
       "createdTime": "2019-09-27T01:51:55.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 11, 
+        "Bot\u2694\ufe0f": 4, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
+        "Subtitle": "Spy Patrol \u2022 Demolitions", 
+        "Name": "Raider Rumble", 
+        "Faction": "Decepticons", 
         "Bot\ud83d\udee1\ufe0f": 0, 
         "Card #": "T38/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 6, 
+        "Card Text": "Alt Mode:\n\nRevenge > Do 2 damage to an enemy. (Use a character's Revenge abilities when it's KO'd.)\n\nBot Mode:\n\n[TAP] > Return an Upgrade on a character to its owner's hand.\n(To [TAP], tap this character before you attack.)", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f9b1ae91f4c93f256f6b85e76f613376/167ea66f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/494ad94907a9ff6462b25954d44db803/dac83893", 
+                "width": 335, 
+                "height": 467
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3f76d01a9729ff442cf5dd5cb703caed/27fe451a", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/c61bd7a81e4e5a594bc04b302005c567/51ab61fe/rumble-b.png", 
+            "filename": "rumble-b.png", 
+            "type": "image/png", 
+            "id": "attbpGUI3hT5JphQo", 
+            "size": 367844
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d6cbe803c6aee4582f5df2430086c2ce/4d1201f4", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bec714d03c077ac6504ef90ba158581c/b673c339", 
+                "width": 333, 
+                "height": 466
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/175105f3f18595120f0e12ca8540ac8a/a5fec7de", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/c4cc495c5e003ed525fc69cb431e7279/cd38eeab/rumble-a.png", 
+            "filename": "rumble-a.png", 
+            "type": "image/png", 
+            "id": "attYjIIdGRqKIf8A0", 
+            "size": 346616
+          }
+        ], 
+        "Rarity": "Common", 
+        "Alt\u2694\ufe0f": 0, 
+        "Tribe": [
+          "Spy Patrol"
+        ], 
+        "Role(s)": [
+          "Melee"
+        ]
       }, 
       "id": "recNMO8EHJnTt211m"
     }, 
@@ -8633,15 +8693,73 @@
     {
       "createdTime": "2019-09-27T01:51:31.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 10, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Ground Force \u2022 Demolitions", 
+        "Name": "Raider Needler", 
+        "Faction": "Decepticons", 
+        "Card Text": "Bot Mode:\n\nEnemy characters can't be repaired.\n\n(A Battle Master begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nSteelbite Incisor Mask // Upgrade - Armor\n+2 [DEF]\n\nPierce 2 (Do at least 2 damage when attacking, but not more than [ATK] total.)\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T34/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 7, 
+        "Alt Type(s)": [
+          "Battle Master"
+        ], 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9032a931161a46b430a28430c9ec2fef/988a464f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3cf27941e67a747791d689ed08f20455/ce03d1c3", 
+                "width": 512, 
+                "height": 717
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/297b8b6047909bbf42413118e4e183ac/6625d8c2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/e8ec08a3b02f45c45903d44603736664/cf74f2a1/needler-b.png", 
+            "filename": "needler-b.png", 
+            "type": "image/png", 
+            "id": "attaqiGX86WKsNoaX", 
+            "size": 1379059
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d4a2f2192c6264be9a1566ab955d6187/b8d3395c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e3738a4cf1182cffd09da0e313c76f62/f769154b", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1398b251291e2ccfca7b8cba705b5d9d/8493014d", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/04489585b54fa018c1a628b6822f346d/4730efa5/needler-a.png", 
+            "filename": "needler-a.png", 
+            "type": "image/png", 
+            "id": "attGfr5ZN204lAABL", 
+            "size": 1724608
+          }
+        ], 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Melee"
+        ]
       }, 
       "id": "recX3hI2OcgZnr1tu"
     }, 
