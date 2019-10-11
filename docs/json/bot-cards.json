@@ -5272,15 +5272,73 @@
     {
       "createdTime": "2019-09-27T01:51:00.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Air Force \u2022 Weapons", 
+        "Name": "Raider Caliburst", 
+        "Faction": "Decepticons", 
+        "Alt Type(s)": [
+          "Battle Master"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T30/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 6, 
+        "Card Text": "Bot Mode:\n\nWhen your opponent draws a card, if they'be already drawn a card this turn > Your opponent chooses one of their characters and does 1 damage to it.\n\n(A Battle Master begins in bot mode and can't flip. When it's KO'd, play its Upgrade side.)\n\nUpgrade Mode:\nOxidation Cannon // Upgrade - Weapon\n+3 [ATK]\n\nWhen the upgraded character attacks and your opponent has more cards in hand than you > Your opponent chooses a card form their hand and scraps it. Then you draw a cardd.\n\nIf this would leave the battlefield > Put it into your KO area instead.", 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b0e0e4d4626c79f4881b9dbdf964c1ce/9bec285f", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4a8ed9c33d3bdc1cc9b5d13c992f7527/7d0e1939", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ea76dc0117e55b9995b67766ddd78d55/7007fcdc", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/0fa32ca60538e8fcdbdc81689e1c15bd/7f8acd7b/caliburst-b.png", 
+            "filename": "caliburst-b.png", 
+            "type": "image/png", 
+            "id": "att0EF87xwE6uLMUS", 
+            "size": 1030854
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/06ded948f664e209950a309662f18713/2faec63c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/775912bae60e71407469fe052ac6efe2/b436f3cb", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/821320632a4650435eeef3d0ce49ffec/5e2ae0bd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/7dbf083bbbef138a9d45f204b2661a9c/ccfcd026/caliburst-a.png", 
+            "filename": "caliburst-a.png", 
+            "type": "image/png", 
+            "id": "attlthMBQVdA703YN", 
+            "size": 1344242
+          }
+        ], 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recLwYBv3qGHQq9nV"
     }, 
@@ -9196,15 +9254,78 @@
     {
       "createdTime": "2019-09-27T01:50:31.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Battle Patrol \u2022 Air Defense", 
+        "Name": "Private Sunrunner", 
+        "Faction": "Autobots", 
+        "Alt Type(s)": [
+          "Plane"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T25/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 5, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nWhen one of your Battle Patrols become tapped > Do 1 damage to a tapped enemy.\n\nBot Mode:\n\nThis has +1 [ATK] and +1 [DEF] for each Battle Patrol in your KO area.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4072f07c6a158d27394c46a462b8101d/325fd71e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2834ad4ec3bc056ac74389d6c510b4b8/b97cae6b", 
+                "width": 512, 
+                "height": 717
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b5450fc502e0bd199269e426bf51705f/49a2bf0d", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/9b4defdf352b72364907233b9aeb0215/f01a6496/sunrunner-b.png", 
+            "filename": "sunrunner-b.png", 
+            "type": "image/png", 
+            "id": "attMtvgE8BoHffuby", 
+            "size": 855757
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1abd69d4b08ba6e03c425957e7bdc342/7ee8a439", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b8b6518ac1c26a719943bdb36255987/e0a4ddce", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b034128a136501276e60f4760dd62f64/60ffb869", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/d4d360dc9413921bed6e9b815946057c/a800c184/sunrunner-a.png", 
+            "filename": "sunrunner-a.png", 
+            "type": "image/png", 
+            "id": "att9KdwOwrSfnDctX", 
+            "size": 841825
+          }
+        ], 
+        "Alt\u2694\ufe0f": 2, 
+        "Tribe": [
+          "Battle Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recZ9Jt1cIHZsHRoP"
     }, 
