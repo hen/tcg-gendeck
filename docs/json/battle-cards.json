@@ -9293,10 +9293,44 @@
     {
       "createdTime": "2019-09-24T22:31:01.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "056/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Step Forward", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/15e12d4f530cc263b64e95f034e20453/66d7a311", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7f9d3ed75170ec0e2aeab0a417763c1a/57979220", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9848d01dd02681fda44ed621960af4ec/dc9e9de6", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/dfc3d9e9912fbeca8ab04655df4d3e7d/56f24859/stepforward.png", 
+            "filename": "stepforward.png", 
+            "type": "image/png", 
+            "id": "attCVQ4vMjv9w6QJI", 
+            "size": 1146628
+          }
+        ], 
+        "Faction": "Autobots", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > After your opponent chooses an attacker and before they choose a defender.\n\nWhen Revealed > One of your Autobots gets Brave until end of battle. (Enemies attack it if able.)", 
+        "Card #": "056/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recgiOPAnDdb1ws41"
     }, 
@@ -9762,6 +9796,9 @@
           }
         ], 
         "Faction": "Autobots", 
+        "Format Bans": [
+          "recjxrGlbIZwzKIDr"
+        ], 
         "Rarity": "Rare", 
         "\u2b50": 0, 
         "Card Text": "Choose one of your Autobots. It gets +2 [ATK] until end of turn.\n\nChoose an enemy Decepticon. It gets -2 [DEF] until end of turn. (A character's [DEF] can't go below 0.)", 
@@ -11967,10 +12004,44 @@
     {
       "createdTime": "2019-09-24T22:30:51.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "055/064"
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "Stable Cover", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dd897e7ced133991d64b22ec6be04876/a9f13a9e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/94646c580fa068b4433a8d8ba924a38c/e5f5df32", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/182f57325024a5e7b39302eb67f577aa/592cee2f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6b889bc7180105c212aff1a36c1aaae9/3b1a725e/stablecover.png", 
+            "filename": "stablecover.png", 
+            "type": "image/png", 
+            "id": "attG2tmC89PCzmQsZ", 
+            "size": 898558
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When one of your characater defends.\n\nWhen Revealed > That character gets +1 [DEF] until end of battle. The attacker can't use Pierce this battle.", 
+        "Card #": "055/064", 
+        "Rarity": "Common"
       }, 
       "id": "recsR7t8X15TreCPg"
     }, 

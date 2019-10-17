@@ -816,15 +816,75 @@
     {
       "createdTime": "2019-09-27T01:52:38.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 16, 
+        "Bot\u2694\ufe0f": 6, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Weapons \u2022 Arms Dealer", 
+        "Name": "Sergeant Soundblaster", 
+        "Faction": "Decepticons", 
+        "Alt Type(s)": [
+          "Spaceship"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T45/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 12, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > You may move a Weapon from this character to one of your other characters. If you do, that characater gets +1 [ATK] until end of turn.\n\nBot Mode:\n\nWhen this attacks > You may play a [BLACK] Weapon from your scrap pile onto this.", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4334abc33d637757a7a9879d9a78d244/ae15c2e2", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8bb4657afdd07cb3d0a306dd7c540457/9b1aa641", 
+                "width": 449, 
+                "height": 643
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/36ecca90786b72116da2d63cc503da43/d968cb49", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5b13e25927786b8e7493c72e7064b2e0/cb3d4084/soundblaster-b.png", 
+            "filename": "soundblaster-b.png", 
+            "type": "image/png", 
+            "id": "attLmnIVoSt1WZmPm", 
+            "size": 571461
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e02b7b080edf2b4839e84f193b90994f/db3050f7", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a94f702d392906a93707d7265191cdac/b3e72f5a", 
+                "width": 449, 
+                "height": 643
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3a188bc3da5619cb4edb3db5aa18711d/79b003a7", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/0d4f8c7571279be3d6e79a322ace1caa/f34a5163/soundblaster-a.png", 
+            "filename": "soundblaster-a.png", 
+            "type": "image/png", 
+            "id": "attHPtxQ9O62SuAiH", 
+            "size": 573520
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Rarity": "Super-Rare", 
+        "Role(s)": [
+          "Specialist"
+        ]
       }, 
       "id": "rec2Riwm65kSZo4w4"
     }, 
@@ -4721,15 +4781,78 @@
     {
       "createdTime": "2019-09-27T01:51:39.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 7, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Air Strike Patrol \u2022 Spy", 
+        "Name": "Raider Nightflight", 
+        "Faction": "Decepticons", 
+        "Alt Type(s)": [
+          "Plane"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T35/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 4, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nBot Mode:\n\n[TAP], Scrap 3 [GREEN] cards from your hand > Your opponent chooses one of their characters and does 3 damage to it. If your 3 scrapped cards have the same name, repair 3 damage from one of your characters.\n(To [TAP], tap this character before you attack.)", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8c7d3841f8ac2233ffb2610ef015ad5d/664fdd1c", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9dd25bc8668a5169bf54490ab21b9b91/3a370c34", 
+                "width": 512, 
+                "height": 716
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ca43a5a31f97076a7695a69a84b61abb/cd6c39ce", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/1b9c31873aa82547a462c1b6537ea204/8f6a3133/nightflight-b.png", 
+            "filename": "nightflight-b.png", 
+            "type": "image/png", 
+            "id": "attGPUW53MN4HaA9I", 
+            "size": 841614
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/aa9889b44db9734ec7ca47d15e763420/4f892cc3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bfbd8562c9499c46d6fb5820f7359969/17acc54d", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/51b7d23d3a963f578b7436cc76210f85/6b2fa868", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/59cf39c6a20a2c4fcd0518cb47fa6127/2b027023/nightflight-a.png", 
+            "filename": "nightflight-a.png", 
+            "type": "image/png", 
+            "id": "attcxLMXM0EpMw4S7", 
+            "size": 798576
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Air Strike Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recIziVeGc2DcDLCo"
     }, 
@@ -5136,50 +5259,50 @@
           {
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/3b354d317aa808a6b5573a64eb2ef45e/33d0f15f", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/23d8b70f3a8645bcdc18d75780390b51/37383679", 
                 "width": 25, 
                 "height": 36
               }, 
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/69a2d825fff9cfed23cc3d27f4eb6cdd/17582a35", 
-                "width": 512, 
-                "height": 733
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eb15061afe2b94a5a20ff37e1069b594/1192ecf3", 
+                "width": 483, 
+                "height": 694
               }, 
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/30bde87797576f8af9c8cc97169d713d/d20fe3e2", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/18b5782f61a31d59879570fd52a3cc2c/2a30fac0", 
                 "width": 3000, 
                 "height": 3000
               }
             }, 
-            "url": "https://dl.airtable.com/.attachments/3a83312b079f8ebb1a15df038c0774b4/66fc511b/nightbird-b.png", 
+            "url": "https://dl.airtable.com/.attachments/88298939c7f864ce404f5ad1e0fb46da/60bbc5da/nightbird-b.png", 
             "filename": "nightbird-b.png", 
             "type": "image/png", 
-            "id": "attR1lIWNHup0dOu5", 
-            "size": 3875049
+            "id": "attEt35q576Nxd1Gp", 
+            "size": 683045
           }, 
           {
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/5a3c1cd7488b22b0bca0725cb977a26d/82812d58", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fe256f9f972f67d19d869e8653860706/f1d7268a", 
                 "width": 25, 
                 "height": 36
               }, 
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/3f2cb88364b561aefbbb0e67e4f143d9/01693a7b", 
-                "width": 512, 
-                "height": 744
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2714e2faae0840676bdf390a1a0e7e3a/6116cc86", 
+                "width": 483, 
+                "height": 694
               }, 
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/9822b909c950fe120529d045b27f0c8b/2d212d68", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1001191a588f3749786c367efaf83a3e/36da1b40", 
                 "width": 3000, 
                 "height": 3000
               }
             }, 
-            "url": "https://dl.airtable.com/.attachments/ac79597eb9ff308b9d4535cfc8c4bfc3/50791e93/nightbird-a.png", 
+            "url": "https://dl.airtable.com/.attachments/a76ce5e48a5c2479cd61267ce13629b7/44dc66bc/nightbird-a.png", 
             "filename": "nightbird-a.png", 
             "type": "image/png", 
-            "id": "attbMyLKDYExPuzou", 
-            "size": 3984310
+            "id": "attz0NLXQJWyRmBbg", 
+            "size": 645185
           }
         ], 
         "Alt\u2694\ufe0f": 4, 
@@ -5831,15 +5954,52 @@
     {
       "createdTime": "2019-09-27T01:53:02.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 10, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Special Ops \u2022 Soldier", 
+        "Name": "Skytread (Plane)", 
+        "Faction": "Decepticons", 
+        "Combiner Mode": [
+          "recwJ78hf7DXluMha"
+        ], 
+        "Alt Type(s)": [
+          "Plane"
+        ], 
         "Card #": "T48/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 6, 
+        "Card Text": "Revenge > If you have Skytread (Tank) on the battlefield or in your KO area, you may combine this with him into Raider Skytread. If you do, put the cards from your hand face down under Raider Skytread.\n(Use a character's Revenge abilities when it's KO'd.)", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4b9483d13ded6d154cf583c2eb795b3b/b05c291c", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9724b419bd798123ec5f6c04b822ed72/c1ee7b28", 
+                "width": 411, 
+                "height": 586
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2ee4960f830876dbafe5f30d09466e76/7124b625", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6fc82be04185b836e3affe117757a995/878525f2/skytread-plane.png", 
+            "filename": "skytread-plane.png", 
+            "type": "image/png", 
+            "id": "attmQaC3Os1vE6FFo", 
+            "size": 514658
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recNvmVpyhvIG1ZNI"
     }, 
@@ -6736,15 +6896,103 @@
     {
       "createdTime": "2019-09-27T01:50:42.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 14, 
+        "Bot\u2694\ufe0f": 5, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Espionage \u2022 Commando", 
+        "Name": "Raider Apeface", 
+        "Faction": "Decepticons", 
+        "Alt 2\u2694\ufe0f": 5, 
+        "Alt Type(s)": [
+          "Plane", 
+          "Beast"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T28/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 10, 
+        "Card Text": "Alt 1 Mode:\n\nWhile this is undamaged > He has Focus 1.\n(Before flipping battle cards when battling > Look at the top card of your deck. You may scrap it.)\n\nBot Mode:\n\nWhile this has 10 or more damage counters > He has Tough 3.\n(Flip 3 more battle cards when defending.)\n\nAlt 2 Mode:\n\nWhile this has 1 to 9 damage counters> He has Bold 2.\n(Flip 2 more battle cards when attacking.)", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e09269ac2142a1829fbfb92f667a4713/e8b2773d", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8be7cab4feb6ba6c4f81b5968b5852fa/5cdac0e2", 
+                "width": 323, 
+                "height": 449
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/578bb768a93f45a34abdc56510327b41/69a894e8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/63e15458c36459daa5c682105c4b4b52/3f937187/apeface-a2.png", 
+            "filename": "apeface-a2.png", 
+            "type": "image/png", 
+            "id": "att4Munetk3Q5kk97", 
+            "size": 318824
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6eaee7a81a7c9728a05553dd4a8ca7e2/e8e18da0", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e4dab7cb751a7199a0c891c0596d64a0/fd086bdd", 
+                "width": 449, 
+                "height": 643
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/81b5a82e38c211b2aca1ba25b4c144bf/bae8d2cd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/757467e1d1936cfd06a3c645c4898f47/3875be55/apeface-b.png", 
+            "filename": "apeface-b.png", 
+            "type": "image/png", 
+            "id": "attcN2lJIulh3kD8R", 
+            "size": 566333
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4c3c7ad60464ef6c5d2ad3912df68d29/445edcf7", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/144cd4c643580333643268ab349134e3/5f882114", 
+                "width": 321, 
+                "height": 449
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/335cf96156554d5647a1c81dd68616a4/54df800b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/73905eaba8832e23557a2f79514c9deb/448439c3/apeface-a1.png", 
+            "filename": "apeface-a1.png", 
+            "type": "image/png", 
+            "id": "attNeXWyEdLBLKEcA", 
+            "size": 318410
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Alt 2\ud83d\udee1\ufe0f": 1, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Melee", 
+          "Ranged"
+        ]
       }, 
       "id": "recQmAm4ZJfHUjPkt"
     }, 
@@ -7782,15 +8030,78 @@
     {
       "createdTime": "2019-09-27T01:50:22.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Rescue Patrol \u2022 Search & Rescue", 
+        "Name": "Private Seawatch", 
+        "Faction": "Autobots", 
+        "Alt Type(s)": [
+          "Boat"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T22/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 5, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nWhen one of your Rescue Patrols battles and you flip at least [WHITE][WHITE] > Flip 3 more battle cards.\n\nBot Mode:\n\nThis has +1 [ATK] and +1 [DEF] for each Rescue Patrol in your KO area.", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/672a8a0c30ae81dcb74accdbb6c0a435/e3ceb5b8", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7226ee0a194a72c61a20736773ab4050/c5c6bf54", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c27443edd7af5eccb902c1e93c0c3ba2/db2a604f", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/dd407ab5021a30e13d3e04e7126e416d/6059142b/seawatch-b.png", 
+            "filename": "seawatch-b.png", 
+            "type": "image/png", 
+            "id": "att15ZRc7e1T1K1g3", 
+            "size": 1523069
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6179d2898e85f3986e8aa8e080adf874/a9065f42", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c8016568f57d54226dc1445abe010b06/e3c11af1", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/afc8d0a6fa50e23337256bf9738f2979/9e9c3b89", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/c1f5df551f4eac7de3055d8cff5c89f4/6c8a7605/seawatch-a.png", 
+            "filename": "seawatch-a.png", 
+            "type": "image/png", 
+            "id": "att2VkpgeIKaLjE79", 
+            "size": 1526967
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Rescue Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Specialist"
+        ]
       }, 
       "id": "recTq5eDWpJt4x9hL"
     }, 
@@ -8742,15 +9053,78 @@
     {
       "createdTime": "2019-09-27T01:50:05.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 6, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Rescue Patrol \u2022 Medic", 
+        "Name": "Private Fixit", 
+        "Faction": "Autobots", 
+        "Alt Type(s)": [
+          "Truck"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T17/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 4, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped.\n(Enemies attack other characters if able.)\n\nBot Mode:\n\n[TAP], Scrap a [WHITE] card from your hand > Each player scraps their hand and draws 4 cards.\n(To [TAP], tap this character before you attack.)", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cef93a7db7a93dd07b0ac9352449300b/5a518517", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cde57874afd5ad4a20a50a4a7737ae99/a8b8daf5", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e5b6fa433eaf1a18fe95a675e7cd7067/67f4744b", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/7c8b3091758202ca6c73fb4adf3df080/e56e36a5/fixit-b.png", 
+            "filename": "fixit-b.png", 
+            "type": "image/png", 
+            "id": "attyqwi5LwmJ9smNn", 
+            "size": 1407937
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7852f4be77627de2808ccecd6ec357d4/6db8b817", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dc60f3288a504b505fcb2f7fe96313d9/9fcfdb64", 
+                "width": 512, 
+                "height": 714
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/38dd237f5b5d527a5902a21bd536b320/1edc5c07", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/2d2c3c1f7fa5a20be206e4cde6466919/29e14873/fixit-a.png", 
+            "filename": "fixit-a.png", 
+            "type": "image/png", 
+            "id": "attWB5aKZmATPANjD", 
+            "size": 1380168
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Rescue Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Specialist"
+        ]
       }, 
       "id": "recX7JzNDufykUjrJ"
     }, 
@@ -10325,15 +10699,78 @@
     {
       "createdTime": "2019-09-27T01:52:18.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
+        "Bot\u2694\ufe0f": 3, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Air Strike Patrol \u2022 Strategist", 
+        "Name": "Raider Tailwind", 
+        "Faction": "Decepticons", 
+        "Alt Type(s)": [
+          "Plane"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T41/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 5, 
+        "Card Text": "Alt Mode:\n\nThis has Stealth while untapped. (Enemies attack other characters if able.)\n\nWhen one of your Air Strike Patrols battles and you flip at least [GREEN] > It gets +2 [ATK] and +1 [DEF] until end of battle.\n\nBot Mode:\n\nThis has +1 [ATK] and +1 [DEF] for each Air Strike Patrol in your KO area.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/34261d1ddb3109986342b86a88add1bc/32d2de70", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0b9f8bd31a7ec0cd63dc9f86fedb4ca2/939e3f7c", 
+                "width": 335, 
+                "height": 467
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9136bcd3e3eee28d1e674895f5b7fe59/192e3d90", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/02f11578bba6b5776bb6c536cf434994/200dd663/tailwind-b.png", 
+            "filename": "tailwind-b.png", 
+            "type": "image/png", 
+            "id": "attcNwljXbbyHaf3k", 
+            "size": 358145
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3d043d4835405e87a983e3a70cc8b58a/bd134054", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ef012cd105bbba7f85679162026dd935/4a0071d1", 
+                "width": 335, 
+                "height": 468
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b63b76b69604bc998e50cfcfc15d1ce/07529983", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/bd7aee9b46b24c03e6ab88b9e2a3ec48/d775fb89/tailwind-a.png", 
+            "filename": "tailwind-a.png", 
+            "type": "image/png", 
+            "id": "att9EZVg44zcLvrVx", 
+            "size": 360996
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Tribe": [
+          "Air Strike Patrol"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "reccIT6Z6HFuNgy4E"
     }, 
@@ -13895,15 +14332,52 @@
     {
       "createdTime": "2019-09-27T01:53:12.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 8, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Special Ops \u2022 Soldier", 
+        "Name": "Skytread (Tank)", 
+        "Faction": "Decepticons", 
+        "Combiner Mode": [
+          "recwJ78hf7DXluMha"
+        ], 
+        "Alt Type(s)": [
+          "Tank"
+        ], 
         "Card #": "T49/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 6, 
+        "Card Text": "Revenge > If you have Skytread (Plane) on the battlefield or in your KO area, you may combine this with him into Raider Skytread. If you do, put the cards from your hand face down under Raider Skytread.\n(Use a character's Revenge abilities when it's KO'd.)", 
+        "Alt\ud83d\udee1\ufe0f": 3, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c39c983d8e9622b04603238a3eba04ff/7058fd3b", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cd860d306ca5ba4815859be8b95ff721/fec96ad4", 
+                "width": 411, 
+                "height": 588
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a8a867cc9002fe17847c511c228d2396/6152272c", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/0af4793c341f8b18ec29ad6f4ed45d62/d1f3c8b0/skytread-tank.png", 
+            "filename": "skytread-tank.png", 
+            "type": "image/png", 
+            "id": "attGaFi61M380KKnZ", 
+            "size": 519041
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Rarity": "Uncommon", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recpn91vXzo7HmPUh"
     }, 

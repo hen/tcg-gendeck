@@ -466,6 +466,59 @@
         "Subtitle": "Fiery Champion"
       }, 
       "id": "recfwOH8RXEiLPgLL"
+    }, 
+    {
+      "createdTime": "2019-10-16T00:45:24.000Z", 
+      "fields": {
+        "\ud83e\udde1": 18, 
+        "Subtitle": "Special Ops \u2022 Soldier", 
+        "Name": "Raider Skytread", 
+        "Roles": [
+          "Ranged"
+        ], 
+        "\u2b50": 12, 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4358eb81b7e16c89cdaa09476a5cf44d/aca09117", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/210fa9f116bf1575b121d56ead7ab2b6/043dec0b", 
+                "width": 512, 
+                "height": 716
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cc699279c61a273f734047c6c29f34b3/bcdcef00", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/97398c9c5b223b6a48bab06e5e3d9f17/430f0260/skytread-combiner.png", 
+            "filename": "skytread-combiner.png", 
+            "type": "image/png", 
+            "id": "attU1HfX5uaXWM1kP", 
+            "size": 1039186
+          }
+        ], 
+        "Component Bots": [
+          "recNvmVpyhvIG1ZNI", 
+          "recpn91vXzo7HmPUh"
+        ], 
+        "\ud83d\udee1\ufe0f": 3, 
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5", 
+          "recuFFMmWfyhSmzNz", 
+          "recZHHOSLKR6vpXte", 
+          "rec9YcwyFDMe50V3m"
+        ], 
+        "\u2694\ufe0f": 6, 
+        "Card Text": "(This begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)\n\nWhen this attacks > You may put a face-down card from under this into your hand. If you do, move 1 damage counter from this to the defender.", 
+        "Affiliation": "Decepticon"
+      }, 
+      "id": "recwJ78hf7DXluMha"
     }
   ]
 }
