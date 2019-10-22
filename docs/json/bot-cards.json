@@ -4602,15 +4602,52 @@
     {
       "createdTime": "2019-09-27T01:49:51.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 9, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Transport \u2022 City Defender", 
+        "Name": "Omega Supreme (Tank)", 
+        "Faction": "Autobots", 
+        "Combiner Mode": [
+          "recQ315CkIlT4yFmf"
+        ], 
+        "Alt Type(s)": [
+          "Tank"
+        ], 
         "Card #": "T15/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 7, 
+        "Card Text": "When this attacks > You may scrap 2 cards from your hand. If you do, do 1 damage to an enemy.\n\nWhen your opponent reshuffles their deck, if you have Omega Supreme (Spaceship) and Omega Supreme (Base) on the battlefield or in your KO area > Combine them with this into Captain Omega Supreme.", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eff087f65db4f5f39dcfea302499e7f5/e6ece627", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/82915a065c06d553b56d6967a09a8d89/f0168e96", 
+                "width": 364, 
+                "height": 520
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/21ba01c0f929b83d44a336d72f4c3f75/04ea25d2", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/9a1e1fe2bbf5f164911a9cc7cefb3d81/ad5b30c6/omega-tank.png", 
+            "filename": "omega-tank.png", 
+            "type": "image/png", 
+            "id": "attrSSB09hf6IgAi3", 
+            "size": 430109
+          }
+        ], 
+        "Alt\u2694\ufe0f": 3, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recIHhzGSR69R237Q"
     }, 
@@ -4690,15 +4727,76 @@
     {
       "createdTime": "2019-09-27T01:47:33.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 20, 
+        "Bot\u2694\ufe0f": 6, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Engineering \u2022 Air Guardian", 
+        "Name": "Captain Jetfire", 
+        "Faction": "Autobots", 
+        "Alt Type(s)": [
+          "Plane"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T03/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 16, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > Reveal the top 5 cards of your deck. Put all Upgrades from among them into your hand. Scrap the rest.\n\nBot Mode:\n\nWhen this battles > Draw a card. Then you may reveal an Upgrade from your hand and put it on top of your deck. If you do, flip one more battle card this battle.\n", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d00cbd443e0de9536c6e192932af563c/725e36e6", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f603a53bff93d1346c2069feeaf4266d/0fce27e0", 
+                "width": 512, 
+                "height": 733
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/401f28e5f8921c5dee7e19b7728a4302/5f59b595", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/492084ec2333afa8f838d99eae9437bd/6be1680d/jetfire-b.png", 
+            "filename": "jetfire-b.png", 
+            "type": "image/png", 
+            "id": "attb9NKLjRyuvK3UT", 
+            "size": 1431132
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1575334f9fa25e66712f80b7ce752315/9192aba0", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b4d15d8d77b42e28a910827df4bff67/c6d2147e", 
+                "width": 512, 
+                "height": 734
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/83951c765c29993017d14567ac10db67/72550776", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/da072616bcd55381f32ac0bf9ea9e5ce/9961f491/jetfire-a.png", 
+            "filename": "jetfire-a.png", 
+            "type": "image/png", 
+            "id": "att2DP3YShFMJSNQE", 
+            "size": 1357875
+          }
+        ], 
+        "Alt\u2694\ufe0f": 5, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Leader", 
+          "Ranged"
+        ]
       }, 
       "id": "recIjDMPIBo10q4Ly"
     }, 
@@ -8411,15 +8509,103 @@
     {
       "createdTime": "2019-09-27T01:52:47.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 16, 
+        "Bot\u2694\ufe0f": 6, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Special Ops \u2022 Aerial Defense", 
+        "Name": "Sergeant Springer", 
+        "Faction": "Autobots", 
+        "Alt 2\u2694\ufe0f": 6, 
+        "Alt Type(s)": [
+          "Truck", 
+          "Helicopter"
+        ], 
+        "Bot\ud83d\udee1\ufe0f": 2, 
         "Card #": "T46/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 12, 
+        "Card Text": "Alt 1 Mode:\n\nWhen you flip to this mode > You may scrap an Action from your hand. If you do, draw 2 cards.\n\nBot Mode:\n\nWhen you have 7 more cards in hand and flip to this mode > You may play an Action. Then you may play an Upgrade.\n\nAlt 2 Mode:\n\nWhen you flip to this mode > You may scrap an Upgrade from your hand. If you do, draw 2 cards.", 
+        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/71230363d412d341fe658a98351933e3/de148bf3", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ab39fd301319e08e0c30703f4b32644b/6536afe4", 
+                "width": 290, 
+                "height": 406
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8c5de6454763527ab89238aa555e4e30/9fe31cde", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/b62730cb648aa72a10fd7b35ac6eb04c/12533782/springer-a2.png", 
+            "filename": "springer-a2.png", 
+            "type": "image/png", 
+            "id": "att4X2Cvz1nkDQF0R", 
+            "size": 268331
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/585544d18d4297777333c7bd362f3e1b/11e0eabb", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/128b397c1610012c4d3c1cd2e4d34e60/b867a2e7", 
+                "width": 405, 
+                "height": 582
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e735b656af5f95441b77dce89d910776/719930db", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/e1859c1c2642576a7836beaec90517ce/0eb41c6a/springer-b.png", 
+            "filename": "springer-b.png", 
+            "type": "image/png", 
+            "id": "attOmg5c2wtBd9ZHb", 
+            "size": 523383
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5f4db67dc5550c0ce40a6e023c91762b/bc486a10", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/60c9c468feb3ea46043663ed5a053e98/8fec8ab7", 
+                "width": 290, 
+                "height": 405
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d442b47dcc7e48bd22dcbec797f9df8/1cefde24", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/a194f524e5e9348c150a8607db68b594/30bcd699/springer-a1.png", 
+            "filename": "springer-a1.png", 
+            "type": "image/png", 
+            "id": "attM8vz9GiJdDotpU", 
+            "size": 269003
+          }
+        ], 
+        "Alt\u2694\ufe0f": 6, 
+        "Alt 2\ud83d\udee1\ufe0f": 2, 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Leader", 
+          "Specialist"
+        ]
       }, 
       "id": "recUQzn833H5q3GTK"
     }, 
@@ -8965,15 +9151,75 @@
     {
       "createdTime": "2019-09-27T01:51:10.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 11, 
+        "Bot\u2694\ufe0f": 5, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Infantry \u2022 Soldier", 
+        "Name": "Raider Chop Shop", 
+        "Faction": "Decepticons", 
+        "Bot\ud83d\udee1\ufe0f": 1, 
         "Card #": "T31/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 7, 
+        "Card Text": "Alt Mode:\n\nWhen you flip to this mode > You may scrap a [GREEN] card from your hand. If you do, repair 1 damage from each of your characters. If the scrapped card has no other battle icons, repair 1 more damage from each of your characters.\n\nBot Mode:\n\nWhen this attacks and you flip at least [GREEN] > Repair 1 damage from this.", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e90505a1b8c5209eb872c4ecb715bfa8/c8e7a0ca", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9db6160d5bdd592bc4e7d809720615ca/f07a578b", 
+                "width": 319, 
+                "height": 456
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9024da1a4daeff63b27fb76afc76a03a/a0948c92", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/e2f515cdb7f5cb582c821ee291663257/8a2e4316/chop-b.png", 
+            "filename": "chop-b.png", 
+            "type": "image/png", 
+            "id": "attM3z3ir4IWm0GF3", 
+            "size": 334364
+          }, 
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/41c658fcbc54ba3978fadd484b20869c/160717ee", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/05a918416ed5f6675cd3a80d4a0e364c/5969ac48", 
+                "width": 318, 
+                "height": 456
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/673291bc250083af16923d98713f2ddf/de68417e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/3dc87f16cf2792076cb81d6ffbed4645/ea67ccfd/chop-a.png", 
+            "filename": "chop-a.png", 
+            "type": "image/png", 
+            "id": "attYsiMuGQ1p694C1", 
+            "size": 321718
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Tribe": [
+          "Insecticon"
+        ], 
+        "Rarity": "Common", 
+        "Role(s)": [
+          "Melee"
+        ]
       }, 
       "id": "recWoemhRnWw1lWML"
     }, 
@@ -12996,55 +13242,55 @@
         "Card #": "T08/T52", 
         "\u2b50": 12, 
         "Card Text": "Alt Mode:\nWhen you flip to this mode > Your opponent scraps a number of cards from the top of their deck equal to this character's [DEF] total.\n\nBot Mode:\nWhen your opponent reshuffles their deck > They choose one of their characters and do damage to it equal to this character's [ATK] total.", 
-        "Alt\ud83d\udee1\ufe0f": 2, 
+        "Alt\ud83d\udee1\ufe0f": 3, 
         "Image(s)": [
           {
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/efa1f6fec59f90077956910fe72d83e7/65648a2e", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a15feba73ec6bbcdb4c94edd2db57f74/72cfb14a", 
                 "width": 25, 
                 "height": 36
               }, 
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/f2cfe180fe30854e78dde32ae997ec7b/f09386f9", 
-                "width": 512, 
-                "height": 732
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e6e3b5488d860d20b0c4e69548583172/be464a22", 
+                "width": 406, 
+                "height": 581
               }, 
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/76f478c31570cf506b5c3deb5c614a4c/f1d4d474", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cc9b914942479175cca890b2de34c18e/3c335dcd", 
                 "width": 3000, 
                 "height": 3000
               }
             }, 
-            "url": "https://dl.airtable.com/.attachments/900c77940ba8a6d0b517b4f9db2fcdb9/8dbe8e49/megatron-b.png", 
+            "url": "https://dl.airtable.com/.attachments/2e8b4e0cb225ec82721a95358aa17c72/12859332/megatron-b.png", 
             "filename": "megatron-b.png", 
             "type": "image/png", 
-            "id": "att5e8oVGj6Je8aVz", 
-            "size": 1749249
+            "id": "attj7i31j5kxnbzla", 
+            "size": 499037
           }, 
           {
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/b091cdb424ed8445ecc82a692a15f377/43e5e0ca", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1fea7caf20844159505fc7293796ab08/e853d7ba", 
                 "width": 25, 
                 "height": 36
               }, 
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/3d1bff9369665107257dfc472698d325/fa214de8", 
-                "width": 512, 
-                "height": 734
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2a7d25453c0750415f86a470fe25eb5a/4905f62a", 
+                "width": 406, 
+                "height": 582
               }, 
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/d31fa4a160292e6154c1aa73835271ec/7d275b85", 
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3d1681a19cec68f1c539fb7dc63c231b/f471d078", 
                 "width": 3000, 
                 "height": 3000
               }
             }, 
-            "url": "https://dl.airtable.com/.attachments/8c1e83aea1f537c4f915116dfb2782ab/8c63c599/megatron-a.png", 
+            "url": "https://dl.airtable.com/.attachments/066433ea04ea1ed9db68b77e0f8594e0/b77b36fe/megatron-a.png", 
             "filename": "megatron-a.png", 
             "type": "image/png", 
-            "id": "attVrYHq3YyeKiN39", 
-            "size": 1634110
+            "id": "attRipx2r2ctESOSG", 
+            "size": 485279
           }
         ], 
         "Alt\u2694\ufe0f": 6, 
@@ -15051,15 +15297,49 @@
     {
       "createdTime": "2019-09-27T01:49:32.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 12, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Transport \u2022 City Defender", 
+        "Name": "Omega Supreme (Base)", 
+        "Faction": "Autobots", 
+        "Combiner Mode": [
+          "recQ315CkIlT4yFmf"
+        ], 
         "Card #": "T13/T52", 
-        "\u2b50": 0, 
-        "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "\u2b50": 8, 
+        "Card Text": "Alt Mode:\n\nWhen this defends > Do 2 damage to the attacker. Your opponent scraps the top 2 cards of their deck.\n(This can combine with Omega Supreme Tank and Spaceship to form Captain Omega Supreme.)", 
+        "Alt\ud83d\udee1\ufe0f": 1, 
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c6817a3222b88a732f79e96395a88217/09f93eba", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a6ee606f7d0b0c9e52ad43b5433170bd/9b8a55b1", 
+                "width": 364, 
+                "height": 521
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a6152e5c5313f22f79bbedace2345163/db40c298", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/d3ba1626bd081fcda79814f598d58191/3ac5fc6b/omega-base.png", 
+            "filename": "omega-base.png", 
+            "type": "image/png", 
+            "id": "attHXUB1U7bqZohxi", 
+            "size": 440445
+          }
+        ], 
+        "Alt\u2694\ufe0f": 0, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Specialist"
+        ]
       }, 
       "id": "recra9wkLbJrM0yZ5"
     }, 
@@ -15720,15 +16000,52 @@
     {
       "createdTime": "2019-09-27T01:49:40.000Z", 
       "fields": {
-        "\ud83e\udde1": 0, 
-        "Bot\u2694\ufe0f": 0, 
+        "\ud83e\udde1": 12, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Bot", 
-        "Bot\ud83d\udee1\ufe0f": 0, 
+        "Subtitle": "Transport \u2022 City Defender", 
+        "Name": "Omega Supreme (Spaceship)", 
+        "Faction": "Autobots", 
+        "Combiner Mode": [
+          "recQ315CkIlT4yFmf"
+        ], 
+        "Alt Type(s)": [
+          "Spaceship"
+        ], 
         "Card #": "T14/T52", 
-        "\u2b50": 0, 
+        "\u2b50": 7, 
+        "Card Text": "When this attacks > You may scrap 2 cards from your hand. If you do, scrap an enemy Upgrade.\n\nWhen your opponent reshuffles their deck, if you have Omega Supreme (Tank) and Omega Supreme (Base) on the battlefield or in your KO area > Combine them with this into Captain Omega Supreme.", 
         "Alt\ud83d\udee1\ufe0f": 0, 
-        "Alt\u2694\ufe0f": 0
+        "Image(s)": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/417c28ff454691d704f202147ea9425c/382600e6", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2d0fa8470e8f244de562a7fa656861ef/aff3c2d4", 
+                "width": 363, 
+                "height": 520
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b16ff54b93719c8f93c67389af6708c5/ce6b3897", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/a7c7b6b442c972f9e6ccb27ff7189bde/508b431f/omega-spaceship.png", 
+            "filename": "omega-spaceship.png", 
+            "type": "image/png", 
+            "id": "att0h9m1x5DxZMG1Q", 
+            "size": 434521
+          }
+        ], 
+        "Alt\u2694\ufe0f": 4, 
+        "Rarity": "Rare", 
+        "Role(s)": [
+          "Ranged"
+        ]
       }, 
       "id": "recwKnRzIAPM79hfd"
     }, 

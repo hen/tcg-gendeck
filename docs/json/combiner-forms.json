@@ -232,6 +232,56 @@
       "id": "rec8UcA84uBhTN9Ul"
     }, 
     {
+      "createdTime": "2019-10-17T21:39:45.000Z", 
+      "fields": {
+        "\ud83e\udde1": 33, 
+        "Subtitle": "Transport \u2022 City Defender", 
+        "Name": "Captain Omega Supreme", 
+        "Roles": [
+          "Leader", 
+          "Melee", 
+          "Ranged"
+        ], 
+        "\u2b50": 22, 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b864110c5e899cbd02bf61c8c9d0e04c/a550ad3b", 
+                "width": 30, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ad21e073e4bf89f843527429fa0cbada/a1f3910a", 
+                "width": 512, 
+                "height": 620
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ce3c762bed75a50a2e5dd782de951c65/077c95c1", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/f2e2f898b17dbd6b06e65796265887e1/25fabba7/omega-combiner.png", 
+            "filename": "omega-combiner.png", 
+            "type": "image/png", 
+            "id": "attendU9xhHQxFJku", 
+            "size": 1458993
+          }
+        ], 
+        "Component Bots": [
+          "recra9wkLbJrM0yZ5", 
+          "recwKnRzIAPM79hfd", 
+          "recIHhzGSR69R237Q"
+        ], 
+        "\ud83d\udee1\ufe0f": 3, 
+        "\u2694\ufe0f": 7, 
+        "Card Text": "(This begins untapped, has all damage from the combined characaters, and keeps 1 Upgrade in each slot.)\n\nPierce 4 (Do at least 4 damage when attacking, but not more than [ATK] total.)\n\nWhen this attacks > You may scrap 4 cards from your hand. If you do, scrap all the defender's Upgrades, then do 1 damage to each enemy.", 
+        "Affiliation": "Autobot"
+      }, 
+      "id": "recQ315CkIlT4yFmf"
+    }, 
+    {
       "createdTime": "2019-02-08T01:14:09.000Z", 
       "fields": {
         "\ud83e\udde1": 39, 

@@ -1907,19 +1907,86 @@
     {
       "createdTime": "2019-09-24T22:27:07.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "037/064"
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Name": "Medic's Protective Field", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dbbb980e3332e74812ff8af28d4f26ef/e4d1e2a0", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b2a14d938350edbc61cc0f14e991d99b/ee0a9f27", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/70b874c63e57ac3d75289f9be86f7656/a9367161", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/382afff39412516269d99457f7744b9b/e5e7a8ec/medicsprotectivefield.png", 
+            "filename": "medicsprotectivefield.png", 
+            "type": "image/png", 
+            "id": "attBpdLMEh59uR7rq", 
+            "size": 1139510
+          }
+        ], 
+        "Faction": "Autobots", 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "When you put this on a character > Repair 1 damage from it.\n\nSafeguard 3 (Can't take more than 3 damage while undamaged.)", 
+        "Card #": "037/064", 
+        "Rarity": "Common"
       }, 
       "id": "rec7tCzUcmGjKhRHS"
     }, 
     {
       "createdTime": "2019-09-24T22:27:33.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "New Orders", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b3e9118d9e79852596a59cf0bcbb8a85/9bdaae61", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/060fc21910dc2faaa932ae87fc801ba1/6351fd9d", 
+                "width": 444, 
+                "height": 622
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1dfd3080bd94168579690aacee2e82e6/a1eebf95", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/5994331b2f4a34b5ca5b8c6c7e22a283/2100226f/neworders.png", 
+            "filename": "neworders.png", 
+            "type": "image/png", 
+            "id": "attjTwDws7zNv0UjP", 
+            "size": 377853
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card Text": "Untap one of your characters that has 6 [STARS] or fewer.", 
         "Card #": "039/064"
       }, 
       "id": "rec7xlV7r1yOe0n70"
@@ -2606,9 +2673,42 @@
     {
       "createdTime": "2019-09-24T22:19:56.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Name": "Energy Transfer", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4ef57653e1e6b24d77a470caccc9284d/4a7323fa", 
+                "width": 25, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/da0da1fce5f42b11b21c0f03de792c2f/6f37b537", 
+                "width": 428, 
+                "height": 606
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/19ed4cf29e84e5e0845c91fee24f9bbf/4f777122", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/e14c5d4b368138810697b30a4ab9f7ed/e35c489f/energytransfer.png", 
+            "filename": "energytransfer.png", 
+            "type": "image/png", 
+            "id": "att1JlMao3opNLjkP", 
+            "size": 358831
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 0, 
+        "Card Text": "Move any number of damage counters from one of your characters to one of your other characters, but not enough to KO it.", 
         "Card #": "019/064"
       }, 
       "id": "recBrlFPDGB1z0s3u"
@@ -3069,9 +3169,42 @@
     {
       "createdTime": "2019-09-24T22:29:47.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Repurpose", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1b0572bd732fa74d07e6c523772ab7b0/72e0e4ed", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/643c7a262f0b718acb91ec8b486fc25d/70d86ca0", 
+                "width": 442, 
+                "height": 618
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c168198b0b98b2cd7c348deb95456da9/eb0e0811", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/4ec63afb133025284e2bf9b5f2d26dc1/b257e87f/reprocess.png", 
+            "filename": "reprocess.png", 
+            "type": "image/png", 
+            "id": "attzd8kHRWe1KAwtB", 
+            "size": 388509
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "Scrap an Upgrade from any character > Repair 2 damage from that character.", 
         "Card #": "049/064"
       }, 
       "id": "recD9oK3sMrwRkeTr"
@@ -3258,9 +3391,42 @@
     {
       "createdTime": "2019-09-24T22:29:21.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\u2b1b\u2b1b\u2b1b"
+        ], 
+        "Name": "Plunder", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/973105339c872315212bb155ee558b5d/3cdfb7aa", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/84cb80377883cb224a6ac73c913ee2dd/0b3fc0eb", 
+                "width": 346, 
+                "height": 484
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/07a6f6a47f2c8ae16d92eebb6472d4ba/3d297dd4", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/bf641a7c89e42b8072507adef8cfab44/c2a35eae/plunder.png", 
+            "filename": "plunder.png", 
+            "type": "image/png", 
+            "id": "attC9IlowqpQ9OaIe", 
+            "size": 256691
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Uncommon", 
+        "\u2b50": 1, 
+        "Card Text": "Your opponent chooses 3 cards from their hand and reveals them. You scrap one of them.", 
         "Card #": "045/064"
       }, 
       "id": "recE5INH7fWvCVYBE"
@@ -3403,9 +3569,43 @@
     {
       "createdTime": "2019-09-24T22:32:24.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          " \ud83d\udd37 ", 
+          "\ud83d\udcd7"
+        ], 
+        "Name": "War Of Attrition", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d0ccbb33a163000c8d21b59a95b81404/53504a5d", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3f07f97202b6bafae263445804645ce4/f01ca81f", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/03324f3a2a24185d428158241ba267b3/879c7530", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/97a03261927a42393fe7e8b7ee97f55e/c025e914/warofattrition.png", 
+            "filename": "warofattrition.png", 
+            "type": "image/png", 
+            "id": "att47aF6W2m4dnlQH", 
+            "size": 1011042
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "Your opponent chooses one of their characters and does 1 damage to it.\n\nIf this is the third War of Attrition you've played this turn > Repair 3 damage from one of your characters.\n\nYou may play another War of Attrition.", 
         "Card #": "063/064"
       }, 
       "id": "recFENJCwxOFYODqI"
@@ -3545,9 +3745,39 @@
     {
       "createdTime": "2019-09-24T22:30:20.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Name": "Showing Off", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3ea89e4a76e5df8643cb9bbc996dd021/fd3c752e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6f4269d83755fadab16bb0b10a3d90bc/11f53561", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e4ed091fa0443daa2e0a9e65b5d4ff1d/04e518ce", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/fd1588ba90bd26f11249c2ed9184c9e1/3179dda7/showingoff.png", 
+            "filename": "showingoff.png", 
+            "type": "image/png", 
+            "id": "attgBRrnQozSbr3cB", 
+            "size": 880413
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "Flip one of your characters to another mode. Then flip it to another mode.", 
         "Card #": "052/064"
       }, 
       "id": "recFVYiNBoAOZXMSi"
@@ -4370,10 +4600,44 @@
     {
       "createdTime": "2019-09-24T22:22:31.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "027/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Hidden Fortification", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f27ad5581eeb1196b083b2c447203dc4/98dd1c4b", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/32ff606ce61c1c21ea7f1bc337145aeb/e08327fa", 
+                "width": 369, 
+                "height": 515
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/282a6f744b0f3a89ec756fdb27e17142/e4345ec6", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/9f0c7e4b4431e7c7f44e0c2a23ef34fe/7ea6e803/hiddenfortification.png", 
+            "filename": "hiddenfortification.png", 
+            "type": "image/png", 
+            "id": "attf6VDX2eTG8EYag", 
+            "size": 314108
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > That character gets Tough 3 until end of battle.", 
+        "Card #": "027/064", 
+        "Rarity": "Common"
       }, 
       "id": "recKlxfunUZZoeWLw"
     }, 
@@ -4844,8 +5108,34 @@
       "createdTime": "2019-09-24T22:30:40.000Z", 
       "fields": {
         "\u2b50": 0, 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bdb26fb3c4a334b19db4d33f527567e5/0ec2956e", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1347e1e30d2a2a0044341d8abd933127/00fc180b", 
+                "width": 512, 
+                "height": 710
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3c1ba775fe24864974f47ddf02128bf4/1702b6a9", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/c01482c82f297821631560b602f13d7b/316763ec/specialdelivery.png", 
+            "filename": "specialdelivery.png", 
+            "type": "image/png", 
+            "id": "attsVkKlVgFMFhkRN", 
+            "size": 745362
+          }
+        ], 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Name": "Special Delivery", 
         "Card #": "054/064"
       }, 
       "id": "recMxV3wriVYnx3Gc"
@@ -7185,10 +7475,44 @@
     {
       "createdTime": "2019-09-24T22:24:18.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "033/064"
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Name": "Jam Signals", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ed249abdf4c65b0d824064b1836f5cfd/120ba725", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/00590f46d1090d5bda2ef5567a7af34e/882810c4", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4ab6f3977ff2d9730739f2b9090b61bc/cb0cb63e", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/76f519a26d4c8a7073b5f22244a54437/f99c744c/jamsignals.png", 
+            "filename": "jamsignals.png", 
+            "type": "image/png", 
+            "id": "attjlXAmYJgrvZs9g", 
+            "size": 886641
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When your opponent plays an [BLUE] Action.\n\nWhen Revealed > Scrap that Action and it has no effect.", 
+        "Card #": "033/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recX2ppEpcVraWku7"
     }, 
@@ -11269,10 +11593,45 @@
     {
       "createdTime": "2019-09-24T22:22:10.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "024/064"
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "Hazardous Shield", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8f3280a52976e69503c2bb9c6e59e599/65fb6d18", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/822a8cee9eda9444729feea4ae9e200b/db8c4c01", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5b5b6e0eda9e9831355b818c1d9f9e2e/14e263c8", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/8fe32169906115bf3fa10aefa6f58ca9/fdf1bbee/hazardousshield.png", 
+            "filename": "hazardousshield.png", 
+            "type": "image/png", 
+            "id": "attNUFtKRWPOaBYCc", 
+            "size": 1030501
+          }
+        ], 
+        "Faction": "Decepticons", 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "Revenge > Scrap an enemy Weapon or Armor.\n(Use a character's Revenge abilities when that character is KO'd.)", 
+        "\ud83d\udee1\ufe0f\u0394": 1, 
+        "Card #": "024/064", 
+        "Rarity": "Common"
       }, 
       "id": "recofFvfb7VC3y5bg"
     }, 
@@ -12462,9 +12821,43 @@
     {
       "createdTime": "2019-09-24T22:21:51.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
+        "Battle Icons": [
+          "\ud83d\udd36", 
+          "\u2b1b"
+        ], 
+        "Name": "Fight For Position", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/221b6d45d5107a55f1c94c0156140d40/b1c4cf84", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/727ff86995efcbd542f0491d67d546a5/3c8bdf80", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/97dcf1864ed5dc7d09f6a12d6cf14595/e3a3aafe", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/08ee80ac7148a6ee0374d8595a00e75e/5c2504a5/fightforposition.png", 
+            "filename": "fightforposition.png", 
+            "type": "image/png", 
+            "id": "attpaPGjeRkYMPSVR", 
+            "size": 850705
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "One of your characters gets Bold 2 until end of turn.\n(Flip 2 more battle cards when attacking.)", 
         "Card #": "022/064"
       }, 
       "id": "recvP3VXyATwzIjUF"
@@ -12472,10 +12865,46 @@
     {
       "createdTime": "2019-09-24T22:22:03.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "023/064"
+        "Battle Icons": [
+          "\ud83d\udd36"
+        ], 
+        "Name": "Guarded Posture", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f9311fbeeff9f318a06ac7efa646a7d7/5a0dd305", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a1ed7488cf21bee50276db4b21a60192/0dc3b148", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b710d6cf3b6082c49a33d6f380e0a877/9f80d591", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/6eb2048877d541349189052d353fdb8f/37e601a2/guardedposture.png", 
+            "filename": "guardedposture.png", 
+            "type": "image/png", 
+            "id": "att7EpktFjlS6knFa", 
+            "size": 976471
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "\u2694\ufe0f\u0394": -1, 
+        "Sub-Type": "Armor", 
+        "\u2b50": 0, 
+        "Card Text": "(A character's [ATK] can't go below zero.)", 
+        "\ud83d\udee1\ufe0f\u0394": 2, 
+        "Card #": "023/064", 
+        "Rarity": "Common"
       }, 
       "id": "recvnq5fuHwS4DyHW"
     }, 
