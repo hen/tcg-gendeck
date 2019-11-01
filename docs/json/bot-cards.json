@@ -1054,6 +1054,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Arms Dealer", 
         "Name": "Detritus", 
+        "FortressMaximus.io": "https://fortressmaximus.io/card/detritus-arms-dealer-WS2", 
         "Faction": "Mercenaries", 
         "Alt Type(s)": [
           "Truck"
@@ -1114,7 +1115,12 @@
           }
         ], 
         "Alt\u2694\ufe0f": 6, 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-ii/detritus%20arms%20dealer?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
+        "Artist/Illustrator(s)": [
+          "recS3k0KStUwMMEVH", 
+          "recMHyZmBxS8AP0zO"
+        ], 
         "Role(s)": [
           "Ranged"
         ]
@@ -4732,6 +4738,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Engineering \u2022 Air Guardian", 
         "Name": "Captain Jetfire", 
+        "FortressMaximus.io": "https://fortressmaximus.io/card/captain-jetfire-engineering-air-guardian-WS2", 
         "Faction": "Autobots", 
         "Alt Type(s)": [
           "Plane"
@@ -4792,7 +4799,11 @@
           }
         ], 
         "Alt\u2694\ufe0f": 5, 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-ii/captain%20jetfire%20engineering%20air%20guardian?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Rare", 
+        "Artist/Illustrator(s)": [
+          "recMHyZmBxS8AP0zO"
+        ], 
         "Role(s)": [
           "Leader", 
           "Ranged"
@@ -7178,6 +7189,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Special Ops \u2022 Wrecker", 
         "Name": "Captain Impactor", 
+        "FortressMaximus.io": "https://fortressmaximus.io/card/captain-impactor-special-ops-wrecker-WS2", 
         "Faction": "Autobots", 
         "Alt Type(s)": [
           "Tank"
@@ -7238,7 +7250,11 @@
           }
         ], 
         "Alt\u2694\ufe0f": 3, 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-ii/captain%20impactor%20special%20ops%20wrecker?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Common", 
+        "Artist/Illustrator(s)": [
+          "rec70sT8ft15YVCRI"
+        ], 
         "Role(s)": [
           "Leader", 
           "Ranged"
@@ -8362,6 +8378,7 @@
         "Set": "Wave 4", 
         "Subtitle": "Soldier Of Fortune", 
         "Name": "Deadlock", 
+        "FortressMaximus.io": "https://fortressmaximus.io/card/deadlock-soldier-of-fortune-WS2", 
         "Faction": "Mercenaries", 
         "Alt Type(s)": [
           "Car"
@@ -8422,7 +8439,11 @@
           }
         ], 
         "Alt\u2694\ufe0f": 5, 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-ii/deadlock%20soldier%20of%20fortune?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Rarity": "Uncommon", 
+        "Artist/Illustrator(s)": [
+          "recS3k0KStUwMMEVH"
+        ], 
         "Role(s)": [
           "Ranged"
         ]
@@ -11180,8 +11201,10 @@
         "Set": "Wave 4", 
         "Subtitle": "Space Force \u2022 Transport", 
         "Name": "Captain Astrotrain", 
+        "FortressMaximus.io": "https://fortressmaximus.io/card/captain-astrotrain-space-force-transport-WS2", 
         "Faction": "Decepticons", 
         "Alt 2\u2694\ufe0f": 6, 
+        "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/war-for-cybertron-siege-ii/captain%20astrotrain%20space%20force%20transport?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards", 
         "Alt Type(s)": [
           "Spaceship", 
           "Train"
@@ -11268,6 +11291,10 @@
         "Alt\u2694\ufe0f": 5, 
         "Alt 2\ud83d\udee1\ufe0f": 1, 
         "Rarity": "Common", 
+        "Artist/Illustrator(s)": [
+          "recU4JPzxnN8bRdCp", 
+          "recPGLA1G8dorNKMv"
+        ], 
         "Role(s)": [
           "Leader"
         ]
@@ -13295,6 +13322,10 @@
         ], 
         "Alt\u2694\ufe0f": 6, 
         "Rarity": "Super-Rare", 
+        "Artist/Illustrator(s)": [
+          "recNa9N2qTWej2CJZ", 
+          "recPGLA1G8dorNKMv"
+        ], 
         "Role(s)": [
           "Leader", 
           "Ranged"
@@ -16752,6 +16783,10 @@
         ], 
         "Alt\u2694\ufe0f": 7, 
         "Rarity": "Super-Rare", 
+        "Artist/Illustrator(s)": [
+          "recNa9N2qTWej2CJZ", 
+          "recPGLA1G8dorNKMv"
+        ], 
         "Role(s)": [
           "Leader", 
           "Ranged"

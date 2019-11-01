@@ -5107,7 +5107,12 @@
     {
       "createdTime": "2019-09-24T22:30:40.000Z", 
       "fields": {
-        "\u2b50": 0, 
+        "Set": "Wave 4", 
+        "Battle Icons": [
+          "\u2b1b"
+        ], 
+        "Name": "Special Delivery", 
+        "Card Type": "Action", 
         "Image": [
           {
             "thumbnails": {
@@ -5134,8 +5139,10 @@
             "size": 745362
           }
         ], 
-        "Set": "Wave 4", 
-        "Name": "Special Delivery", 
+        "Faction": "Mercenaries", 
+        "Rarity": "Common", 
+        "\u2b50": 0, 
+        "Card Text": "Move 1 damage counter from one of your characters to an enemy.", 
         "Card #": "054/064"
       }, 
       "id": "recMxV3wriVYnx3Gc"
@@ -5235,10 +5242,44 @@
     {
       "createdTime": "2019-09-24T22:31:49.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "060/064"
+        "Battle Icons": [
+          "\ud83d\udcd7"
+        ], 
+        "Name": "Toolbox", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6b903f4415287afddff8d14cae9a68c9/2c67ce77", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6761bfd36f0dd684d0eec4487b5d325d/45d043b5", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/25d51f68311e19120a3a4c720a88baf9/399924cd", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/af1b3accfb2b0cd798e11412249b9487/d034f51b/toolbox.png", 
+            "filename": "toolbox.png", 
+            "type": "image/png", 
+            "id": "attrx9rQ3FZcPlIyO", 
+            "size": 763780
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Utility", 
+        "\u2b50": 0, 
+        "Card Text": "If damage would be repaired from the upgraded character > Instead repair that much damage plus 1.", 
+        "Card #": "060/064", 
+        "Rarity": "Rare"
       }, 
       "id": "recOMV3KigLdOBabW"
     }, 
@@ -5565,10 +5606,44 @@
     {
       "createdTime": "2019-09-24T22:31:10.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "057/064"
+        "Battle Icons": [
+          "\u2b1c"
+        ], 
+        "Name": "Sturdy Javelin", 
+        "Card Type": "Upgrade", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3d9635d15d79f8c3f5e3942f5678d408/c8dda124", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b9207d11448002461694aa0f4820a4c2/f5bebe76", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6b93df404e3c14c7e26fc2493a3388f0/4ba28ade", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/ad9ee26ea64c42d78065d6fe665d7839/5a903357/sturdyjavelin.png", 
+            "filename": "sturdyjavelin.png", 
+            "type": "image/png", 
+            "id": "attjdclkIPbmMb1sk", 
+            "size": 596805
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Weapon", 
+        "\u2b50": 0, 
+        "Card Text": "While this is on a Melee character > It has +2 [ATK].\n\nWhile this is on a Ranged character and it attacks > Scrap this card and do 2 damage to an enemy.", 
+        "Card #": "057/064", 
+        "Rarity": "Uncommon"
       }, 
       "id": "recQKfHPVkif9FyKE"
     }, 
@@ -12172,7 +12247,7 @@
         "Faction": "Mercenaries", 
         "Rarity": "Common", 
         "\u2b50": 0, 
-        "Card Text": "Choose one of your characters. It gets +3 [ATK] while attackin in alt mode this turn.", 
+        "Card Text": "Choose one of your characters. It gets +3 [ATK] while attacking in alt mode this turn.", 
         "Card #": "025/064"
       }, 
       "id": "recrnE96OMM50V8b7"
@@ -13091,10 +13166,44 @@
     {
       "createdTime": "2019-09-24T22:29:58.000Z", 
       "fields": {
-        "\u2b50": 0, 
         "Set": "Wave 4", 
-        "Name": "Unknown Wave 4 Battle Card", 
-        "Card #": "050/064"
+        "Battle Icons": [
+          " \ud83d\udd37 "
+        ], 
+        "Name": "Sabotaged Armaments", 
+        "Card Type": "Action", 
+        "Image": [
+          {
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/63c54262ff4d0836e64ec45401f330e2/52614366", 
+                "width": 26, 
+                "height": 36
+              }, 
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5419cb1e8ac094763f70b6095b0defab/ad2187e7", 
+                "width": 512, 
+                "height": 715
+              }, 
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/052ededf42d485da7691e0901a7c71d3/7505d75a", 
+                "width": 3000, 
+                "height": 3000
+              }
+            }, 
+            "url": "https://dl.airtable.com/.attachments/8ad6b956cdfbe8c38b4a8aa829109828/6faa245e/sabotagedarmaments.png", 
+            "filename": "sabotagedarmaments.png", 
+            "type": "image/png", 
+            "id": "attn0v8RuiMc7UOc0", 
+            "size": 1109678
+          }
+        ], 
+        "Faction": "Mercenaries", 
+        "Sub-Type": "Secret", 
+        "\u2b50": 0, 
+        "Card Text": "Reveal > When one of your characters defends.\n\nWhen Revealed > Scrap all the attacker's Weapons.", 
+        "Card #": "050/064", 
+        "Rarity": "Uncommon"
       }, 
       "id": "recwHcDVXRXYjlqxv"
     }, 
