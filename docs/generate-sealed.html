@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Generate Sealed Deck</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <h1>Generated Sealed Deck</h1>
+
+        <p>Allows those playing Sealed W4 to do some pre-competition thinking. </p>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="tcg-lib.js"></script>
+
+        <script>
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+              pull_bots(data, wave4, "1_1");
+              pull_bots(data, wave4, "1_2");
+              pull_bots(data, wave4, "1_3");
+              pull_bots(data, wave4, "2_1");
+              pull_bots(data, wave4, "2_2");
+              pull_bots(data, wave4, "2_3");
+            });
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/battle-cards.json", function( data ) {
+              pull_battle_cards(data, wave4, "1_1");
+              pull_battle_cards(data, wave4, "1_2");
+              pull_battle_cards(data, wave4, "1_3");
+              pull_battle_cards(data, wave4, "2_1");
+              pull_battle_cards(data, wave4, "2_2");
+              pull_battle_cards(data, wave4, "2_3");
+            });
+        </script>
+
+        <style>
+          .small_card:hover { z-index: 100 !important; }
+          .bot_card { display: inline; }
+          .bot_card img { width: 375px; height: 525px; }
+          .small_card { position: absolute; left: 500px; top: 15px; }
+          .small_card img { width: 250px; height: 350px; }
+          ul { list-style: none; }
+          .card_pull { position: relative; }
+          .col2 { padding-left: 250px; }
+          .col3 { padding-left: 250px; }
+          td { padding-bottom: 100px; }
+        </style>
+
+      <!-- Ugly and clunky; need to move to a UI framework -->
+      <table>
+        <tr><td>
+          <ul class="card_pull" style="z-index: 10">
+            <li>
+              <ul id="bot_cards1_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards1_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 10">
+            <li>
+              <ul id="bot_cards1_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards1_2">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col3">
+          <ul class="card_pull" style="z-index: 10">
+            <li>
+              <ul id="bot_cards1_3">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards1_3">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
+
+        <tr><td>
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_1">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_1">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col2">
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_2">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_2">
+              </ul>
+            </li>
+          </ul>
+        </td><td class="col3">
+          <ul class="card_pull" style="z-index: 20">
+            <li>
+              <ul id="bot_cards2_3">
+              </ul>
+            </li>
+            <li>
+              <ul id="battle_cards2_3">
+              </ul>
+            </li>
+          </ul>
+        </td></tr>
+      </table>
+
+
+    </body>
+</html>
