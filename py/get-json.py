@@ -17,7 +17,7 @@ def airtable_to_json_file(id, api_key, table_name, file_name, mutator = None):
     json_file.write(json.dumps(data, indent=2))
     json_file.close()
 
-# Fix the Wave 4 Weaponizers so they have two entires instead of one
+# Fix the Wave 4 Weaponizers so they have two entries instead of one
 def bot_mutate(cards):
     for card in cards:
         # If Card # contains an &, then split it into two cards
