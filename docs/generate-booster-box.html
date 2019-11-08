@@ -2,14 +2,14 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
-        <title>Generate W1 Booster Box</title>
+        <title>Generate Booster Box</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     </head>
 
     <body>
-        <h1>Generated W1 Booster Box</h1>
+        <h1 id="pageTitle">Generated Booster Box</h1>
 
-        <p>Simulated Bots for a W1 Booster Box. </p>
+        <p>Simulated Bots for a Booster Box. </p>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -18,11 +18,25 @@
 
         <script>
 
+          function generate_booster(waveA) {
             $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
               for(i=0; i<30; i++) {
-                pull_bots(data, wave1, "1_"+i)
+                pull_bots(data, waveA, "1_"+i)
               }
             });
+
+            waveChoice="<span class='waveChoice'>: "+waveA + "</span>";
+            $( waveChoice ).appendTo( "#pageTitle" );
+          }
+
+          function generate_new_booster() {
+            var default_search_params = new URLSearchParams();
+            default_search_params.append('Set', 'Wave 4');
+
+            params=initialize_form_from_params("navbar", default_search_params);
+            waveChoice=params_to_hash(params);
+            generate_booster(waveChoice['Set']);
+          }
         </script>
 
         <style>
@@ -38,6 +52,15 @@
           .col3 { padding-left: 250px; }
           td { padding-bottom: 100px; }
         </style>
+
+        <form id="navbar" onSubmit="">
+            <label>Wave: </label>
+            <input type='radio' name='Set' value='Wave 1'>Wave 1</input>
+            <input type='radio' name='Set' value='Wave 2'>Wave 2</input>
+            <input type='radio' name='Set' value='Wave 3'>Wave 3</input>
+            <input type='radio' name='Set' value='Wave 4'>Wave 4</input>
+            <input type='submit' value='Generate'/>
+        </form>
 
       <!-- Ugly and clunky; need to move to a UI framework -->
       <ul class="card_pull">
@@ -73,6 +96,10 @@
         <li id="bot_cards1_29"></li>
       </ul>
 
+
+      <script>
+          generate_new_booster();
+      </script>
 
     </body>
 </html>
