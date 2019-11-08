@@ -213,6 +213,7 @@ function initialize_form_from_params(form_id, form_defaults) {
       // TODO: Need to support other form elements.   Drop downs, Textfields.
       switch( $(this).prop('type') ) {
         case 'checkbox':
+        case 'radio':
           if($(this).attr('name') == pair[0] && $(this).attr('value') == pair[1]) {
             $(this).attr('checked', true);
           }
