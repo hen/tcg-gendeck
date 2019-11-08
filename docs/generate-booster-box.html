@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Generate W1 Booster Box</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <h1>Generated W1 Booster Box</h1>
+
+        <p>Simulated Bots for a W1 Booster Box. </p>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="tcg-lib.js"></script>
+
+        <script>
+
+            $.getJSON( "https://hen.github.io/tcg-gendeck/json/bot-cards.json", function( data ) {
+              for(i=0; i<30; i++) {
+                pull_bots(data, wave1, "1_"+i)
+              }
+            });
+        </script>
+
+        <style>
+          .small_card:hover { z-index: 100 !important; }
+          .bot_card { display: inline; }
+          .bot_card img { width: 375px; height: 525px; }
+          .small_card { position: absolute; left: 500px; top: 15px; }
+          .small_card img { width: 250px; height: 350px; }
+          ul { list-style: none; }
+          .card_pull { position: relative; }
+          .col2 { padding-left: 250px; }
+          .col3 { padding-left: 250px; }
+          td { padding-bottom: 100px; }
+        </style>
+
+      <!-- Ugly and clunky; need to move to a UI framework -->
+      <ul class="card_pull" style="z-index: 10">
+        <li><ul id="bot_cards1_0"></ul></li>
+        <li><ul id="bot_cards1_1"></ul></li>
+        <li><ul id="bot_cards1_2"></ul></li>
+        <li><ul id="bot_cards1_3"></ul></li>
+        <li><ul id="bot_cards1_4"></ul></li>
+        <li><ul id="bot_cards1_5"></ul></li>
+        <li><ul id="bot_cards1_6"></ul></li>
+        <li><ul id="bot_cards1_7"></ul></li>
+        <li><ul id="bot_cards1_8"></ul></li>
+        <li><ul id="bot_cards1_9"></ul></li>
+        <li><ul id="bot_cards1_10"></ul></li>
+        <li><ul id="bot_cards1_11"></ul></li>
+        <li><ul id="bot_cards1_12"></ul></li>
+        <li><ul id="bot_cards1_13"></ul></li>
+        <li><ul id="bot_cards1_14"></ul></li>
+        <li><ul id="bot_cards1_15"></ul></li>
+        <li><ul id="bot_cards1_16"></ul></li>
+        <li><ul id="bot_cards1_17"></ul></li>
+        <li><ul id="bot_cards1_18"></ul></li>
+        <li><ul id="bot_cards1_19"></ul></li>
+        <li><ul id="bot_cards1_20"></ul></li>
+        <li><ul id="bot_cards1_21"></ul></li>
+        <li><ul id="bot_cards1_22"></ul></li>
+        <li><ul id="bot_cards1_23"></ul></li>
+        <li><ul id="bot_cards1_24"></ul></li>
+        <li><ul id="bot_cards1_25"></ul></li>
+        <li><ul id="bot_cards1_26"></ul></li>
+        <li><ul id="bot_cards1_27"></ul></li>
+        <li><ul id="bot_cards1_28"></ul></li>
+        <li><ul id="bot_cards1_29"></ul></li>
+      </ul>
+
+
+    </body>
+</html>
