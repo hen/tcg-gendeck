@@ -6875,7 +6875,10 @@
         "Card #": "046/081",
         "Artist/Illustrator(s)": "Guido Guidi",
         "Check Prices (TCGPlayer)": "https://shop.tcgplayer.com/transformers-tcg/wave-1/multi%20mission%20gear?partner=TransformerscardsE&utm_campaign=affiliate&utm_medium=Transformerscards&utm_source=Transformerscards",
-        "Faction": "Mercenaries"
+        "Faction": "Mercenaries",
+        "Format Bans": [
+          "recjxrGlbIZwzKIDr"
+        ]
       },
       "createdTime": "2019-02-08T05:31:18.000Z"
     },
